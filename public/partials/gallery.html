@@ -1,0 +1,39 @@
+<div class="row" ng-controller="galleryController">
+    
+    <h3>Genres</h3>
+    <form name="genres">
+        <input type="radio" ng-model="selectedGenre" value="" /> All
+        <input type="radio" ng-model="selectedGenre" value="Action" checked/> Action
+
+        <input type="radio" ng-model="selectedGenre" value="Adventure"/> Adventure
+        <input type="radio" ng-model="selectedGenre" value="Animation"/> Animation
+        <input type="radio" ng-model="selectedGenre" value="Biography"/> Biography
+        <input type="radio" ng-model="selectedGenre" value="Comedy"/> Comedy
+        <input type="radio" ng-model="selectedGenre" value="Crime"/> Crime
+        <input type="radio" ng-model="selectedGenre" value="Drama"/> Drama
+        <input type="radio" ng-model="selectedGenre" value="Family"/> Family
+        <input type="radio" ng-model="selectedGenre" value="Fantasy"/> Fantasy
+        <input type="radio" ng-model="selectedGenre" value="Film-Noir"/> Film-Noir
+        <input type="radio" ng-model="selectedGenre" value="History"/> History
+        <input type="radio" ng-model="selectedGenre" value="Horror"/> Horror
+        <input type="radio" ng-model="selectedGenre" value="Music"/> Music
+        <input type="radio" ng-model="selectedGenre" value="Musical"/> Musical
+        <input type="radio" ng-model="selectedGenre" value="Mystery"/> Mystery
+        <input type="radio" ng-model="selectedGenre" value="Romance"/> Romance
+        <input type="radio" ng-model="selectedGenre" value="Sci-Fi"/> Sci-Fi
+        <input type="radio" ng-model="selectedGenre" value="Sport"/> Sport
+        <input type="radio" ng-model="selectedGenre" value="Thriller"/> Thriller
+        <input type="radio" ng-model="selectedGenre" value="War"/> War
+        <input type="radio" ng-model="selectedGenre" value="Western"/> Western
+    </form>
+
+    <div class="gallery">
+        <ul>
+            <li ng-repeat="movie in movies | filter:{genre: selectedGenre}"> 
+                <a ng-href="#/details/{{ movie.rank }}"> <img ng-src="./data/images/{{ movie.imdbID }}.jpg"/> </a>
+                <div class=".movie_title"><span>{{ movie.title }}</span></div>
+            </li>
+        </ul>
+    </div>
+
+</div>
