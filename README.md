@@ -1,3 +1,4 @@
+'''bash
 # HireMe
 
 git clone https://github.com/matthewly/HireMe.git
@@ -7,4 +8,4 @@ bower install
 grunt compass
 grunt uglify
 grunt
-
+'''
