@@ -1,142 +1,330 @@
-h1, h3, h4 {
-	text-align: center;
-}
-
-nav {
-	
+/* Navigation */
+#nav {
+	position: fixed;
+	top: 0;
 	width: 100%;
+	z-index: 9999;   
 }
 
-nav ul {
-	list-style-type: none;
-	text-align: center;
+#nav-mobile {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 9999;   
 }
 
-nav ul li {
-	display: inline-block;
-}
-
-nav ul li a {
-	color: white;
-}
-
-nav ul li a:hover {
-	color: white;
-}
-
-.row {
-	text-align: center;
-}
-
-.row form {
-	margin: 0 auto;
-}
-
-.row ul {
-	list-style-type: none;
-}
-
-.userInput {
-	width: 50%;
-	background-color: $input_container;
-	margin: 0 auto;
-	height: 200px;
-	text-align: left;
-	position: relative;
-}
-
-.user_input_container {
-	padding-top: 2%;
-	margin: 0 3%;
-}
-
-.movies {
-	width: 50%;
-	margin: 0 auto;
-	text-align: left;
-}
-
-.movies li {
-	display: block;
-	height: 60px;
-	background-color: $silver;
-	border-top: solid 1px;
-	border-color: $gray;
-	padding: 5px;
-}
-
-.movies li:hover {
-	background-color: $gray;
-}
-
-.movies p {
-	margin-bottom: 0;
-	font-size: 0.9em;
-	line-height: 1.3;
-}
-
-.movies a {
-	text-decoration: none;
+.menu a {
 	color: $black;
 }
 
-.movies img {
-	height: 50px;
-	width: 50px;
-	float: left;
-	padding-right: 5px;
+.menu li:hover a{
+	text-decoration: underline;
 }
 
-.gallery ul li {
-	display: inline-block;
-	margin-left: 1%;
-	margin-right: 1%;
-	padding-top: 1%;
-	padding-bottom: 1%;
-	width: 250px;
-	height: auto;
+.mobile-menu {
+	position: fixed;
+	top: 42px;
+	width: 100%;
+	z-index: 9999;
+	height: 80px;
+	background-color: $mobile_menu_bg_color;
+	display: none;
 }
 
-.gallery img {
-	width: 200px;
-	height: 300px;
+.mobile-menu ul {
+	list-style-type: none;
+	left: -20px;
+	position: relative;
+	width: 100%;
 }
 
-.movie_title {
-	margin-top: 25px;
-	height: 25px;
+.mobile-menu li {
+	height: 40px;
+	color: $mobile_menu_font_color;
+	border-style: solid;
+	border-color: $mobile_menu_border;
+	@include border_bottom();
+	border-width: 1px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 20px;
 }
 
-.details {
-	width: 50%;
-	height: auto;
-	background-color: $silver;
-	margin: 0 auto;
+.mobile-menu li:hover {
+	background-color: $mobile_menu_bg_hover;
+}
+
+@media (min-width: 640px) {
+	.mobile-menu {
+		display: none;
+	}
+}
+.top-bar {
+	@include nav_transition(0.4s);
+}
+#nav li {
+	@include nav_transition(0.4s);
+}
+
+/* Content */
+body {
+	position: relative;
+	overflow-x: hidden;
+}
+
+h1 {
+	font-size: $title;
+}
+
+h2 {
+	font-size: $sub_title;
+}
+
+h3 {
+	text-align: center;
+}
+
+.normal {
+	font-weight: normal;
+	float: right;
+}
+
+.header {
+	position: relative;
+	background-image: url("../data/pics/skyline.jpg");
+	background-size: cover;
+	background-position: 100% 50%;
+	height: 520px;
+}
+
+.header a:link {
+	color: white;
+}
+
+.header-text {
+	color: $white;
+    position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.intro-buttons button {
+	border-style: solid;
+	border-width: 2px;
+	padding: 5px;
+	margin: 5px;
+	font-weight: bold;
+}
+
+.intro-buttons button:hover {
+	background-color: $gray;
+}
+
+.fullwidth {
+	width: 100%;
+}
+
+.stripe {
+	height: 500px;
 	position: relative;
 }
 
+@media (max-width: 1024px) {
+	.stripe .even {
+		height: 1000px;
+	}
+}
+
+.odd {
+	background-color: $white;
+}
+
+.even {
+	background-color: $silver;
+}
+
+.examples a {
+	color: $gray;
+}
+.examples h2 {
+	text-align: center;
+	font-size: 30px;
+}
+
+.carousel {
+	text-align: center;
+}
+
+.carousel p {
+	color: $blue;
+	font-weight: bold;
+}
+
+.slick-prev:before, .slick-next:before{
+    color: $gray;
+    font-size: 30px;
+}
+
+.slick-prev {
+	left: 45px;
+	z-index: 9000;
+	width: 33px;
+	height: 30px;
+}
+
+.slick-next {
+	right: 45px;
+	width: 33px;
+	height: 30px;
+}
+
+.details, .video {
+	margin: 50px auto;
+}
+
+@media (max-width: 1024px) {
+	.details, .video {
+		margin: 0 auto;
+	}
+
+	section.even {
+		height: auto;
+	}
+}
+
+.details h2 {
+	font-weight: bold;
+}
+
 .details ul {
-	list-style-type: none;
+	list-style-image: url('../data/pics/checkmark.png');
 }
 
-.details img {
-	margin: 0 auto;
-	display: block;
-	height: 300px;
+.video {
+	position: relative;
+	padding-bottom: 15px;
+	padding-top: 30px;
+	height: 100%;
+	overflow: hidden;
+	max-width: 627px;
 }
 
-.rank {
+video {
+	position:absolute;
+	top: 65px;
+	left: 28px;
+	width: 85%;
+	max-width: 490px;
+}	
+
+@media (max-width: 640px) {
+	.video {
+		padding-top: 0;
+	}
+}
+
+.bg {
+	background-image: url('../data/pics/skyline.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 300px;
+}
+
+.form-title {
+	margin: 5px;
+	font-size: 24px;
+}
+.job-form {
 	position: absolute;
-	top: 0;
+	width: 800px;
+	top: 50%;
+	left: 60%;
+	transform: translate(-50%, -50%);
+}
+
+.job-form input:nth-child(1), .job-form input:nth-child(2) {
+	width: 300px;
+	display: inline-block;
+	margin: 5px;
+}
+
+.job-form button {
+	margin-top: 11px;
+}
+
+.search_btn {
+	background-color: $green;
+	border-radius: 3px;
+	margin-left: 6px;
+}
+
+.search_btn:hover {
+	background-color: $button_hover;
+}
+
+/* Modal */
+
+.adv_section {
+	text-align: center;
+}
+.adv_section_left, .adv_section_right {
+	display: inline-block;
+	margin: 4%;
+	text-align: center;
+}
+
+.adv_section input {
+	margin: 0 auto;
+}
+
+#adv_search_btn {
+	position: relative;
 	left: 50%;
 	transform: translateX(-50%);
-	margin: 2%;
 }
 
-.nav-container .button{
-	margin: 2%;
+@media (max-width: 820px) {
+	.job-form input:nth-child(1), .job-form input:nth-child(2) {
+		display: block;
+		margin: 5px auto;
+	}
+
+	.job-form {
+		text-align: center;
+		left: 50%;
+	}
 }
 
-.right {
-	float: right;
+.no-link {
+   pointer-events: none;
+   cursor: default;
+}
+
+/* Footer */
+footer {
+	position: relative;
+	height: 100px;
+}
+
+.footer {
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.media {
+	height: 30px;
+	width: 30px;
+}
+
+@media (max-width: 368px) {
+	.media {
+		height: 18px;
+		width: 18px;
+	}
 }

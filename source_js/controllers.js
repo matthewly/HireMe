@@ -38,12 +38,10 @@ app.controller('galleryController', ['$scope', '$http', function($scope, $http) 
 	});
 }]);
 
-app.controller('listController', ['$scope', '$http', function($scope, $http) {
-	$http.get('data/imdb250.json').success(function(data) {
-		$scope.movies = data;
-	}).error(function (err) {
-		console.log(err);
-	});
+app.controller('homeController', ['$scope', '$http', function($scope, $http) {
+	
+}]);
 
-	$scope.predicate = 'rank';
+app.controller('indexController', ['$scope', '$http', function($scope, $http) {
+	
 }]);
