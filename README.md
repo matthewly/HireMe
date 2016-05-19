@@ -1,17 +1,24 @@
 # Overview
 HireMe is a job search engine utilizing Google's advanced search operators that integrates data from Glassdoor and Payscale.
 
-*Link*: http://162.243.71.124:3000/
+*Link*: TBD
 
-## Installation
+## Getting Started
+Client Side:
 ```bash
-git clone https://github.com/matthewly/HireMe.git
-cd HireMe
+cd client-side
 npm install
 bower install
 grunt compass
 grunt uglify
 grunt
+```
+
+Server Side:
+```bash
+cd server-side
+npm install
+node server.js
 ```
 
 ## Built With
