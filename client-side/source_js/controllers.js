@@ -19,25 +19,28 @@ HireMeControllers.controller('searchController', ['$scope', '$http', '$cookies',
 }]);
 
 HireMeControllers.controller('internshipController', ['$scope', '$http', '$cookies', function($scope, $http, $cookies) {
-	$scope.overall_rating = "test";
 
 	$http.get('data/internships.json').success(function(data) {
-		$scope.items = data.items;
-
-		// for (var i = 0; i < items.length; i++) {
-		// 	if (items[i].displayLink ==)
-		// }
-
+		var items = data.items;
+		console.log('length  = '+$scope.items.length);
+		/* Get job_title and company_name */
+		for(var i=0;i<=items.length;i++){
+			
+		}
+        items[i]
+		var job_title = "";
+		var company_name = "";
+		
 		$http.jsonp('http://api.glassdoor.com/api/api.htm?v=1&format=json&t.p=69178&t.k=k0TM4AtrHme&action=employers&userip=88.192.249.8&useragent=Mozilla/%2F5.0"&q=riot games&callback=JSON_CALLBACK').success(function(data) {
-			console.log(data);
 			$scope.overall_rating = data.response.employers[0].overallRating;
-			console.log($scope.overall_rating);
+			$scope.num_of_ratings = data.response.employers[0].numberOfRatings;
 		}).error(function(err) {
 			console.log(err);
 		});
-	
+
 	}).error(function (err) {
 		console.log(err);
 	});
 
+	
 }]);

@@ -1,7 +1,6 @@
 <div ng-controller="internshipController">
-<p>{{overall_rating}}</p>
 	<ul>
-		<li ng-repeat="item in items"><b>{{item.title}}</b> | {{item.displayLink}}</li> 
+		<li ng-repeat="item in items"><b>{{item.title}}</b> | {{item.displayLink}} | <b>Glassdoor rating: {{overall_rating}} ({{num_of_ratings}})</b></li>
 	</ul>
 
 </div>
