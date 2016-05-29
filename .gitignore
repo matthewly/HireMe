@@ -1,3 +1,8 @@
 **/.DS_Store
 .sass-cache
 .sass-cache/*
+client-side/.sass-cache/*
+client-side/bower_components/*
+client-side/node_modules/*
+client-side/npm-debug.log
+server-side/node_modules/*

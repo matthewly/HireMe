@@ -7,6 +7,8 @@
     "sskhandek <sskhandek@gmail.com>"
   ],
   "dependencies": {
+    "angular": "^1.5.5",
+    "angular-cookies": "^1.5.5",
     "express": "^4.11.1",
     "grunt": "~0.4.2",
     "grunt-contrib-clean": "^0.6.0",

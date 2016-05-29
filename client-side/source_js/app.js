@@ -1,4 +1,4 @@
-var app = angular.module('HireMe',['ngRoute']);
+var app = angular.module('HireMe', ['ngRoute', 'HireMeControllers', 'HireMeServices']);
 
 app.directive('head', ['$rootScope','$compile',
     function($rootScope, $compile){
@@ -41,6 +41,10 @@ app.config(function ($routeProvider) {
 			templateUrl : 'partials/search.html',
 			controller : 'searchController'
 		})
+        .when('/internships', {
+            templateUrl : 'partials/internships.html',
+            conroller : 'internshipController'
+        })
 		.otherwise({ // if url doesn't exist, go to /home
 			redirectTo: '/home'
 		});

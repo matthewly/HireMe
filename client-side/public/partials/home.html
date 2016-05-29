@@ -77,10 +77,10 @@
    <section class="row stripe odd" id="search">
      <div class="job-form">
        <div class="form-title"><b>HireMe</b> | Job Search Engine</div>
-       <form> <!-- action="demo.asp" -->
-        <input type="text" name="title" placeholder="job title,  company, or keywords" ng-model="Data.title">
-        <input type="text" name="location" placeholder="city, state, or zip" ng-model="Data.location">
-        <a href="#/search"><button class="secondary hollow button" ng-click="callSearch(title, location);">Search</button></a>
+       <form>
+        <input type="text" name="title" placeholder="job title,  company, or keywords" ng-model="search_query.title">
+        <input type="text" name="location" placeholder="city, state, or zip" ng-model="search_query.location">
+        <button class="secondary hollow button" ng-click="search_submit();">Search</button>
        </form>
        <button type="button" class="button search_btn" id="advanced" data-open="advanced_search">Advanced Search</button>
      </div>
@@ -122,9 +122,8 @@
    <footer class="even">
      <div class="footer"><a href="#/home/#"><img src="./data/pics/facebook.png" class="media"></a> <a href="#/home/#"><img src="./data/pics/twitter.png" class="media"></a> | HireMe | <a href="#/home/#">F.A.Q.</a> | <a href="#/home/#">Contact</a></div>
    </footer>
+
+   <script src="./js/script.js"></script>
  </div>
 
- <script src="./js/script.js"></script>
-<script>
-   $(document).foundation();
-</script>
+ 

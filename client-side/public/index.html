@@ -19,10 +19,12 @@
     
     <!-- Angular Scripts -->
     <!-- NOTE: removing the ".min." can help debugging in the console-->
-    <script src="./lib/angular/angular.js"></script>
+   <script src="./lib/angular/angular.js"></script>
     <script src="./lib/angular-route/angular-route.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular-cookies.js"></script>
     <script src="./js/app.js"></script>
     <script src="./js/controllers.js"></script>
+    <script src="./js/services.js"></script>
 </head>
 
 <body ng-app="HireMe">
@@ -34,7 +36,9 @@
 
     <!-- Scripts -->
     
-    
+    <script>
+        $(document).foundation();
+    </script>
     <script src="http://localhost:35729/livereload.js"></script>
 </body>
 </html>
