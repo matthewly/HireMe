@@ -22,7 +22,7 @@ node server.js
 ```
 
 ## Built With
-Node.js, Express, AngularJS, Foundation, jQuery, slick, [MongoDB, Glassdoor & Payscale API]
+Node.js, Express, AngularJS, Foundation, jQuery, slick, [MongoDB, Glassdoor API]
 
 ## Screenshots
 ![Alt text](/screenshots/screenshot1.png "screenshot1")
