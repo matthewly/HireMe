@@ -1,10 +1,9 @@
 {
-  "name": "mp3",
-  "version": "2.0",
-  "homepage": "https://github.com/uiuc-web-programming/mp3",
+  "name": "HireMe",
+  "version": "1.0",
+  "homepage": "https://github.com/matthewly/HireMe",
   "authors": [
-    "biplabdeka <biplab.deka@gmail.com>",
-    "sskhandek <sskhandek@gmail.com>"
+    "Matthew Ly <matthewly@gmail.com>"
   ],
   "ignore": [
     "**/.*",
