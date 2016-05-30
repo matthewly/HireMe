@@ -1,0 +1,313 @@
+{
+    "count": 28, 
+    "items": [
+        {
+            "website": "www.twitch.tv", 
+            "snippet": "Not all Software Engineers fit neatly into a bucket. Luckily, neither do all of the \nthings that need to get done here at Twitch. If you're a smart engineer who's\u00a0...", 
+            "overallRating": "4.4", 
+            "industry": "Video Games", 
+            "numberOfRatings": "53", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/twitch.png", 
+            "link": "https://jobs.lever.co/twitch/a5f652d5-4f30-40ae-a860-14b869b5a445", 
+            "company_name": "Twitch", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.thumbtack.com", 
+            "snippet": "As a Software Engineer, you'll be responsible for helping bring the Thumbtack \nvision to life. You'll work in collaboration with engineering, product, and design to\n\u00a0...", 
+            "overallRating": "4.6", 
+            "industry": "Internet", 
+            "numberOfRatings": "98", 
+            "image_link": "", 
+            "link": "https://boards.greenhouse.io/thumbtack/jobs/723", 
+            "company_name": "Thumbtack", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.twitch.tv", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/twitch.png", 
+            "overallRating": "4.4", 
+            "industry": "Video Games", 
+            "numberOfRatings": "53", 
+            "snippet": "Not all Software Engineers fit neatly into a bucket. Luckily, neither do all of the \nthings that need to get done here at Twitch. If you're a smart engineer who's\u00a0...", 
+            "link": "https://jobs.lever.co/twitch/8c4d515e-0267-4ca0-884b-156f24d6b43d", 
+            "company_name": "Twitch", 
+            "job_title": "Senior Software Engineer"
+        }, 
+        {
+            "website": "www.snapchat.com", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/321/original/Snapchat_Logo.jpg?1389641053", 
+            "overallRating": "4.5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "30", 
+            "snippet": "In a QA Engineer we're looking for someone who can work under minimal ... Test \napp performance, usability, hardware/software compatibility; Participate in\u00a0...", 
+            "link": "https://boards.greenhouse.io/snapchat/jobs/6406", 
+            "company_name": "Snapchat", 
+            "job_title": "QA Engineer"
+        }, 
+        {
+            "website": "www.instructure.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/Instructure.png", 
+            "overallRating": "4.7", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "111", 
+            "snippet": "We are dedicated to the fight against iffy, mothbally, shoddy software. We make ... \nSkilled full stack developer, or an expert back-end and DevOps developer.", 
+            "link": "https://jobs.lever.co/instructure/05fd95ac-7058-4e6c-a77c-e483c4bfea4d", 
+            "company_name": "Instructure", 
+            "job_title": "Senior Software Engineer"
+        }, 
+        {
+            "website": "www.twitch.tv", 
+            "snippet": "Twitch's Platforms Engineering team is responsible for developing our viewing \napplications on a wide variety of target platforms including mobile (iOS, Android),\n\u00a0...", 
+            "overallRating": "4.4", 
+            "industry": "Video Games", 
+            "numberOfRatings": "53", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/twitch.png", 
+            "link": "https://jobs.lever.co/twitch/82c0a455-afb1-4b09-9c46-fe1cb9716c0b", 
+            "company_name": "Twitch", 
+            "job_title": "Mobile Software Engineer"
+        }, 
+        {
+            "website": "www.palantir.com", 
+            "snippet": "At Palantir, we're passionate about building software that solves problems. We \npartner with the most important institutions in the world to transform how they use\n\u00a0...", 
+            "overallRating": "4.3", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "218", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/b8300af6-ed1c-4d0b-8956-cee7839555b9-1461255924321.png", 
+            "link": "https://jobs.lever.co/palantir/dab396d4-2f14-4796-aac0-0d82883dccf0", 
+            "company_name": "Palantir Technologies", 
+            "job_title": "Forward Deployed Software Engineer"
+        }, 
+        {
+            "website": "www.usebutton.com", 
+            "snippet": "You will own and create a phenomenal developer experience for all Button \nproducts ... and evolving mobile or web applications - you're an engineer at heart!", 
+            "overallRating": "5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "4", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/Button.png", 
+            "link": "https://jobs.lever.co/button/2cddb9c9-ed9d-4597-89fc-3dc3ed724e3f", 
+            "company_name": "Button", 
+            "job_title": "Developer Evangelist"
+        }, 
+        {
+            "website": "www.snapchat.com", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/321/original/Snapchat_Logo.jpg?1389641053", 
+            "overallRating": "4.5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "30", 
+            "snippet": "We are looking for candidates with strong analytical and software skills to join our \nteam. What you'll do: Develop the state of the scientific art approaches to\u00a0...", 
+            "link": "https://boards.greenhouse.io/snapchat/jobs/54667", 
+            "company_name": "Snapchat", 
+            "job_title": "Research Engineer"
+        }, 
+        {
+            "website": "www.palantir.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/b8300af6-ed1c-4d0b-8956-cee7839555b9-1461255924321.png", 
+            "overallRating": "4.3", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "218", 
+            "snippet": "At Palantir, we're passionate about building software that solves problems. We \npartner with the most important institutions in the world to transform how they use\n\u00a0...", 
+            "link": "https://jobs.lever.co/palantir/1619afea-6923-4047-a913-c92939b1ef0b", 
+            "company_name": "Palantir Technologies", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.lever.co", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/lever-logo.png", 
+            "overallRating": "5", 
+            "industry": "Internet", 
+            "numberOfRatings": "11", 
+            "snippet": "Not only will you learn how to develop on a modern, real-time framework, you'll \nbe building enterprise-grade software on top of it. To do so, you'll exercise\u00a0...", 
+            "link": "https://jobs.lever.co/lever/f6eb3fa6-0ba5-4178-b1ae-e4e0448ba175", 
+            "company_name": "Lever", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.twitch.tv", 
+            "snippet": "Twitch is looking for a focused Security Engineer with deep technical skills ... \nDemonstrated software development proficiency (C/C++, Python, Perl, Java, etc.)\n\u00a0...", 
+            "overallRating": "4.4", 
+            "industry": "Video Games", 
+            "numberOfRatings": "53", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/twitch.png", 
+            "link": "https://jobs.lever.co/twitch/e86a8238-e5e0-4320-bbdd-a70c68ff1cda", 
+            "company_name": "Twitch", 
+            "job_title": "Information Security Engineer"
+        }, 
+        {
+            "website": "www.lightspeedpos.com", 
+            "snippet": "About us: Lightspeed provides retailers and restaurateurs the simplest way to \nbuild, manage, and grow their business while creating a better customer\u00a0...", 
+            "overallRating": "4.4", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "30", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/001/269/original/logo-red-bl.png?1431721117", 
+            "link": "https://boards.greenhouse.io/lightspeedpos/jobs/114546", 
+            "company_name": "Lightspeed", 
+            "job_title": "Developer, Back-end (PHP)"
+        }, 
+        {
+            "website": "www.dots.com", 
+            "snippet": "We are looking for a mid to senior level Unity Developer to join our ... Putting an \nengineer in a place to learn new things, according to what they want to learn is\u00a0...", 
+            "overallRating": "3", 
+            "industry": "Department, Clothing, & Shoe Stores", 
+            "numberOfRatings": "149", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/847/original/Dots_logo-15_copy.png?1418669423", 
+            "link": "https://boards.greenhouse.io/dots/jobs/39381", 
+            "company_name": "Dots", 
+            "job_title": "Unity Developer"
+        }, 
+        {
+            "website": "www.khanacademy.org", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/457/original/KALogo-xlarge-01.png?1434944645", 
+            "overallRating": "4.6", 
+            "industry": "K-12 Education", 
+            "numberOfRatings": "18", 
+            "snippet": "Khan Academy is looking for talented software developers to create a free virtual \nclassroom for the world. Join us on our mission to provide a free world-class\u00a0...", 
+            "link": "https://boards.greenhouse.io/khanacademy/jobs/15827", 
+            "company_name": "Khan Academy", 
+            "job_title": "Software Developer - Intern"
+        }, 
+        {
+            "website": "www.snapchat.com", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/321/original/Snapchat_Logo.jpg?1389641053", 
+            "overallRating": "4.5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "30", 
+            "snippet": "Hi Fellow Mobile Software Engineer! Here at Snapchat, we think that mobile is \nnot only the future, but also the present. We work hard to build first-rate iOS and\u00a0...", 
+            "link": "https://boards.greenhouse.io/snapchat/jobs/6403", 
+            "company_name": "Snapchat", 
+            "job_title": "Mobile Software Engineer"
+        }, 
+        {
+            "website": "www.udacity.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1456507702873.png", 
+            "overallRating": "4.2", 
+            "industry": "Education Training Services", 
+            "numberOfRatings": "29", 
+            "snippet": "Course Developer ... We teach modern programming, software development, \ndata science, product design, and entrepreneurship in an engaging, accessible\u00a0...", 
+            "link": "https://jobs.lever.co/udacity/d914affd-f5cd-4b9a-af96-45565c2c2441", 
+            "company_name": "Udacity", 
+            "job_title": "Course Developer"
+        }, 
+        {
+            "website": "www.lever.co", 
+            "snippet": "Our Sales Engineer will bring the technical prowess needed to close new \ncustomers ... Lever builds software for teams to source, interview, and hire top \ntalent.", 
+            "overallRating": "5", 
+            "industry": "Internet", 
+            "numberOfRatings": "11", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/lever-logo.png", 
+            "link": "https://jobs.lever.co/lever/f4758b36-252a-4587-afda-c512ef31b16e", 
+            "company_name": "Lever", 
+            "job_title": "Sales Engineer"
+        }, 
+        {
+            "website": "www.graphiq.com", 
+            "snippet": "As a software engineer, you will join a small team of elite developers working to \nbuild the fastest, most comprehensive, and user-friendly knowledge platform in\u00a0...", 
+            "overallRating": "4.8", 
+            "industry": "Internet", 
+            "numberOfRatings": "16", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/graphiqlogo", 
+            "link": "https://jobs.lever.co/graphiq/813e2d94-60fe-44ee-adb8-3ba231d7a68e", 
+            "company_name": "Graphiq", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.blendlabs.com", 
+            "snippet": "Blend is a San Francisco based startup building technology to empower banks to \nbecome better mortgage lenders. We are transforming home lending \u2013 a\u00a0...", 
+            "overallRating": "4.8", 
+            "industry": "Lending", 
+            "numberOfRatings": "6", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/blend-logo-light.png", 
+            "link": "https://jobs.lever.co/blendlabs/ecccb3f7-d3d7-41fb-b2fb-32352c578813", 
+            "company_name": "Blend", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.robinhood.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/robinhood2x.png", 
+            "overallRating": "-1", 
+            "industry": "Brokerage Services", 
+            "numberOfRatings": "1", 
+            "snippet": "We are seeking an experienced frontend engineer to build Robinhood for web. \nThis is an incredible opportunity to create a product from scratch that has a built\u00a0...", 
+            "link": "https://jobs.lever.co/robinhood/6d1e6551-d825-43eb-827c-0c2d8bb21c26", 
+            "company_name": "Robinhood", 
+            "job_title": "Web Engineer"
+        }, 
+        {
+            "website": "www.snapchat.com", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/321/original/Snapchat_Logo.jpg?1389641053", 
+            "overallRating": "4.5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "30", 
+            "snippet": "The ideal candidate will thrive to ensure all of our software and infrastructure is \ndesigned and implemented with best security practices in mind. You will work\u00a0...", 
+            "link": "https://boards.greenhouse.io/snapchat/jobs/12839", 
+            "company_name": "Snapchat", 
+            "job_title": "Information Security Engineer"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/ClassDojo200.png", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "As a full-stack engineer at ClassDojo, you'll help build the systems that will \nsupport our rapid growth. You'll work on production code from day one, deploy \noften,\u00a0...", 
+            "link": "https://jobs.lever.co/classdojo/44e9813c-1e8c-4529-88f8-0e5527da4580", 
+            "company_name": "ClassDojo", 
+            "job_title": "Full-stack Engineer"
+        }, 
+        {
+            "website": "www.retentionscience.com", 
+            "snippet": "You are passionate about how software drives business and how SaaS has \ntransformed the consumption of software. As a Client Success Engineer, you'd \njoin\u00a0...", 
+            "overallRating": "5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "5", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/retention%20science.png", 
+            "link": "https://jobs.lever.co/retentionscience/6ff00ac0-f888-409f-9886-5d4cefb09d03", 
+            "company_name": "Retention Science", 
+            "job_title": "Client Success Engineer"
+        }, 
+        {
+            "website": "www.upworthy.com", 
+            "snippet": "We're looking for a curious, driven Junior Web Engineer to join our team. ... you \ncan become a better software engineer and learn how a high-traffic site is built? \n... or you are a dedicated, self-taught developer with some real-world experience.", 
+            "overallRating": "2.8", 
+            "industry": "Publishing", 
+            "numberOfRatings": "11", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/175/original/up-logo.png?1453351915", 
+            "link": "https://boards.greenhouse.io/upworthy/jobs/187381", 
+            "company_name": "Upworthy", 
+            "job_title": "Junior Web Engineer"
+        }, 
+        {
+            "website": "www.apple.com", 
+            "snippet": "Genius began as a website for decoding rap lyrics and has since evolved into the \nInternet's best source for musical knowledge, with more than 40 million\u00a0...", 
+            "overallRating": "4", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "7687", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/585/original/Genius_logo_full.png?1447884334", 
+            "link": "https://boards.greenhouse.io/genius/jobs/127666", 
+            "company_name": "Genius", 
+            "job_title": "Software Engineer In Test"
+        }, 
+        {
+            "website": "www.thumbtack.com", 
+            "image_link": "", 
+            "overallRating": "4.6", 
+            "industry": "Internet", 
+            "numberOfRatings": "98", 
+            "snippet": "Passionate Android engineer who is comfortable building, testing, releasing, and \n... and dedicated to thorough testing to maintain high-quality software\u00a0...", 
+            "link": "https://boards.greenhouse.io/thumbtack/jobs/734", 
+            "company_name": "Thumbtack", 
+            "job_title": "Android Engineer"
+        }, 
+        {
+            "website": "www.snapchat.com", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/321/original/Snapchat_Logo.jpg?1389641053", 
+            "overallRating": "4.5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "30", 
+            "snippet": "Snapchat is looking for a talented and well-reasoned security engineer to help \nstrengthen all facets of our security program. The ideal candidate will leverage\u00a0...", 
+            "link": "https://boards.greenhouse.io/snapchat/jobs/20702", 
+            "company_name": "Snapchat", 
+            "job_title": "Security Engineer"
+        }
+    ]
+}

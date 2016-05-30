@@ -11,8 +11,12 @@ app.config(function ($routeProvider) {
 			controller : 'searchController'
 		})
         .when('/internships', {
-            templateUrl : 'partials/internships.html',
-            conroller : 'internshipController'
+        	templateUrl : 'partials/internships.html',
+        	controller : 'internshipController'
+        })
+        .when('/fulltime', {
+        	templateUrl : 'partials/fulltime.html',
+        	controller : 'fulltimeController'
         })
 		.otherwise({ // if url doesn't exist, go to /home
 			redirectTo: '/home'

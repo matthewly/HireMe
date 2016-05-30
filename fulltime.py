@@ -1,14 +1,14 @@
 import requests
 import json
 
-with open('./client-side/public/data/internships.json', 'w') as outfile:
+with open('./client-side/public/data/fulltime.json', 'w') as outfile:
 #with open('internships.json', 'w') as outfile:
 	data = {}
 	items = []
 
 	for request in range(3):
 		start = str((request*10)+1)
-		r = requests.get('https://www.googleapis.com/customsearch/v1?q=software+OR+engineer+OR+developer&cx=007494023296931513621%3Awwnjyngqucm&exactTerms=intern+OR+internship&start='+start+'&key=AIzaSyASVujTnW38PIlTZs9dbbEiGHiGs29Ixlo').json()
+		r = requests.get('https://www.googleapis.com/customsearch/v1?q=software+OR+engineer+OR+developer&cx=007494023296931513621%3Awwnjyngqucm&start='+start+'&key=AIzaSyASVujTnW38PIlTZs9dbbEiGHiGs29Ixlo').json()
 		for item in range(10):
 			if ("jobs" in r['items'][item]['formattedUrl']) and ("..." not in r['items'][item]['title']):
 				post = {}
@@ -18,6 +18,7 @@ with open('./client-side/public/data/internships.json', 'w') as outfile:
 				# boards.greenhouse.io
 				if (r['items'][item]['displayLink'] == "boards.greenhouse.io"):
 					post['job_title'] = r['items'][item]['title'][20:].split(" at ")[0]
+					print post['job_title']
 					post['company_name'] = r['items'][item]['title'][20:].split(" at ")[1]
 	
 				# jobs.lever.co

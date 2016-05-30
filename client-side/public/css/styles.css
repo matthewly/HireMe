@@ -4462,13 +4462,87 @@ video {
   pointer-events: none;
   cursor: default; }
 
+/* Internships */
+/* line 308, ../../source_sass/_base.scss */
+.internships {
+  background: #fefefe;
+  width: 80%;
+  margin: 0 auto; }
+
+/* line 314, ../../source_sass/_base.scss */
+.internships h1 {
+  text-align: center; }
+
+/* line 318, ../../source_sass/_base.scss */
+.internships .button-grp {
+  text-align: center; }
+
+/* line 322, ../../source_sass/_base.scss */
+.internships #internship {
+  background-color: #333399; }
+
+/* line 326, ../../source_sass/_base.scss */
+.internships .active {
+  font-weight: bold; }
+
+/* line 330, ../../source_sass/_base.scss */
+.internships .job-header {
+  height: 70px;
+  margin-top: 10px; }
+
+/* line 335, ../../source_sass/_base.scss */
+.internships .job-header b, .internships .job-header i {
+  position: relative;
+  top: 12%; }
+
+/* line 340, ../../source_sass/_base.scss */
+.internships .apply {
+  width: 109px;
+  position: relative;
+  top: 50%;
+  transform: translateY(25%);
+  float: right;
+  height: 52px;
+  margin-bottom: 0px;
+  margin-right: 10px; }
+
+/* line 351, ../../source_sass/_base.scss */
+.internships .job-header img {
+  width: auto;
+  max-width: 150px;
+  height: 70px;
+  float: left;
+  margin-right: 10px;
+  margin-left: 10px; }
+
+/* line 360, ../../source_sass/_base.scss */
+.internships .job-header-info {
+  height: 70px;
+  position: relative; }
+
+/* line 365, ../../source_sass/_base.scss */
+.job-container {
+  border: 1px solid rgba(10, 10, 10, 0.5);
+  color: #0a0a0a;
+  background-color: white;
+  margin-bottom: 20px; }
+
+/* line 372, ../../source_sass/_base.scss */
+.internships .job-detail blockquote {
+  width: 90%;
+  margin: 0 auto; }
+
+/* line 377, ../../source_sass/_base.scss */
+#fulltime {
+  background-color: #40826D; }
+
 /* Footer */
-/* line 306, ../../source_sass/_base.scss */
+/* line 381, ../../source_sass/_base.scss */
 footer {
   position: relative;
   height: 100px; }
 
-/* line 311, ../../source_sass/_base.scss */
+/* line 386, ../../source_sass/_base.scss */
 .footer {
   position: absolute;
   width: 100%;
@@ -4477,13 +4551,13 @@ footer {
   left: 50%;
   transform: translate(-50%, -50%); }
 
-/* line 320, ../../source_sass/_base.scss */
+/* line 395, ../../source_sass/_base.scss */
 .media {
   height: 30px;
   width: 30px; }
 
 @media (max-width: 368px) {
-  /* line 326, ../../source_sass/_base.scss */
+  /* line 401, ../../source_sass/_base.scss */
   .media {
     height: 18px;
     width: 18px; } }
