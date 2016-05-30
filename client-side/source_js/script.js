@@ -32,7 +32,7 @@ $('.carousel').slick({
 });
 
 /* Smooth scrolling */
-$('a').click(function(){
+$('a:not(.menu-text)').click(function(){
     $('html, body').animate({
         scrollTop: $( $.attr(this, 'href') ).offset().top - 100
     }, 500);

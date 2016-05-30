@@ -1,3 +1,4 @@
+
 /* Navigation */
 #nav {
 	position: fixed;
@@ -264,6 +265,13 @@ video {
 	background-color: $button_hover;
 }
 
+.home-button-grp {
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+}
+
 /* Modal */
 
 .adv_section {
@@ -320,6 +328,7 @@ video {
 }
 
 .internships #internship { 
+	font-weight: bold;
 	background-color: #333399;
 }
 
@@ -377,6 +386,11 @@ video {
 #fulltime {
 	background-color: #40826D;
 }
+
+.home {
+	text-align: center;
+}
+
 /* Footer */
 footer {
 	position: relative;

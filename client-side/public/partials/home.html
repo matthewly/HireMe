@@ -5,12 +5,12 @@
    <!-- Navigation -->
    <div class="title-bar" id="nav-mobile" data-responsive-toggle="nav" data-hide-for="medium">
      <button class="menu-icon" id="menu-icon" type="button"></button>
-     <div class="title-bar-title">HireMe</div>
+     <div class="title-bar-title">Hire.me</div>
    </div>
    
    <div class="top-bar" id="nav">
        <ul class="menu">
-         <li class="menu-text">HireMe <div class="normal">&nbsp| Job Search Engine</div></li>
+         <li><a href="#/home" class="menu-text">Hire.me <div class="normal">&nbsp| Job Search Engine</div></a></li>
          <li><a href="#details" id="details-header">Details</a></li>
          <li><a href="#search" id="search-header">Find Jobs</a></li>
        </ul>
@@ -25,17 +25,18 @@
 
    <section class="header">
      <div class="header-text">
-       <h1><b>HireMe</b></h1>
-       <h2>Your source for jobs and career opportunities</h2>
+       <h1><b>Hire.me</b></h1>
+       <h2>Your source for technology job postings</h2>
        <div class="intro-buttons">
          <a href="#details"><button type="button">Details</button></a>
-         <a href="#search"><button type="button">Find Jobs</button></a>
+         <a href="#/fulltime"><button type="button">Find Full-time</button></a>
+         <a href="#/internships"><button type="button">Find Internships</button></a>
        </div>
      </div>
    </section>
 
    <section class="examples">
-     <h2>Example Searches</h2>
+     <h2>Example Results</h2>
      <div class="carousel">
        <div class="item"><a href="#/home/#"><i class="fa fa-laptop fa-3x"></i><p> Software Engineer</p></a></div>
        <div class="item"><a href="#/home/#"><i class="fa fa-amazon fa-3x"></i><p>Amazon</p></a></div>
@@ -57,6 +58,8 @@
            <li>HireMe integrates data from Glassdoor and PayScale, so you can filter and sort job postings by salaries, benefits, company reviews, etc.</li>
            <li>HireMe takes advantage of Google's advanced search operators to narrow job results to best match your interest.</li>
          </ul>
+
+         <i>**Search feature not yet available.</i>
        </div>
      </div>
      <div class="small-12 large-6 columns">
@@ -75,7 +78,16 @@
    </section>
 
    <section class="row stripe odd" id="search">
-     <div class="job-form">
+
+   <div class="internships">
+    <div class="button-grp home-button-grp">
+        <h2>Choose job type:</h2>
+        <a ng-href="#/fulltime"><button class="button active" id="fulltime">Full-time</button></a>
+        <a ng-href="#/internships"><button class="button primary active" id="internship">Internship</button></a>
+    </div>
+    </div>
+     <!-- JOB SEARCH ENGINE
+      <div class="job-form">
        <div class="form-title"><b>HireMe</b> | Job Search Engine</div>
        <form>
         <input type="text" name="title" placeholder="job title,  company, or keywords" ng-model="search_query.title">
@@ -83,9 +95,10 @@
         <button class="secondary hollow button" ng-click="search_submit();">Search</button>
        </form>
        <button type="button" class="button search_btn" id="advanced" data-open="advanced_search">Advanced Search</button>
-     </div>
+     </div> -->
    </section>
 
+   <!-- ADVANCED SEARCH
    <div class="reveal" id="advanced_search" data-reveal>
      <h3>Advanced Job Search.</h3>
      <div class="adv_section">
@@ -117,10 +130,10 @@
      <button class="close-button" data-close aria-label="Close modal" type="button">
        <span aria-hidden="true">&times;</span>
      </button>
-   </div>
+   </div> -->
 
    <footer class="even">
-     <div class="footer"><a href="#/home/#"><img src="./data/pics/facebook.png" class="media"></a> <a href="#/home/#"><img src="./data/pics/twitter.png" class="media"></a> | HireMe | <a href="#/home/#">F.A.Q.</a> | <a href="#/home/#">Contact</a></div>
+     <div class="footer">Follow or contact me at <a href="https://twitter.com/matthewmly" target="_blank"><img src="./data/pics/twitter.png" class="media"></a> | Hire.me</div>
    </footer>
 
    <script src="./js/script.js"></script>
