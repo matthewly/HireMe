@@ -1,4 +1,5 @@
 
+
 /* Navigation */
 #nav {
 	position: fixed;
@@ -60,6 +61,12 @@
 		display: none;
 	}
 }
+
+@media (max-width: 450px) {
+	#nav {
+		display: none;
+	}
+}
 .top-bar {
 	@include nav_transition(0.4s);
 }
@@ -98,9 +105,11 @@ h3 {
 	height: 520px;
 }
 
-.header a:link {
+.header a:link, .header a:active, .header a:visited {
 	color: white;
 }
+
+
 
 .header-text {
 	color: $white;
@@ -328,7 +337,6 @@ video {
 }
 
 .internships #internship { 
-	font-weight: bold;
 	background-color: #333399;
 }
 
@@ -337,7 +345,6 @@ video {
 }
 
 .internships .job-header {
-	height: 70px;
 	margin-top: 10px;
 }
 
@@ -346,29 +353,40 @@ video {
 	top: 12%;
 }
 
+.internships .job-header-info {
+	margin: 0 auto;
+	
+}
+
+@media (min-width: 640px) {
+	
+
+	.job-header-info {
+		margin: 0;
+		display: inline;
+	}
+}
+
 .internships .apply {
+	display: block;
 	width: 109px;
-	position: relative;
-	top: 50%;
-	transform: translateY(25%);
-	float: right;
 	height: 52px;
-	margin-bottom: 0px;
-	margin-right: 10px;
+	margin: 0 auto;
+	transform: translateY(25%);
+}
+
+.internships .apply button {
+	height: 100%;
+	width: 100%;
 }
 
 .internships .job-header img{
 	width: auto;
-	max-width: 150px;
-	height: 70px;
+	max-width: 120px;
+	height: 50px;
 	float: left;
 	margin-right: 10px;
 	margin-left: 10px;
-}
-
-.internships .job-header-info {
-	height: 70px;
-	position: relative;
 }
 
 .job-container {
@@ -381,6 +399,14 @@ video {
 .internships .job-detail blockquote {
 	width: 90%;
 	margin: 0 auto;
+}
+
+.internships .job-detail ul {
+	list-style-type: none;
+}
+
+.internships .job-detail li {
+	word-wrap: break-word;
 }
 
 #fulltime {

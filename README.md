@@ -1,7 +1,7 @@
 # Overview
-HireMe is a job search engine utilizing Google's advanced search operators that integrates data from Glassdoor and Payscale.
+HireMe is a job search engine utilizing Google's advanced search operators that integrates data from Glassdoor.
 
-*Link*: TBD
+*Link*: http://107.170.217.181:3000
 
 ## Getting Started
 Client Side:
@@ -9,9 +9,7 @@ Client Side:
 cd client-side
 npm install
 bower install
-grunt compass
-grunt uglify
-grunt
+node app.js
 ```
 
 Server Side:
@@ -23,6 +21,7 @@ node server.js
 
 ## Built With
 Node.js, Express, AngularJS, Foundation, jQuery, slick, [MongoDB, Glassdoor API]
+
 
 ## Screenshots
 ![Alt text](/screenshots/screenshot1.png "screenshot1")
