@@ -24,7 +24,7 @@ HireMeControllers.controller('fulltimeController', ['$scope', '$http', function(
 		$scope.items = data.items;
 		$scope.postings = [];
 
-		for (var i = 0; i < 25; i++) {
+		for (var i = 0; i < data.count; i++) {
 			var snippet = $scope.items[i].snippet;
 			var image_link = $scope.items[i].image_link;
 			var link = $scope.items[i].link;
@@ -64,7 +64,7 @@ HireMeControllers.controller('internshipController', ['$scope', '$http', functio
 		$scope.items = data.items;
 		$scope.postings = [];
 
-		for (var i = 0; i < 25; i++) {
+		for (var i = 0; i < data.count; i++) {
 			var snippet = $scope.items[i].snippet;
 			var image_link = $scope.items[i].image_link;
 			var link = $scope.items[i].link;

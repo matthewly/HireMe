@@ -5,10 +5,10 @@ import json
 import urllib2, sys
 import urllib
 
-with open('./client-side/public/data/fulltime.json', 'r+') as outfile:
+with open('./client-side/public/data/internships.json', 'r+') as outfile:
 	data = json.load(outfile)
 	
-	for i in range(26,28):
+	for i in range(60,85):
 
 		headers = {'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17'}
 		
@@ -39,7 +39,7 @@ with open('./client-side/public/data/fulltime.json', 'r+') as outfile:
 
 		print data
 
-	outfile = open("./client-side/public/data/fulltime.json", "w+")
+	outfile = open("./client-side/public/data/internships.json", "w+")
 	json.dump(data, outfile, indent=4)
 	outfile.close()
 
