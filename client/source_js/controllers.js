@@ -1,13 +1,20 @@
 var HireMeControllers = angular.module('HireMeControllers', ['ngCookies']);
 
-HireMeControllers.controller('homeController', ['$scope','$http', '$cookies', '$location', function($scope, $http, $cookies, $location) {
+HireMeControllers.controller('homeController', ['$scope', '$cookies','$location', function($scope, $cookies, $location) {
 	$scope.search_query = {};
-	
-	$scope.search_submit = function() {
+	$scope.selectedLocation = "Chicago, IL";
+	$scope.locations = ["Chicago, IL", "San Francisco, CA", "Los Angeles, CA", "Austin, TX", "New York, NY"];
+	$scope.search_full = function() {
 		//console.log("before putting to cookie: " + $scope.search_query.title + " " + $scope.search_query.location);
-		$cookies.put('title_cookie', $scope.search_query.title);
-		$cookies.put('location_cookie', $scope.search_query.location);
-		$location.url('/search');	
+		//$cookies.put('title_cookie', $scope.search_query.title);
+		$cookies.put('location_cookie', $scope.selectedLocation);
+		$location.url('/fulltime');	
+	}
+	$scope.search_intern = function() {
+		//console.log("before putting to cookie: " + $scope.search_query.title + " " + $scope.search_query.location);
+		//$cookies.put('title_cookie', $scope.search_query.title);
+		$cookies.put('location_cookie', $scope.selectedLocation);
+		$location.url('/internships');	
 	}
 }]);
 
@@ -18,9 +25,10 @@ HireMeControllers.controller('searchController', ['$scope', '$http', '$cookies',
 	
 }]);
 
-HireMeControllers.controller('fulltimeController', ['$scope', '$http', function($scope, $http) {
+HireMeControllers.controller('fulltimeController', ['$scope','$cookies', '$http', function($scope, $cookies,$http) {
 	
-	$http.get('data/fulltime.json').success(function(data) {
+	$scope.location =$cookies.get('location_cookie'); 
+	$http.get('data/'+$scope.location+'fulltime.json').success(function(data) {
 		$scope.items = data.items;
 		$scope.postings = [];
 
@@ -59,8 +67,8 @@ HireMeControllers.controller('fulltimeController', ['$scope', '$http', function(
 
 
 HireMeControllers.controller('internshipController', ['$scope', '$http', function($scope, $http) {
-
-	$http.get('data/internships.json').success(function(data) {
+	$scope.location =$cookies.get('location_cookie');
+	$http.get('data/'+$scope.location+'internships.json').success(function(data) {
 		$scope.items = data.items;
 		$scope.postings = [];
 

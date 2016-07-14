@@ -29,8 +29,9 @@
        <h2>Your source for technology job postings</h2>
        <div class="intro-buttons">
          <a href="#details"><button type="button">Details</button></a>
-         <a href="#/fulltime"><button type="button">Find Full-time</button></a>
-         <a href="#/internships"><button type="button">Find Internships</button></a>
+         <!-- <a href="#/fulltime"><button type="button">Find Full-time</button></a> -->
+         <!-- <a href="#/internships"><button   type="button">Find Internships</button></a> -->
+         <a href="#search"><button type="button">Get Started</button></a>
        </div>
      </div>
    </section>
@@ -81,11 +82,15 @@
 
    <div class="internships">
     <div class="button-grp home-button-grp">
-        <h2>Choose job type:</h2>
-        <a ng-href="#/fulltime"><button class="button active" id="fulltime">Full-time</button></a>
-        <a ng-href="#/internships"><button class="button primary active" id="internship">Internship</button></a>
-    </div>
-    </div>
+        <h2>Choose job preferences:</h2>
+         <div class="location">
+          <select ng-model="selectedLocation" ng-options="x for x in locations">
+          </select>
+        </div>
+        <button ng-click="search_full()" class="button active" id="fulltime">Full-time</button>
+        <button ng-click="search_intern()" class="button primary active" id="internship">Internship</button>  
+    </div> 
+   </div>
      <!-- JOB SEARCH ENGINE
       <div class="job-form">
        <div class="form-title"><b>HireMe</b> | Job Search Engine</div>
