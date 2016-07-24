@@ -1,7 +1,7 @@
 # Overview
-HireMe is a job search engine utilizing Google's advanced search operators that integrates data from Glassdoor.
+SimpleHire is a development job listings site utilizing Google's advanced search operators that integrates data from Glassdoor.
 
-*Link*: http://107.170.217.181:3000
+*Link*: http://simplehire.me/
 
 ## Getting Started
 Client Side:
