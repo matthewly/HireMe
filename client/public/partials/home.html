@@ -1,16 +1,14 @@
 
-
-  
  <div ng-controller="homeController">
    <!-- Navigation -->
    <div class="title-bar" id="nav-mobile" data-responsive-toggle="nav" data-hide-for="medium">
      <button class="menu-icon" id="menu-icon" type="button"></button>
-     <div class="title-bar-title">Hire.me</div>
+     <div class="title-bar-title">SimpleHire</div>
    </div>
    
    <div class="top-bar" id="nav">
        <ul class="menu">
-         <li><a href="#/home" class="menu-text">Hire.me <div class="normal">&nbsp| Job Search Engine</div></a></li>
+         <li><a href="#/home" class="menu-text">SimpleHire <div class="normal">&nbsp| Dev Job Listings</div></a></li>
          <li><a href="#details" id="details-header">Details</a></li>
          <li><a href="#search" id="search-header">Find Jobs</a></li>
        </ul>
@@ -25,8 +23,8 @@
 
    <section class="header">
      <div class="header-text">
-       <h1><b>Hire.me</b></h1>
-       <h2>Your source for technology job postings</h2>
+       <h1><b>SimpleHire</b></h1>
+       <h2>Your source for development job postings</h2>
        <div class="intro-buttons">
          <a href="#details"><button type="button">Details</button></a>
          <!-- <a href="#/fulltime"><button type="button">Find Full-time</button></a> -->
@@ -37,30 +35,36 @@
    </section>
 
    <section class="examples">
-     <h2>Example Results</h2>
+     <h2>Quick Search</h2>
      <div class="carousel">
-       <div class="item"><a href="#/home/#"><i class="fa fa-laptop fa-3x"></i><p> Software Engineer</p></a></div>
-       <div class="item"><a href="#/home/#"><i class="fa fa-amazon fa-3x"></i><p>Amazon</p></a></div>
-       <div class="item"><a href="#/home/#"><i class="fa fa-picture-o fa-3x"></i><p> Designer</p></a></div>
-       <div class="item"><a href="#/home/#"><i class="fa fa-cloud fa-3x"></i><p>Chicago</p></a></div>
-       <div class="item"><a href="#/home/#"><i class="fa fa-check fa-3x"></i><p>Software Tester</p></a></div>
+       <div ng-click="search_full_carousel('San Francisco, CA')" class="item"><img src="./data/pics/cali.png"><p>San Francisco Full time</p></div>
+       <div ng-click="search_intern_carousel('San Francisco, CA')" class="item"><img src="./data/pics/cali.png"><p>San Francisco Internships</p></div>
+       <div ng-click="search_full_carousel('Chicago, IL')" class="item"><img src="./data/pics/illinois.png"><p> Chicago Full time</p></div>
+       <div ng-click="search_intern_carousel('Chicago, IL')" class="item"><img src="./data/pics/illinois.png"><p>Chicago Internships</p></div>
+       <div ng-click="search_full_carousel('New York, NY')" class="item"><img src="./data/pics/ny.png"><p>New York Full time</p></div>
+       <div ng-click="search_intern_carousel('New York, NY')" class="item"><img src="./data/pics/ny.png"><p>New York Internships</p></div>
+       <div ng-click="search_full_carousel('Los Angeles, CA')" class="item"><img src="./data/pics/cali.png"><p>Los Angeles Full time</p></div>
+       <div ng-click="search_intern_carousel('Los Angeles, CA')" class="item"><img src="./data/pics/cali.png"><p>Los Angeles Internships</p></div>
+       <div ng-click="search_full_carousel('Austin, TX')" class="item"><img src="./data/pics/texas.png"><p>Austin Full time</p></div>
+       <div ng-click="search_intern_carousel('Austin, TX')" class="item"><img src="./data/pics/texas.png"><p>Austin Internships</p></div>
      </div>
    </section>
 
      <section class="row stripe even" id="details">
          <div class="small-12 large-6 columns">
        <div class="details">
-         <h2>Need a job?</h2>
-         <p>HireMe takes your search query and crunches data behind  the scenes to help you find jobs most suitable for you!</p>
+         <h2>Need a development job?</h2>
+         <p>SimpleHire helps you find development jobs in the best cities for tech jobs!</p>
        
-         <b>Why use HireMe?</b>
+         <b>Why use SimpleHire?</b>
          <ul>
-           <li>We can help you get a job. If the job is online, you will find it on HireMe.</li>
-           <li>HireMe integrates data from Glassdoor and PayScale, so you can filter and sort job postings by salaries, benefits, company reviews, etc.</li>
-           <li>HireMe takes advantage of Google's advanced search operators to narrow job results to best match your interest.</li>
+           <li>We can help you apply for jobs. You can find hundreds of job postings on SimpleHire.</li>
+           <li>SimpleHire integrates data from Glassdoor, so you can filter and sort job postings by company reviews.</li>
+           <li>SimpleHire takes advantage of Google's advanced search operators to narrow job results to best match your interest.</li>
          </ul>
 
-         <i>**Search feature not yet available.</i>
+         <i>**Job search engine coming soon!</i>
+
        </div>
      </div>
      <div class="small-12 large-6 columns">
@@ -138,7 +142,7 @@
    </div> -->
 
    <footer class="even">
-     <div class="footer">Follow or contact me at <a href="https://twitter.com/matthewmly" target="_blank"><img src="./data/pics/twitter.png" class="media"></a> | Hire.me</div>
+     <div class="footer">Follow or contact me at <a href="https://twitter.com/matthewmly" target="_blank"><img src="./data/pics/twitter.png" class="media"></a> | SimpleHire</div>
    </footer>
 
    <script src="./js/script.js"></script>

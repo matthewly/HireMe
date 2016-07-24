@@ -5,10 +5,10 @@ import json
 import urllib2, sys
 import urllib
 
-location = "Chicago, IL"
-count = 15
+location = "Los Angeles, CA"
+count = 1
 
-with open('./client/public/data/'+location+'fulltime.json', 'r+') as outfile:
+with open('./client/public/data/'+location+'internship.json', 'r+') as outfile:
 	data = json.load(outfile)
 	
 	for i in range(count):
@@ -40,7 +40,7 @@ with open('./client/public/data/'+location+'fulltime.json', 'r+') as outfile:
 
 		print "Entry " + str(i) + " complete"
 
-	outfile = open('./client/public/data/'+location+'fulltime.json', 'w+')
+	outfile = open('./client/public/data/'+location+'internship.json', 'w+')
 	json.dump(data, outfile, indent=4)
 	outfile.close()
 

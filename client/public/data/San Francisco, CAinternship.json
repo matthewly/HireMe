@@ -1,0 +1,192 @@
+{
+    "count": 17, 
+    "items": [
+        {
+            "website": "www.affirm.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/68ef7703-622a-4a0f-861e-90c37b17c2e4-1459903318624.png", 
+            "overallRating": "5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "18", 
+            "snippet": "Software Engineer - Internship. San Francisco, CA. Engineering. Internship ... As \nan intern at Affirm, you will be treated as a contributing member of our top-notch\u00a0...", 
+            "link": "https://jobs.lever.co/affirm/41093734-0492-4f7e-b5ab-7fe53f2143e7", 
+            "company_name": "Affirm", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "corp.popsugar.com", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/003/664/original/PS_Icon.jpg?1468259551", 
+            "overallRating": "3.7", 
+            "industry": "Publishing", 
+            "numberOfRatings": "102", 
+            "snippet": "We're located in downtown San Francisco and we have a great group of \ndevelopers who pride themselves on having fun in and outside of the office.", 
+            "link": "https://boards.greenhouse.io/popsugar/jobs/164941", 
+            "company_name": "POPSUGAR", 
+            "job_title": "Software Engineering Intern"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "One or more prior internships as a software engineer, or equivalent experience ... \nPursuant to the San Francisco Fair Chance Ordinance, we will consider for\u00a0...", 
+            "link": "https://boards.greenhouse.io/figma/jobs/130873", 
+            "company_name": "Figma", 
+            "job_title": "Software Engineer, Intern"
+        }, 
+        {
+            "website": "www.peek.com", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/001/086/original/Peek_Logo.png?1424823009", 
+            "overallRating": "4.7", 
+            "industry": "Travel Agencies", 
+            "numberOfRatings": "60", 
+            "snippet": "San Francisco ... The Software Engineering Intern is responsible for assisting \nwith ... Additional experience writing software for service-oriented architectures\u00a0...", 
+            "link": "https://boards.greenhouse.io/peek/jobs/208534", 
+            "company_name": "Peek", 
+            "job_title": "Software Engineering - Intern"
+        }, 
+        {
+            "website": "www.yelp.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1441843879420.png", 
+            "overallRating": "3.6", 
+            "industry": "Internet", 
+            "numberOfRatings": "792", 
+            "snippet": "San Francisco, CA. College Engineering & Product. Intern. Apply for this job. Yelp \nwants ... We love hosting meetup groups and tech talks in our SF office. Yelp is\u00a0...", 
+            "link": "https://jobs.lever.co/yelp/acd14f8c-12ef-44ae-bba0-d9ddaf9a54c8", 
+            "company_name": "Yelp", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.koding.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/00aa0eed-a75f-41c3-b83d-0e1681ad58dd-1459064047587.png", 
+            "overallRating": "5", 
+            "industry": "Internet", 
+            "numberOfRatings": "1", 
+            "snippet": "Support Engineer Intern. San Francisco. Internship. Intern. Apply for this job ... \nKoding is a developer-focused startup based in San Francisco's SOMA district.", 
+            "link": "https://jobs.lever.co/koding/c32ba86c-ff87-4b16-b2e6-a800f0a0e8c8", 
+            "company_name": "Koding", 
+            "job_title": "Support Engineer Intern"
+        }, 
+        {
+            "website": "www.vessel.com", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/427/original/Vessel_black2.png?1415666352", 
+            "overallRating": "5", 
+            "industry": "Motion Picture Production & Distribution", 
+            "numberOfRatings": "4", 
+            "snippet": "Software Engineer - Intern/Co-Op. at Vessel (View all jobs). San Francisco ... By \nthe end of your internship you will have designed, implemented and deployed\u00a0...", 
+            "link": "https://boards.greenhouse.io/vessel/jobs/66747", 
+            "company_name": "Vessel", 
+            "job_title": "Software Engineer - Intern/Co-Op"
+        }, 
+        {
+            "website": "www.ottogroup.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/6fcd6028-7eeb-4093-bb79-3ac600dbf938-1457398070097.png", 
+            "overallRating": "4.2", 
+            "industry": "Department, Clothing, & Shoe Stores", 
+            "numberOfRatings": "33", 
+            "snippet": "Intern - Engineering. San Francisco. Engineering. Intern. Apply for this job ... \nexperience right in downtown San Francisco (college students and grads both \nwelcome), ... Background or interest in Mechanical, Electrical or Software \nEngineering\u00a0...", 
+            "link": "https://jobs.lever.co/otto/671eb58d-e74b-43cc-913b-440f9b91dd4b", 
+            "company_name": "Otto", 
+            "job_title": "Careers"
+        }, 
+        {
+            "website": "www.pmd.com", 
+            "image_link": "", 
+            "overallRating": "4.9", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "20", 
+            "snippet": "A developer's career at pMD is nothing like the stereotype of a programmer. In \naddition to ... share a campus with Yoda in a great part of San Francisco \u2022 love \nour\u00a0...", 
+            "link": "https://boards.greenhouse.io/pmd/jobs/199707", 
+            "company_name": "pMD", 
+            "job_title": "Software Engineer Intern 2017"
+        }, 
+        {
+            "website": "www.ottogroup.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/6fcd6028-7eeb-4093-bb79-3ac600dbf938-1457398070097.png", 
+            "overallRating": "4.2", 
+            "industry": "Department, Clothing, & Shoe Stores", 
+            "numberOfRatings": "33", 
+            "snippet": "Computer Vision & 3D Perception. San Francisco/Palo AltoSoftware Engineering\nFull-time \u00b7 Apply ... San FranciscoEngineeringIntern \u00b7 Otto - Careers Home Page.", 
+            "link": "https://jobs.lever.co/otto?by=commitment", 
+            "company_name": "Otto", 
+            "job_title": "Careers"
+        }, 
+        {
+            "website": "www.ottogroup.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/6fcd6028-7eeb-4093-bb79-3ac600dbf938-1457398070097.png", 
+            "overallRating": "4.2", 
+            "industry": "Department, Clothing, & Shoe Stores", 
+            "numberOfRatings": "33", 
+            "snippet": "San FranciscoElectrical EngineeringFull-time \u00b7 Apply ... San Francisco\nEngineeringIntern \u00b7 Apply ... San Francisco/Palo AltoSoftware EngineeringFull-\ntime \u00b7 Apply\u00a0...", 
+            "link": "https://jobs.lever.co/otto", 
+            "company_name": "Otto", 
+            "job_title": "Careers"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/fictiv.png", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "Engineering Intern - Winter 2016. San Francisco, CA. Engineering. Intern ... \npassionate individual who is excited by both hardware and software, eager to ... \nThis paid internship should last roughly 10 weeks, but we are happy to chat \nabout\u00a0...", 
+            "link": "https://jobs.lever.co/fictiv/a9562203-2a9a-451e-b484-a52ff0aed8d2", 
+            "company_name": "Fictiv", 
+            "job_title": "Engineering Intern"
+        }, 
+        {
+            "website": "www.ottogroup.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/6fcd6028-7eeb-4093-bb79-3ac600dbf938-1457398070097.png", 
+            "overallRating": "4.2", 
+            "industry": "Department, Clothing, & Shoe Stores", 
+            "numberOfRatings": "33", 
+            "snippet": "... Engineer. San FranciscoMechanical EngineeringFull-time ... San Francisco\nEngineeringIntern \u00b7 Apply ... San Francisco/Palo altoSoftware EngineeringFull-\ntime.", 
+            "link": "https://jobs.lever.co/otto?by=location", 
+            "company_name": "Otto", 
+            "job_title": "Careers"
+        }, 
+        {
+            "website": "www.bloc.io", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/bloc-logo-full-1000-grey.png", 
+            "overallRating": "3.7", 
+            "industry": "Education Training Services", 
+            "numberOfRatings": "4", 
+            "snippet": "Software Engineering Intern. San Francisco, CA. engineering. intern. Apply for ... \nAs a junior engineer at Bloc, you'll be a cornerstone of our team. You'll have the\u00a0...", 
+            "link": "https://jobs.lever.co/bloc/ca393899-1006-4504-91b2-f85ef52fa857", 
+            "company_name": "Bloc", 
+            "job_title": "Software Engineering Intern"
+        }, 
+        {
+            "website": "www.thumbtack.com", 
+            "image_link": "", 
+            "overallRating": "4.6", 
+            "industry": "Internet", 
+            "numberOfRatings": "104", 
+            "snippet": "As a Software Engineer, you'll focus on bringing the Thumbtack vision to life. ... \nFounded in 2009 and headquartered in San Francisco, Thumbtack has raised\u00a0...", 
+            "link": "https://boards.greenhouse.io/thumbtack/jobs/723", 
+            "company_name": "Thumbtack", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.vida.at", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/Vida.png", 
+            "overallRating": "0", 
+            "industry": "", 
+            "numberOfRatings": "0", 
+            "snippet": "Clinical Operations Intern. San Francisco. Operations. Intern. Apply for this job ... \nOur platform is powered by proprietary, cloud-based software that captures\u00a0...", 
+            "link": "https://jobs.lever.co/vida/7bfe6829-1038-4cf8-8526-6a9be40cd074", 
+            "company_name": "Vida", 
+            "job_title": "Clinical Operations Intern"
+        }, 
+        {
+            "website": "www.liveramp.com", 
+            "image_link": "", 
+            "overallRating": "4.7", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "75", 
+            "snippet": "Prove yourself and earn the responsibilities of a full-time engineer. ... Work in the \nheart of San Francisco \u2013 the best city in the world, and take advantage of our\u00a0...", 
+            "link": "https://boards.greenhouse.io/liveramp/jobs/94653", 
+            "company_name": "LiveRamp", 
+            "job_title": "Fall/Winter/Spring Engineering Intern"
+        }
+    ]
+}

@@ -4481,7 +4481,7 @@ video {
   margin: 0 auto; }
 
 /* line 331, ../../source_sass/_base.scss */
-.internships h1 {
+.internships h1, h2, h3, h4, h5, h6 {
   text-align: center; }
 
 /* line 335, ../../source_sass/_base.scss */
@@ -4564,13 +4564,24 @@ video {
 .home {
   text-align: center; }
 
+/* line 420, ../../source_sass/_base.scss */
+.examples > .carousel > div {
+  cursor: pointer; }
+
+/* line 424, ../../source_sass/_base.scss */
+.item img {
+  position: relative;
+  left: 100px;
+  width: 80px;
+  height: 80px; }
+
 /* Footer */
-/* line 421, ../../source_sass/_base.scss */
+/* line 432, ../../source_sass/_base.scss */
 footer {
   position: relative;
   height: 100px; }
 
-/* line 426, ../../source_sass/_base.scss */
+/* line 437, ../../source_sass/_base.scss */
 .footer {
   position: absolute;
   width: 100%;
@@ -4579,13 +4590,13 @@ footer {
   left: 50%;
   transform: translate(-50%, -50%); }
 
-/* line 435, ../../source_sass/_base.scss */
+/* line 446, ../../source_sass/_base.scss */
 .media {
   height: 30px;
   width: 30px; }
 
 @media (max-width: 368px) {
-  /* line 441, ../../source_sass/_base.scss */
+  /* line 452, ../../source_sass/_base.scss */
   .media {
     height: 18px;
     width: 18px; } }

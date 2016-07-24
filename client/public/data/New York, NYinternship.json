@@ -1,0 +1,27 @@
+{
+    "count": 2, 
+    "items": [
+        {
+            "website": "--", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/1e9206ee-c428-4d68-b718-3d67750ac705-1459983304131.png", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "Software Engineering Intern - Web Dev. Manhattan, New York. Software. Intern ... \nAs a Web Developer intern, you will help build web-based agent tools and\u00a0...", 
+            "link": "https://jobs.lever.co/cherre/18e40c78-ff43-4932-9abe-3cca5c6fe0ee", 
+            "company_name": "Cherre", 
+            "job_title": "Software Engineering Intern"
+        }, 
+        {
+            "website": "www.dashlane.com", 
+            "image_link": "https://s3.amazonaws.com/prod-heroku/external_greenhouse_job_boards/logos/000/000/552/original/Dashlane_Logo.png?1406238138", 
+            "overallRating": "5", 
+            "industry": "Internet", 
+            "numberOfRatings": "26", 
+            "snippet": "Since our first product launch in 2012, our team \u2013 based in New York and ... \nDashlane is looking for a highly motivated software engineer intern in the OS X\u00a0...", 
+            "link": "https://boards.greenhouse.io/dashlane/jobs/201195", 
+            "company_name": "Dashlane", 
+            "job_title": "Internship - MAC OS X developer"
+        }
+    ]
+}

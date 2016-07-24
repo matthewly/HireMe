@@ -1,0 +1,38 @@
+{
+    "count": 3, 
+    "items": [
+        {
+            "website": "www.aflac.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1456336875079.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1457", 
+            "snippet": "Director. Austin, TXClient Value OrganizationFull-time ... Senior Software \nEngineer. Austin ... Austin, TXKasasa Program Design & ManagementIntern Part-\ntime.", 
+            "link": "https://jobs.lever.co/kasasa", 
+            "company_name": "Marketing Intern", 
+            "job_title": "Kasasa"
+        }, 
+        {
+            "website": "www.rigup.com", 
+            "image_link": "", 
+            "overallRating": "0", 
+            "industry": "Oil & Gas Services", 
+            "numberOfRatings": "0", 
+            "snippet": "Austin, TX. Operations. Intern. Apply for this job. Few startup companies have the \n... RigUp's paid internship program provides the opportunity to learn what it\u00a0...", 
+            "link": "https://jobs.lever.co/rigup/567e6d41-2000-4b4f-aa3d-4de7bdd8e0de", 
+            "company_name": "RigUp", 
+            "job_title": "Fall 2016 Internship Program"
+        }, 
+        {
+            "website": "www.kasasa.com", 
+            "image_link": "https://lever-client-logos.s3.amazonaws.com/84963f7c-5208-4789-813f-59b515174479-1456336875079.png", 
+            "overallRating": "4.7", 
+            "industry": "Financial Analytics & Research", 
+            "numberOfRatings": "41", 
+            "snippet": "Austin, TX. Kasasa Program Design & Management. Intern Part-time ... The \nKasasa marketing internship is a great opportunity to build your portfolio through\n\u00a0...", 
+            "link": "https://jobs.lever.co/kasasa/26ec4beb-ab2f-4c6a-be37-a0411c3b2bda", 
+            "company_name": "Kasasa", 
+            "job_title": "Marketing Intern"
+        }
+    ]
+}

@@ -328,7 +328,7 @@ video {
 	margin: 0 auto;
 }
 
-.internships h1 {
+.internships h1, h2, h3, h4, h5, h6 {
 	text-align: center;
 }
 
@@ -415,6 +415,17 @@ video {
 
 .home {
 	text-align: center;
+}
+
+.examples > .carousel > div {
+	cursor: pointer;
+}
+
+.item img {
+	position: relative;
+	left: 100px;
+	width: 80px;
+	height: 80px;
 }
 
 /* Footer */
