@@ -5,8 +5,8 @@ import json
 import urllib2, sys
 import urllib
 
-location = "Chicago, IL"
-count = 15
+location = "Los Angeles, CA"
+count = 33
 
 with open('./client/public/data/'+location+'fulltime.json', 'r+') as outfile:
 	data = json.load(outfile)
@@ -26,17 +26,20 @@ with open('./client/public/data/'+location+'fulltime.json', 'r+') as outfile:
 			numberOfRatings = str(gd['response']['employers'][0]['numberOfRatings'])
 			overallRating = str(gd['response']['employers'][0]['overallRating'])
 			website = gd['response']['employers'][0]['website']
+			image_link = gd['response']['employers'][0]['squareLogo']
 
 		else:
 			industry = "--"
 			numberOfRatings = str(0)
 			overallRating = str(0.0)
 			website = "--"
+			image_link = "https://image.freepik.com/free-icon/multiple-users-silhouette_318-49546.png"
 
 		data['items'][i]['industry'] = industry
 		data['items'][i]['numberOfRatings'] = str(numberOfRatings)
 		data['items'][i]['overallRating'] = str(overallRating)
 		data['items'][i]['website'] = website
+		data['items'][i]['image_link'] = image_link
 
 		print "Entry " + str(i) + " complete"
 

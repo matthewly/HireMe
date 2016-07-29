@@ -1,3 +1,4 @@
+#r = requests.get('https://www.googleapis.com/customsearch/v1?q=(developer+OR+software)+AND+%22san+francisco%22&cx=007494023296931513621%3Awwnjyngqucm&exactTerms=intern+OR+internship&start='+start+'&key=AIzaSyASVujTnW38PIlTZs9dbbEiGHiGs29Ixlo').json()
 import requests
 from pprint import pprint
 import json
