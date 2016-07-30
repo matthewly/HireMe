@@ -87,7 +87,6 @@ HireMeControllers.controller('searchController', ['$scope', '$http', '$cookies',
 }]);
 
 HireMeControllers.controller('fulltimeController', ['$scope','$cookies', '$http', function($scope, $cookies,$http) {
-	$scope.date = "July 29, 2016";
 
 	$scope.location =$cookies.get('location_cookie'); 
 	$http.get('data/'+$scope.location+'fulltime.json').success(function(data) {
@@ -129,7 +128,6 @@ HireMeControllers.controller('fulltimeController', ['$scope','$cookies', '$http'
 
 
 HireMeControllers.controller('internshipController', ['$scope', '$cookies', '$http', function($scope, $cookies, $http) {
-	$scope.date = "July 23, 2016";
 	
 	$scope.location =$cookies.get('location_cookie');
 	$http.get('data/'+$scope.location+'internship.json').success(function(data) {

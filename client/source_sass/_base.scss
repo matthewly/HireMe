@@ -324,7 +324,6 @@ video {
 
 .internships {
 	background: #fefefe;
-	width: 80%;
 	margin: 0 auto;
 }
 
@@ -337,7 +336,7 @@ video {
 }
 
 .internships #internship { 
-	background-color: #333399;
+	background-color: $red;
 }
 
 .internships .active {
@@ -355,7 +354,10 @@ video {
 
 .internships .job-header-info {
 	margin: 0 auto;
-	
+}
+
+.job-header-info a {
+	color: $red;
 }
 
 @media (min-width: 640px) {
@@ -367,13 +369,6 @@ video {
 	}
 }
 
-.internships .apply {
-	display: block;
-	width: 109px;
-	height: 52px;
-	margin: 0 auto;
-	transform: translateY(25%);
-}
 
 .internships .apply button {
 	height: 100%;
@@ -390,10 +385,23 @@ video {
 }
 
 .job-container {
-	border: 1px solid rgba(10, 10, 10, 0.5);
+	border: 3px solid rgba(10, 10, 10, 0.5);
 	color: #0a0a0a;
 	background-color: white;
 	margin-bottom: 20px;
+	
+}
+
+@media(min-width:1024px) {
+	.job-container {
+		max-width: 370px;
+	}
+}
+
+@media(min-width:640px) {
+	.job-container {
+		max-width: 480px;
+	}
 }
 
 .internships .job-detail blockquote {
@@ -407,6 +415,21 @@ video {
 
 .internships .job-detail li {
 	word-wrap: break-word;
+}
+
+.apply {
+	display: block;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.apply button {
+	background-color: $green;
+	font-weight: bold;
+}
+
+.apply button:hover {
+	background-color: $light-green;
 }
 
 #fulltime {

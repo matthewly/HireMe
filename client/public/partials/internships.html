@@ -3,15 +3,14 @@
 	  <div class="small-12 columns">
 	  	<h1>Internships</h1>
 	  	<h6><b>Location: </b>{{location}}</h6>
-	  	<h6><b>Last updated: </b>{{date}}</h6>
 	  </div>
 	</div>
 	
 	<div class="row">
 	  <div class="small-12 columns">
 	  	<div class="button-grp">
-	  		<a ng-href="#/fulltime"><button class="button" id="fulltime">Full-time</button></a>
-	  		<a ng-href="#/internships"><button class="button primary active" id="internship">Internship</button></a>
+	  		<a ng-href="#/fulltime"><button class="button active" id="fulltime">Full-time</button></a>
+	  		<a ng-href="#/internships"><button class="button primary" id="internship">Internship</button></a>
 	  	</div>
 	  	<div class="home">
 	  		<a ng-href="#/home" class="center">or go back Home</a>
@@ -20,37 +19,38 @@
 	</div>
 	
 	<hr>
-	
-  	<div class="job-container" ng-repeat="posting in postings track by $index">
-  		<div class="job-header">
-  			<div class="row">
-  				<div class="small-12 medium-9 columns">
-  					<div class="job-header-info">
-  						<img ng-src="{{posting.image_link}}"/>
-  						<b>{{posting.company_name}}</b><br>
-  						<i>{{posting.job_title}}</i>
+
+	<div class="row small-up-1 medium-up-2 large-up-3">
+  		<div class="column" ng-repeat="posting in postings track by $index">
+  			<div class="job-container">
+  				<div class="job-header">
+  					<div class="row">
+  						<div class="small-12 medium-12 columns">
+  							<div class="job-header-info">
+  								<a ng-href="http://{{posting.website}}" target	="_blank"><img ng-src="{{posting.image_link}}"	/></a>
+  								<a ng-href="http://{{posting.website}}" target	="_blank"><b>{{posting.company_name}}</b></a>
+  								<br>
+  								<i>{{posting.job_title}}</i>
+  							</div>
+  						</div>
+  						
   					</div>
   				</div>
   			
-  				<div class="small-12 medium-3 columns">
-  					<a ng-href="{{posting.link}}" class="apply"><button class="secondary hollow button">Apply</button></a>
-  				</div>
-  			</div>
-  		</div>
-  		<hr>
-  		<div class="job-detail">
-  			<div class="row">
-  				<div class="small-12 medium-5 columns">
-  					<ul>
-						<li><u>Glassdoor rating:</u> <b>{{posting.overallRating}}</b> <i>({{posting.numberOfRatings}} reviews)</i></li>
-						<li><u>Industry:</u> {{posting.industry}}</li>
-						<li><u>Website:</u> {{posting.website}}</li>
-					</ul>
-  				</div>
-  				<div class="small-12 medium-7 columns">
-  					<blockquote>{{posting.snippet}} <a ng-href="{{posting.link}}">see more</a></blockquote>
-  				</div>
-  			</div>
+  				<hr>
+  				<div class="job-detail">
+  					<div class="row">
+  						<div class="small-12 medium-12 columns">
+  							<ul>
+								<li><u>Glassdoor rating:</u> <b>	{{posting.overallRating}}</b> <i>	({{posting.numberOfRatings}} reviews)</i></li>
+								<li><u>Industry:</u> {{posting.industry}}</li>
+							</ul>
+  						</div>
+  					</div>
+				</div>
+				<a ng-href="{{posting.link}}" class="apply" target="_blank"><button class="button">Apply</button></a>
+			</div>
+			
 		</div>
 	</div>
 	

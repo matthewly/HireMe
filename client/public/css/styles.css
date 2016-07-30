@@ -4422,7 +4422,7 @@ video {
 
 /* line 267, ../../source_sass/_base.scss */
 .search_btn {
-  background-color: #40826D;
+  background-color: #40826C;
   border-radius: 3px;
   margin-left: 6px; }
 
@@ -4477,57 +4477,52 @@ video {
 /* line 325, ../../source_sass/_base.scss */
 .internships {
   background: #fefefe;
-  width: 80%;
   margin: 0 auto; }
 
-/* line 331, ../../source_sass/_base.scss */
+/* line 330, ../../source_sass/_base.scss */
 .internships h1, h2, h3, h4, h5, h6 {
   text-align: center; }
 
-/* line 335, ../../source_sass/_base.scss */
+/* line 334, ../../source_sass/_base.scss */
 .internships .button-grp {
   text-align: center; }
 
-/* line 339, ../../source_sass/_base.scss */
+/* line 338, ../../source_sass/_base.scss */
 .internships #internship {
-  background-color: #333399; }
+  background-color: #B3586D; }
 
-/* line 343, ../../source_sass/_base.scss */
+/* line 342, ../../source_sass/_base.scss */
 .internships .active {
   font-weight: bold; }
 
-/* line 347, ../../source_sass/_base.scss */
+/* line 346, ../../source_sass/_base.scss */
 .internships .job-header {
   margin-top: 10px; }
 
-/* line 351, ../../source_sass/_base.scss */
+/* line 350, ../../source_sass/_base.scss */
 .internships .job-header b, .internships .job-header i {
   position: relative;
   top: 12%; }
 
-/* line 356, ../../source_sass/_base.scss */
+/* line 355, ../../source_sass/_base.scss */
 .internships .job-header-info {
   margin: 0 auto; }
 
+/* line 359, ../../source_sass/_base.scss */
+.job-header-info a {
+  color: #B3586D; }
+
 @media (min-width: 640px) {
-  /* line 364, ../../source_sass/_base.scss */
+  /* line 366, ../../source_sass/_base.scss */
   .job-header-info {
     margin: 0;
     display: inline; } }
-/* line 370, ../../source_sass/_base.scss */
-.internships .apply {
-  display: block;
-  width: 109px;
-  height: 52px;
-  margin: 0 auto;
-  transform: translateY(25%); }
-
-/* line 378, ../../source_sass/_base.scss */
+/* line 373, ../../source_sass/_base.scss */
 .internships .apply button {
   height: 100%;
   width: 100%; }
 
-/* line 383, ../../source_sass/_base.scss */
+/* line 378, ../../source_sass/_base.scss */
 .internships .job-header img {
   width: auto;
   max-width: 120px;
@@ -4536,39 +4531,62 @@ video {
   margin-right: 10px;
   margin-left: 10px; }
 
-/* line 392, ../../source_sass/_base.scss */
+/* line 387, ../../source_sass/_base.scss */
 .job-container {
-  border: 1px solid rgba(10, 10, 10, 0.5);
+  border: 3px solid rgba(10, 10, 10, 0.5);
   color: #0a0a0a;
   background-color: white;
   margin-bottom: 20px; }
 
-/* line 399, ../../source_sass/_base.scss */
+@media (min-width: 1024px) {
+  /* line 396, ../../source_sass/_base.scss */
+  .job-container {
+    max-width: 370px; } }
+@media (min-width: 640px) {
+  /* line 402, ../../source_sass/_base.scss */
+  .job-container {
+    max-width: 480px; } }
+/* line 407, ../../source_sass/_base.scss */
 .internships .job-detail blockquote {
   width: 90%;
   margin: 0 auto; }
 
-/* line 404, ../../source_sass/_base.scss */
+/* line 412, ../../source_sass/_base.scss */
 .internships .job-detail ul {
   list-style-type: none; }
 
-/* line 408, ../../source_sass/_base.scss */
+/* line 416, ../../source_sass/_base.scss */
 .internships .job-detail li {
   word-wrap: break-word; }
 
-/* line 412, ../../source_sass/_base.scss */
+/* line 420, ../../source_sass/_base.scss */
+.apply {
+  display: block;
+  width: 90%;
+  margin: 0 auto; }
+
+/* line 426, ../../source_sass/_base.scss */
+.apply button {
+  background-color: #40826C;
+  font-weight: bold; }
+
+/* line 431, ../../source_sass/_base.scss */
+.apply button:hover {
+  background-color: #659D8B; }
+
+/* line 435, ../../source_sass/_base.scss */
 #fulltime {
   background-color: #40826D; }
 
-/* line 416, ../../source_sass/_base.scss */
+/* line 439, ../../source_sass/_base.scss */
 .home {
   text-align: center; }
 
-/* line 420, ../../source_sass/_base.scss */
+/* line 443, ../../source_sass/_base.scss */
 .examples > .carousel > div {
   cursor: pointer; }
 
-/* line 424, ../../source_sass/_base.scss */
+/* line 447, ../../source_sass/_base.scss */
 .item img {
   position: relative;
   left: 50px;
@@ -4576,12 +4594,12 @@ video {
   height: 80px; }
 
 /* Footer */
-/* line 432, ../../source_sass/_base.scss */
+/* line 455, ../../source_sass/_base.scss */
 footer {
   position: relative;
   height: 100px; }
 
-/* line 437, ../../source_sass/_base.scss */
+/* line 460, ../../source_sass/_base.scss */
 .footer {
   position: absolute;
   width: 100%;
@@ -4590,13 +4608,13 @@ footer {
   left: 50%;
   transform: translate(-50%, -50%); }
 
-/* line 446, ../../source_sass/_base.scss */
+/* line 469, ../../source_sass/_base.scss */
 .media {
   height: 30px;
   width: 30px; }
 
 @media (max-width: 368px) {
-  /* line 452, ../../source_sass/_base.scss */
+  /* line 475, ../../source_sass/_base.scss */
   .media {
     height: 18px;
     width: 18px; } }
