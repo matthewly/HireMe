@@ -1,10 +1,11 @@
+
 import requests
 import json
 
-location = 'Los Angeles, CA'
+location = 'San Francisco, CA'
 
 #with open('./client-side/public/data/fulltime.json', 'w') as outfile:
-with open('./client/public/data/'+location+'fulltime.json', 'w') as outfile:
+with open('./client/public/data/'+location+'entry.json', 'w') as outfile:
 	data = {}
 	items = []
 
@@ -12,7 +13,7 @@ with open('./client/public/data/'+location+'fulltime.json', 'w') as outfile:
 		page = str(request)
 		start = str((request*10)+1)
 
-		r = requests.get('https://www.googleapis.com/customsearch/v1?q=(developer+OR+software)+AND+%22los+angeles%22&cx=007494023296931513621%3Awwnjyngqucm&start='+start+'&key=AIzaSyASVujTnW38PIlTZs9dbbEiGHiGs29Ixlo').json()
+		r = requests.get('https://www.googleapis.com/customsearch/v1?q=(developer+OR+software)+AND+%22san+francisco%22&cx=007494023296931513621%3Awwnjyngqucm&exactTerms=junior+OR+grad+OR+graduate+OR+associate&excludeTerms=senior&start='+start+'&key=AIzaSyASVujTnW38PIlTZs9dbbEiGHiGs29Ixlo').json()
 		for item in range(10):
 			print "Starting page " + page + " Entry " + str(item+1)
 			post = {}

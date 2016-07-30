@@ -18,6 +18,10 @@ app.config(function ($routeProvider) {
         	templateUrl : 'partials/fulltime.html',
         	controller : 'fulltimeController'
         })
+        .when('/entry', {
+        	templateUrl : 'partials/entry.html',
+        	controller : 'entryController'
+        })
 		.otherwise({ // if url doesn't exist, go to /home
 			redirectTo: '/home'
 		});

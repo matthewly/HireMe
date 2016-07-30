@@ -5,7 +5,7 @@ import json
 location = 'San Francisco, CA'
 
 #with open('./client-side/public/data/fulltime.json', 'w') as outfile:
-with open('./client/public/data/'+location+'fulltime.json', 'w') as outfile:
+with open('./client/public/data/'+location+'internship.json', 'w') as outfile:
 	data = {}
 	items = []
 
@@ -24,7 +24,7 @@ with open('./client/public/data/'+location+'fulltime.json', 'w') as outfile:
 			# boards.greenhouse.io
 			if ( r['items'][item]['displayLink'] == "boards.greenhouse.io") and ('|' not in r['items'][item]['title']) and ("jobs" in r['items'][item]['formattedUrl']) and ("..." not in r['items'][item]['formattedUrl']) and ("..." not in r['items'][item]['title']) and ('Jobs at' not in r['items'][item]['title']) and ("(" not in r['items'][item]['title']): 
 				if (" at " in r['items'][item]['title']):
-					post['job_title'] = r['items'][item]['title'][20:].split(" at ")[0]
+					post['job_title'] = r['items'][item]['pagemap']['metatags'][0]['og:title']
 					post['company_name'] = r['items'][item]['title'][20:].split(" at ")[1]
 
 				else:
@@ -43,13 +43,16 @@ with open('./client/public/data/'+location+'fulltime.json', 'w') as outfile:
 
 			# www.glassdoor.com
 			elif (r['items'][item]['displayLink'] == "www.glassdoor.com"):
-				post['job_title'] = r['items'][item]['pagemap']['metatags'][0]['og:title'].split(" Job")[0]
-				print post['job_title']
-				post['company_name'] = r['items'][item]['pagemap']['metatags'][0]['og:description'].split("s job")[0][5:]
-				print post['company_name']
+				if "og:title" in r['items'][item]['pagemap']['metatags'][0]:
+					post['job_title'] = r['items'][item]['pagemap']['metatags'][0]['og:title'].split(" Job")[0]
+					post['company_name'] = r['items'][item]['pagemap']['metatags'][0]['og:description'].split("s job")[0][5:]
+					
+				else:
+					print "Page " + page + " Entry " + str(item+1) + " done"
+					continue
 
 			# stackoverflow.com
-			elif (r['items'][item]['displayLink'] == "stackoverflow.com"):
+			elif (r['items'][item]['displayLink'] == "stackoverflow.com") and ("..." not in r['items'][item]['title']):
 				post['job_title'] = r['items'][item]['title'].split(" at ")[0]
 				post['company_name'] = r['items'][item]['title'].split(" at ")[1].split(" - ")[0]
 

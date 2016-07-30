@@ -6,9 +6,9 @@ import urllib2, sys
 import urllib
 
 location = "San Francisco, CA"
-count = 33
+count = 70
 
-with open('./client/public/data/'+location+'fulltime.json', 'r+') as outfile:
+with open('./client/public/data/'+location+'entry.json', 'r+') as outfile:
 	data = json.load(outfile)
 	
 	for i in range(count):
@@ -43,7 +43,7 @@ with open('./client/public/data/'+location+'fulltime.json', 'r+') as outfile:
 
 		print "Entry " + str(i) + " complete"
 
-	outfile = open('./client/public/data/'+location+'fulltime.json', 'w+')
+	outfile = open('./client/public/data/'+location+'entry.json', 'w+')
 	json.dump(data, outfile, indent=4)
 	outfile.close()
 

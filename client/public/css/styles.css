@@ -4579,14 +4579,18 @@ video {
   background-color: #40826D; }
 
 /* line 439, ../../source_sass/_base.scss */
+#entry {
+  background-color: #C39C60; }
+
+/* line 443, ../../source_sass/_base.scss */
 .home {
   text-align: center; }
 
-/* line 443, ../../source_sass/_base.scss */
+/* line 447, ../../source_sass/_base.scss */
 .examples > .carousel > div {
   cursor: pointer; }
 
-/* line 447, ../../source_sass/_base.scss */
+/* line 451, ../../source_sass/_base.scss */
 .item img {
   position: relative;
   left: 50px;
@@ -4594,12 +4598,12 @@ video {
   height: 80px; }
 
 /* Footer */
-/* line 455, ../../source_sass/_base.scss */
+/* line 459, ../../source_sass/_base.scss */
 footer {
   position: relative;
   height: 100px; }
 
-/* line 460, ../../source_sass/_base.scss */
+/* line 464, ../../source_sass/_base.scss */
 .footer {
   position: absolute;
   width: 100%;
@@ -4608,13 +4612,13 @@ footer {
   left: 50%;
   transform: translate(-50%, -50%); }
 
-/* line 469, ../../source_sass/_base.scss */
+/* line 473, ../../source_sass/_base.scss */
 .media {
   height: 30px;
   width: 30px; }
 
 @media (max-width: 368px) {
-  /* line 475, ../../source_sass/_base.scss */
+  /* line 479, ../../source_sass/_base.scss */
   .media {
     height: 18px;
     width: 18px; } }
