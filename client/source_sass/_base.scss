@@ -450,7 +450,8 @@ video {
 
 .item img {
 	position: relative;
-	left: 50px;
+	display: block;
+	margin: 0 auto;
 	width: 80px;
 	height: 80px;
 }

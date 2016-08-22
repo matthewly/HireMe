@@ -4593,27 +4593,28 @@ video {
 /* line 451, ../../source_sass/_base.scss */
 .item img {
   position: relative;
-  left: 50px;
+  display: block;
+  margin: 0 auto;
   width: 80px;
   height: 80px; }
 
-/* line 458, ../../source_sass/_base.scss */
+/* line 459, ../../source_sass/_base.scss */
 .refresh {
   text-align: center;
   margin-top: 10px; }
 
-/* line 463, ../../source_sass/_base.scss */
+/* line 464, ../../source_sass/_base.scss */
 #mySpinner {
   display: block;
   margin: 0 auto; }
 
 /* Footer */
-/* line 469, ../../source_sass/_base.scss */
+/* line 470, ../../source_sass/_base.scss */
 footer {
   position: relative;
   height: 100px; }
 
-/* line 474, ../../source_sass/_base.scss */
+/* line 475, ../../source_sass/_base.scss */
 .footer {
   position: absolute;
   width: 100%;
@@ -4622,13 +4623,13 @@ footer {
   left: 50%;
   transform: translate(-50%, -50%); }
 
-/* line 483, ../../source_sass/_base.scss */
+/* line 484, ../../source_sass/_base.scss */
 .media {
   height: 30px;
   width: 30px; }
 
 @media (max-width: 368px) {
-  /* line 489, ../../source_sass/_base.scss */
+  /* line 490, ../../source_sass/_base.scss */
   .media {
     height: 18px;
     width: 18px; } }
