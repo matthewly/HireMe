@@ -1,0 +1,61 @@
+{
+    "count": 5, 
+    "items": [
+        {
+            "website": "www.esri.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4043/esri-squarelogo-1424819396801.png", 
+            "overallRating": "3.3", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "407", 
+            "snippet": "May 14, 2016 ... View Esris job listing for a Software Developer - C++ in Portland, OR - and then \nsee company reviews, salaries, and more posted anonymously\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-developer-c-esri-JV_IC1151614_KO0,20_KE21,25.htm?jl=1820868605", 
+            "company_name": "Esri", 
+            "job_title": "Esri Software Developer - C++"
+        }, 
+        {
+            "website": "www.coaxis.net", 
+            "image_link": "https://media.glassdoor.com/sqll/624518/coaxis-squarelogo-1432817304045.png", 
+            "overallRating": "3.3", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "6", 
+            "snippet": "View Coaxiss job listing for a Software Development Engineer in Portland, OR - \nand then see company ... Former Employee - Report Developer in Portland, OR.", 
+            "link": "https://www.glassdoor.com/job-listing/software-development-engineer-coaxis-JV_IC1151614_KO0,29_KE30,36.htm?jl=1811335872", 
+            "company_name": "Coaxis", 
+            "job_title": "Coaxis Software Development Engineer"
+        }, 
+        {
+            "website": "www.esi.com", 
+            "image_link": "https://media.glassdoor.com/sqll/1365/electro-scientific-industries-squarelogo-1424088823321.png", 
+            "overallRating": "3.1", 
+            "industry": "Industrial Manufacturing", 
+            "numberOfRatings": "18", 
+            "snippet": "View Electro Scientific Industriess job listing for a Software Engineer - Portland, \nOR in Portland, OR - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-portland-or-electro-scientific-industries-JV_IC1151614_KO0,29_KE30,59.htm?jl=1884530484", 
+            "company_name": "Electro Scientific Industries", 
+            "job_title": "Electro Scientific Industries Software Engineer - Portland, OR"
+        }, 
+        {
+            "website": "www.crowdcompass.com", 
+            "image_link": "", 
+            "overallRating": "5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "3", 
+            "snippet": "May 16, 2016 ... View CrowdCompasss job listing for a Senior Software Engineer (Ruby) in \nPortland, OR - and ... Current Employee - Developer in Portland, OR.", 
+            "link": "https://www.glassdoor.com/job-listing/senior-software-engineer-ruby-crowdcompass-JV_IC1151614_KO0,29_KE30,42.htm?jl=1643374715", 
+            "company_name": "CrowdCompass", 
+            "job_title": "CrowdCompass Senior Software Engineer (Ruby)"
+        }, 
+        {
+            "website": "www.incomm.com", 
+            "image_link": "https://media.glassdoor.com/sqll/215969/incomm-squarelogo-1378731478676.png", 
+            "overallRating": "2.9", 
+            "industry": "Financial Transaction Processing", 
+            "numberOfRatings": "212", 
+            "snippet": "This position is located in our downtown Portland, OR office. Please visit our \nwebsite digital.incomm.com for more information about InComm Digital Solutions.", 
+            "link": "http://stackoverflow.com/jobs/112561/sr-software-engineer-incomm", 
+            "company_name": "InComm", 
+            "job_title": "Sr. Software Engineer"
+        }
+    ],
+    "date": "2016-08-21"
+}

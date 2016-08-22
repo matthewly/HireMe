@@ -1,0 +1,72 @@
+{
+    "count": 6, 
+    "items": [
+        {
+            "website": "www.qualtrics.com", 
+            "image_link": "https://media.glassdoor.com/sqll/323717/qualtrics-squarelogo-1462210435138.png", 
+            "overallRating": "3.8", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "227", 
+            "snippet": "Software Engineer - College Grad ... Provo, UT & Seattle, WA. About Qualtrics. \nQualtrics is a rapidly growing software as a service company backed by three of\u00a0...", 
+            "link": "https://boards.greenhouse.io/qualtrics/jobs/52430", 
+            "company_name": "Qualtrics", 
+            "job_title": "Software Engineer - College Grad"
+        }, 
+        {
+            "website": "www.expeditors.com", 
+            "image_link": "https://media.glassdoor.com/sqll/1381/expeditors-squarelogo-1418337849027.png", 
+            "overallRating": "3.2", 
+            "industry": "Logistics & Supply Chain", 
+            "numberOfRatings": "544", 
+            "snippet": "View Expeditorss job listing for a Associate Developer - EDI in Seattle, WA - and \nthen see company reviews, salaries, and more posted anonymously by\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/associate-developer-edi-expeditors-JV_IC1150505_KO0,23_KE24,34.htm?jl=1882191076", 
+            "company_name": "Expeditors", 
+            "job_title": "Expeditors Associate Developer - EDI"
+        }, 
+        {
+            "website": "www.qualtrics.com", 
+            "image_link": "https://media.glassdoor.com/sqll/323717/qualtrics-squarelogo-1462210435138.png", 
+            "overallRating": "3.8", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "227", 
+            "snippet": "Seattle. About Qualtrics. Qualtrics is a rapidly growing software as a service \ncompany backed by three of the top venture capital ... who are comfortable \ncontributing code, mentoring junior engineers, and acting as a technical leader to \nset the\u00a0...", 
+            "link": "https://boards.greenhouse.io/qualtrics/jobs/56447", 
+            "company_name": "Qualtrics", 
+            "job_title": "Software Development Manager"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "View MadCov Incs job listing for a Logistics Associate in Seattle, WA - and then ... \ndocumentation, tuning system performance, installing system wide software.", 
+            "link": "https://www.glassdoor.com/job-listing/logistics-associate-madcov-JV_IC1150505_KO0,19_KE20,26.htm?jl=1875295890", 
+            "company_name": "MadCov Inc", 
+            "job_title": "MadCov Inc Logistics Associate"
+        }, 
+        {
+            "website": "www.gogohireup.com", 
+            "image_link": "", 
+            "overallRating": "0", 
+            "industry": "", 
+            "numberOfRatings": "0", 
+            "snippet": "Hire Up is seeking a talented business development associate. Our time shift \ninterviewing software help recruiters find great talent. Our founding team hails \nfrom\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/business-development-associate-hire-up-JV_IC1150505_KO0,30_KE31,38.htm?jl=1898325320", 
+            "company_name": "Hire Up", 
+            "job_title": "Hire Up Business Development Associate"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "View MadCov Incs job listing for a Patient Care Associate in Seattle, WA - and \nthen see company reviews, salaries, and more posted anonymously by MadCov\n\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/patient-care-associate-madcov-JV_IC1150505_KO0,22_KE23,29.htm?jl=1897544216", 
+            "company_name": "MadCov Inc", 
+            "job_title": "MadCov Inc Patient Care Associate"
+        }
+    ], 
+    "date": "2016-08-21"
+}

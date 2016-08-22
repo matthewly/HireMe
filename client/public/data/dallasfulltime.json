@@ -1,0 +1,105 @@
+{
+    "count": 9, 
+    "items": [
+        {
+            "website": "www.two95intl.com", 
+            "image_link": "https://media.glassdoor.com/sqll/598224/two95-international-squarelogo-1434722141286.png", 
+            "overallRating": "3.3", 
+            "industry": "Advertising & Marketing", 
+            "numberOfRatings": "8", 
+            "snippet": "View Two95 International Inc.s job listing for a #Senior ATG Developer in Dallas / \nin Irving, TX - and then see company reviews, salaries, and more posted \nanonymously by Two95 International Inc. employees. ... \"Software Developer\". \nStar Star\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/senior-atg-developer-in-dallas-two95-international-JV_IC1140006_KO0,30_KE31,50.htm?jl=1846416235", 
+            "company_name": "Two95 International Inc.", 
+            "job_title": "Two95 International Inc. #Senior ATG Developer in Dallas /"
+        }, 
+        {
+            "website": "www.crossvale.com", 
+            "image_link": "https://media.glassdoor.com/sqll/266425/crossvale-squarelogo.png", 
+            "overallRating": "3.5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "14", 
+            "snippet": "Location: Dallas Department: Software Development Crossvale, Inc. seeks \nSenior Developer for Dallas Texas location. Periodic travel and/or relocation may \nbe\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-developer-crossvale-JV_IC1139977_KO0,12_KE13,22.htm?jl=1622540324", 
+            "company_name": "Crossvale", 
+            "job_title": "Crossvale Sr. Developer"
+        }, 
+        {
+            "website": "www.armor.com", 
+            "image_link": "https://media.glassdoor.com/sqll/1060173/armor-squarelogo-1441980255258.png", 
+            "overallRating": "3.7", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "18", 
+            "snippet": "View Armors job listing for a Software Engineer In Test- Python in Dallas, TX - \nand then see company reviews, salaries, and more posted anonymously by \nArmor\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-in-test-python-armor-JV_IC1139977_KO0,32_KE33,38.htm?jl=1813557328", 
+            "company_name": "Armor", 
+            "job_title": "Armor Software Engineer In Test- Python"
+        }, 
+        {
+            "website": "www.toyota.co.jp", 
+            "image_link": "https://media.glassdoor.com/sqll/3544/toyota-squarelogo.png", 
+            "overallRating": "3.8", 
+            "industry": "Transportation Equipment Manufacturing", 
+            "numberOfRatings": "1196", 
+            "snippet": "View Toyotas job listing for a Sr. Analyst Software and Compliance in Dallas, TX - \nand then see company reviews, salaries, and more posted anonymously by\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-analyst-software-and-compliance-toyota-JV_IC1139977_KO0,34_KE35,41.htm?jl=1878802507", 
+            "company_name": "Toyota", 
+            "job_title": "Toyota Sr. Analyst Software and Compliance"
+        }, 
+        {
+            "website": "www.onenetwork.com", 
+            "image_link": "https://media.glassdoor.com/sqll/31863/one-network-squarelogo.png", 
+            "overallRating": "4.2", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "19", 
+            "snippet": "View One Networks job listing for a Senior Software Developer in Dallas, TX - \nand then see company reviews, salaries, and more posted anonymously by One\n\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/senior-software-developer-one-network-JV_IC1139977_KO0,25_KE26,37.htm?jl=1503079913", 
+            "company_name": "One Network", 
+            "job_title": "One Network Senior Software Developer"
+        }, 
+        {
+            "website": "www.prolim.com", 
+            "image_link": "https://media.glassdoor.com/sqll/624567/prolim-squarelogo-1397072949848.png", 
+            "overallRating": "4.1", 
+            "industry": "IT Services", 
+            "numberOfRatings": "14", 
+            "snippet": "View PROLIMs job listing for a C++ / CLI Developer in Dallas, TX - and then see \n... Write new software or make modifications to existing software applications\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/c-cli-developer-prolim-JV_IC1139977_KO0,15_KE16,22.htm?jl=1585636601", 
+            "company_name": "PROLIM", 
+            "job_title": "PROLIM C++ / CLI Developer"
+        }, 
+        {
+            "website": "www.onenetwork.com", 
+            "image_link": "https://media.glassdoor.com/sqll/31863/one-network-squarelogo.png", 
+            "overallRating": "4.2", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "19", 
+            "snippet": "View One Networks job listing for a Software Developer in Dallas, TX - and then \nsee company reviews, salaries, and more posted anonymously by One Network\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-developer-one-network-JV_IC1139977_KO0,18_KE19,30.htm?jl=1502382913", 
+            "company_name": "One Network", 
+            "job_title": "One Network Software Developer"
+        }, 
+        {
+            "website": "www.nexusitgroup.com", 
+            "image_link": "https://media.glassdoor.com/sqll/469283/nexus-it-group-squarelogo.png", 
+            "overallRating": "4.7", 
+            "industry": "Staffing & Outsourcing", 
+            "numberOfRatings": "7", 
+            "snippet": "View Nexus IT Groups job listing for a Java Developer in Dallas, TX - and then \nsee ... of software applications using existing and emerging technology platforms.", 
+            "link": "https://www.glassdoor.com/job-listing/java-developer-nexus-it-group-JV_IC1139977_KO0,14_KE15,29.htm?jl=1690205702", 
+            "company_name": "Nexus IT Group", 
+            "job_title": "Nexus IT Group Java Developer"
+        }, 
+        {
+            "website": "www.mastech.com", 
+            "image_link": "https://media.glassdoor.com/sqll/32469/mastech-squarelogo.png", 
+            "overallRating": "3.1", 
+            "industry": "Staffing & Outsourcing", 
+            "numberOfRatings": "126", 
+            "snippet": "View Mastechs job listing for a Senior Java Developer in Dallas, TX - and then \nsee company ... Current Employee - Senior Software Engineer in Alpharetta, GA.", 
+            "link": "https://www.glassdoor.com/job-listing/senior-java-developer-mastech-JV_IC1139977_KO0,21_KE22,29.htm?jl=1845598963", 
+            "company_name": "Mastech", 
+            "job_title": "Mastech Senior Java Developer"
+        }
+    ],
+    "date": "2016-08-21"
+}

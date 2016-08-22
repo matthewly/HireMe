@@ -1,0 +1,50 @@
+{
+    "count": 4, 
+    "items": [
+        {
+            "website": "www.trunkclub.com", 
+            "image_link": "https://media.glassdoor.com/sqll/675938/trunk-club-squarelogo-1384780846469.png", 
+            "overallRating": "3.1", 
+            "industry": "Department, Clothing, & Shoe Stores", 
+            "numberOfRatings": "136", 
+            "snippet": "Software Engineer (Chicago) - Trunk Club. Who we are. We're building the future \nof retail, enabled through technology. Come talk to us if you're interested in\u00a0...", 
+            "link": "https://boards.greenhouse.io/trunkclub/jobs/44920", 
+            "company_name": "Trunk Club", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.stratadecision.com", 
+            "image_link": "https://media.glassdoor.com/sqll/122556/strata-decision-technology-squarelogo.png", 
+            "overallRating": "3.4", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "53", 
+            "snippet": "Software Solution Analyst. Strata Decision Technology 3.4 53 Reviews \u2013 \nChicago, IL. Apply on .... Current Employee - Senior Software Developer in \nChicago, IL.", 
+            "link": "https://www.glassdoor.com/job-listing/software-solution-analyst-strata-decision-technology-JV_IC1128808_KO0,25_KE26,52.htm?jl=1735809280", 
+            "company_name": "Strata Decision Technology", 
+            "job_title": "Strata Decision Technology Software Solution Analyst"
+        }, 
+        {
+            "website": "www.kcg.com", 
+            "image_link": "https://media.glassdoor.com/sqll/722461/kcg-squarelogo-1406745470390.png", 
+            "overallRating": "3.5", 
+            "industry": "Consulting", 
+            "numberOfRatings": "71", 
+            "snippet": "View KCGs job listing for a C++ / Edge Developer in Chicago, IL - and then see \ncompany ... The successful candidate will enjoy utilizing their extensive software,\n\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/c-edge-developer-kcg-JV_IC1128808_KO0,16_KE17,20.htm?jl=1822002775", 
+            "company_name": "KCG", 
+            "job_title": "KCG C++ / Edge Developer"
+        }, 
+        {
+            "website": "www.duoconsulting.com", 
+            "image_link": "https://media.glassdoor.com/sqll/261302/duo-consulting-squarelogo.png", 
+            "overallRating": "3", 
+            "industry": "Advertising & Marketing", 
+            "numberOfRatings": "10", 
+            "snippet": "View Duo Consultings job listing for a Front End Developer in Chicago, ... Duo \nConsulting 3.0 10 Reviews \u2013 Chicago, IL .... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/front-end-developer-duo-consulting-JV_IC1128808_KO0,19_KE20,34.htm?jl=1869653541", 
+            "company_name": "Duo Consulting", 
+            "job_title": "Duo Consulting Front End Developer"
+        }
+    ],
+    "date": "2016-08-21"
+}

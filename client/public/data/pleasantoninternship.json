@@ -1,0 +1,105 @@
+{
+    "count": 9, 
+    "items": [
+        {
+            "website": "www.internetbrands.com", 
+            "image_link": "https://media.glassdoor.com/sqll/9344/internet-brands-squarelogo.png", 
+            "overallRating": "3.3", 
+            "industry": "Internet", 
+            "numberOfRatings": "284", 
+            "snippet": "View Internet Brandss job listing for a Web Developer (PHP) Intern in Pleasanton, \nCA - and then see ... We produce websites, books, online apps, and software.", 
+            "link": "https://www.glassdoor.com/job-listing/web-developer-php-intern-internet-brands-JV_IC1147390_KO0,24_KE25,40.htm?jl=1650837770", 
+            "company_name": "Internet Brands", 
+            "job_title": "Internet Brands Web Developer (PHP) Intern"
+        }, 
+        {
+            "website": "www.internetbrands.com", 
+            "image_link": "https://media.glassdoor.com/sqll/9344/internet-brands-squarelogo.png", 
+            "overallRating": "3.3", 
+            "industry": "Internet", 
+            "numberOfRatings": "284", 
+            "snippet": "View Internet Brandss job listing for a Quality Assurance Intern in Pleasanton, CA \n- and then see ... Former Employee - Software Developer in El Segundo, CA.", 
+            "link": "https://www.glassdoor.com/job-listing/quality-assurance-intern-internet-brands-JV_IC1147390_KO0,24_KE25,40.htm?jl=1582500827", 
+            "company_name": "Internet Brands", 
+            "job_title": "Internet Brands Quality Assurance Intern"
+        }, 
+        {
+            "website": "www.servicemax.com", 
+            "image_link": "https://media.glassdoor.com/sqll/356432/servicemax-squarelogo-1430915556061.png", 
+            "overallRating": "3.8", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "50", 
+            "snippet": "The ServiceMax UI Internship could be just what you need. Located in \nPleasanton, CA ServiceMax is the market leader in field service software \nsolutions.", 
+            "link": "https://www.glassdoor.com/job-listing/ux-design-intern-servicemax-JV_IC1147390_KO0,16_KE17,27.htm?jl=1904285161", 
+            "company_name": "ServiceMax", 
+            "job_title": "ServiceMax UX Design Intern"
+        }, 
+        {
+            "website": "www.kaiserpermanente.org", 
+            "image_link": "https://media.glassdoor.com/sqll/19466/kaiser-permanente-squarelogo.png", 
+            "overallRating": "3.8", 
+            "industry": "Health Care Services & Hospitals", 
+            "numberOfRatings": "3614", 
+            "snippet": "View Kaiser Permanentes job listing for a IT Intern-Undergrad in Pleasanton, CA \n... Our interns have worked on everything from analyzing financial software and\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/it-intern-undergrad-kaiser-permanente-JV_IC1147390_KO0,19_KE20,37.htm?jl=1827690557", 
+            "company_name": "Kaiser Permanente", 
+            "job_title": "Kaiser Permanente IT Intern-Undergrad"
+        }, 
+        {
+            "website": "www.elliemae.com", 
+            "image_link": "https://media.glassdoor.com/sqll/260441/ellie-mae-squarelogo-1458167833453.png", 
+            "overallRating": "4.2", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "81", 
+            "snippet": "Aug 12, 2016 ... View Ellie Maes job listing for a Software Engineer in Pleasanton, CA - and then \n... Software Developer salaries ($79k) ... Intern salaries ($33k).", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-ellie-mae-JV_IC1147390_KO0,17_KE18,27.htm?jl=1861448023", 
+            "company_name": "Ellie Mae", 
+            "job_title": "Ellie Mae Software Engineer"
+        }, 
+        {
+            "website": "www.kaiserpermanente.org", 
+            "image_link": "https://media.glassdoor.com/sqll/19466/kaiser-permanente-squarelogo.png", 
+            "overallRating": "3.8", 
+            "industry": "Health Care Services & Hospitals", 
+            "numberOfRatings": "3614", 
+            "snippet": "View Kaiser Permanentes job listing for a System Software Engineer in ... Kaiser \nPermanente 3.8 3,320 Reviews \u2013 Pleasanton, CA. Apply on .... Software \nDeveloper jobs \u00b7 Software Developer salaries ($79k) \u00b7 Intern jobs \u00b7 Intern salaries \n($33k).", 
+            "link": "https://www.glassdoor.com/job-listing/system-software-engineer-kaiser-permanente-JV_IC1147390_KO0,24_KE25,42.htm?jl=1871585071", 
+            "company_name": "Kaiser Permanente", 
+            "job_title": "Kaiser Permanente System Software Engineer"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "Achiever Business Solutions \u2013 Pleasanton, CA ... Our expanding IBM practice is \nlooking for Sr. Responsive Web Developer in ... Software Engineer jobs.", 
+            "link": "https://www.glassdoor.com/job-listing/ui-developer-achiever-business-solutions-JV_IC1147390_KO0,12_KE13,40.htm?jl=1858152591", 
+            "company_name": "Achiever Business Solutions", 
+            "job_title": "Achiever Business Solutions UI developer"
+        }, 
+        {
+            "website": "www.internetbrands.com", 
+            "image_link": "https://media.glassdoor.com/sqll/9344/internet-brands-squarelogo.png", 
+            "overallRating": "3.3", 
+            "industry": "Internet", 
+            "numberOfRatings": "284", 
+            "snippet": "View Internet Brandss job listing for a Lead PHP Developer in Pleasanton, CA - \nand then see company reviews, ... Software Engineer Intern salaries ($91k).", 
+            "link": "https://www.glassdoor.com/job-listing/lead-php-developer-internet-brands-JV_IC1147390_KO0,18_KE19,34.htm?jl=1496514355", 
+            "company_name": "Internet Brands", 
+            "job_title": "Internet Brands Lead PHP Developer"
+        }, 
+        {
+            "website": "www.roche.com", 
+            "image_link": "https://media.glassdoor.com/sqll/3480/roche-squarelogo.png", 
+            "overallRating": "3.8", 
+            "industry": "Biotech & Pharmaceuticals", 
+            "numberOfRatings": "1032", 
+            "snippet": "Roche 3.8 931 Reviews \u2013 Pleasanton, CA ... Be an experienced software \ndeveloper in Unix-like environments, used to ... Former Employee - Graduate \nIntern.", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-bioinformatics-sequencing-roche-JV_IC1147390_KO0,43_KE44,49.htm?jl=1894575386", 
+            "company_name": "Roche", 
+            "job_title": "Roche Software Engineer, Bioinformatics, Sequencing"
+        }
+    ], 
+    "date": "2016-08-21"
+}

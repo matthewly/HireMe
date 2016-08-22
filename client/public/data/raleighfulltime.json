@@ -1,0 +1,105 @@
+{
+    "count": 9, 
+    "items": [
+        {
+            "website": "www.pipercompanies.com", 
+            "image_link": "https://media.glassdoor.com/sqll/704103/piper-enterprise-solutions-squarelogo-1428065615215.png", 
+            "overallRating": "4.6", 
+            "industry": "Staffing & Outsourcing", 
+            "numberOfRatings": "26", 
+            "snippet": "Piper Enterprise Solutions is seeking a ColdFusion Developer in Raleigh, ... \ndeveloping, implementing, and maintaining new software applications to aid in\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/coldfusion-developer-piper-enterprise-solutions-JV_IC1138960_KO0,20_KE21,47.htm?jl=1192307963", 
+            "company_name": "Piper Enterprise Solutions", 
+            "job_title": "Piper Enterprise Solutions ColdFusion Developer"
+        }, 
+        {
+            "website": "www.icidigital.com", 
+            "image_link": "", 
+            "overallRating": "4.5", 
+            "industry": "IT Services", 
+            "numberOfRatings": "6", 
+            "snippet": "View ICIDIGITALs job listing for a Senior Java Developer in Raleigh, NC - and \nthen see company reviews, salaries, ... Senior Software Engineer salaries ($110k\n).", 
+            "link": "https://www.glassdoor.com/job-listing/senior-java-developer-icidigital-JV_IC1138960_KO0,21_KE22,32.htm?jl=1880610625", 
+            "company_name": "ICIDIGITAL", 
+            "job_title": "ICIDIGITAL Senior Java Developer"
+        }, 
+        {
+            "website": "www.pipercompanies.com", 
+            "image_link": "https://media.glassdoor.com/sqll/704103/piper-enterprise-solutions-squarelogo-1428065615215.png", 
+            "overallRating": "4.6", 
+            "industry": "Staffing & Outsourcing", 
+            "numberOfRatings": "26", 
+            "snippet": "... Solutionss job listing for a Jr. Healthcare Integration Developer in Raleigh, NC \n... Software Applications, Business Analytics and Information Security arenas.", 
+            "link": "https://www.glassdoor.com/job-listing/jr-healthcare-integration-developer-piper-enterprise-solutions-JV_IC1138960_KO0,35_KE36,62.htm?jl=1151792231", 
+            "company_name": "Piper Enterprise Solutions", 
+            "job_title": "Piper Enterprise Solutions Jr. Healthcare Integration Developer"
+        }, 
+        {
+            "website": "www.pipercompanies.com", 
+            "image_link": "https://media.glassdoor.com/sqll/704103/piper-enterprise-solutions-squarelogo-1428065615215.png", 
+            "overallRating": "4.6", 
+            "industry": "Staffing & Outsourcing", 
+            "numberOfRatings": "26", 
+            "snippet": "... Solutionss job listing for a Sr. Healthcare Integration Developer in Raleigh, NC \n... Software Applications, Business Analytics and Information Security arenas.", 
+            "link": "https://www.glassdoor.com/job-listing/sr-healthcare-integration-developer-piper-enterprise-solutions-JV_IC1138960_KO0,35_KE36,62.htm?jl=1151792264", 
+            "company_name": "Piper Enterprise Solutions", 
+            "job_title": "Piper Enterprise Solutions Sr. Healthcare Integration Developer"
+        }, 
+        {
+            "website": "www.icidigital.com", 
+            "image_link": "", 
+            "overallRating": "4.5", 
+            "industry": "IT Services", 
+            "numberOfRatings": "6", 
+            "snippet": "View ICIDIGITALs job listing for a Senior AEM Developer in Raleigh, NC - and \nthen see company ... Former Employee - Software Developer in Raleigh, NC.", 
+            "link": "https://www.glassdoor.com/job-listing/senior-aem-developer-icidigital-JV_IC1138960_KO0,20_KE21,31.htm?jl=1880610626", 
+            "company_name": "ICIDIGITAL", 
+            "job_title": "ICIDIGITAL Senior AEM Developer"
+        }, 
+        {
+            "website": "www.credit-suisse.com", 
+            "image_link": "https://media.glassdoor.com/sqll/3141/credit-suisse-squarelogo.png", 
+            "overallRating": "3.6", 
+            "industry": "Investment Banking & Asset Management", 
+            "numberOfRatings": "2537", 
+            "snippet": "View Credit Suisses job listing for a Sr. Java Developer in Raleigh, NC - and then \nsee company reviews, salaries, ... Senior Software Engineer salaries ($110k).", 
+            "link": "https://www.glassdoor.com/job-listing/sr-java-developer-credit-suisse-JV_IC1138960_KO0,17_KE18,31.htm?jl=1860370449", 
+            "company_name": "Credit Suisse", 
+            "job_title": "Credit Suisse Sr. Java Developer"
+        }, 
+        {
+            "website": "www.lenovo.com", 
+            "image_link": "https://media.glassdoor.com/sqll/8034/lenovo-squarelogo-1454352444066.png", 
+            "overallRating": "3.3", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "805", 
+            "snippet": "This position is part of Lenovo Software Development Team that will be ... Current \nEmployee - Supply Chain Engineer/Analyst/Developer in Raleigh, NC.", 
+            "link": "https://www.glassdoor.com/job-listing/software-developer-lenovo-JV_IC1138960_KO0,18_KE19,25.htm?jl=1804938178", 
+            "company_name": "Lenovo", 
+            "job_title": "Lenovo Software Engineer (API Development)"
+        }, 
+        {
+            "website": "www.atlanticbt.com", 
+            "image_link": "https://media.glassdoor.com/sqll/771604/atlantic-business-technologies-squarelogo-1454535115836.png", 
+            "overallRating": "4.3", 
+            "industry": "Internet", 
+            "numberOfRatings": "17", 
+            "snippet": "NET Developer in Raleigh, NC - and then see company reviews, salaries, and ... \noriented C# development; Experience with ORM software - Entity Framework,\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/net-developer-atlantic-bt-JV_IC1138960_KO0,13_KE14,25.htm?jl=1853131672", 
+            "company_name": "Atlantic BT", 
+            "job_title": "Atlantic BT .NET Developer"
+        }, 
+        {
+            "website": "www.ixl.com", 
+            "image_link": "https://media.glassdoor.com/sqll/326423/ixl-learning-squarelogo-1455823304636.png", 
+            "overallRating": "4", 
+            "industry": "K-12 Education", 
+            "numberOfRatings": "97", 
+            "snippet": "View IXL Learnings job listing for a Math Software Engineer (Raleigh-Durham in \nRaleigh, NC - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/math-software-engineer-raleigh-durham-ixl-learning-JV_IC1138960_KO0,37_KE38,50.htm?jl=1519443833", 
+            "company_name": "IXL Learning", 
+            "job_title": "IXL Learning Math Software Engineer (Raleigh-Durham"
+        }
+    ],
+    "date": "2016-08-21"
+}

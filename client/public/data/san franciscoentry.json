@@ -1,0 +1,61 @@
+{
+    "count": 5, 
+    "items": [
+        {
+            "website": "www.affirm.com", 
+            "image_link": "https://media.glassdoor.com/sqll/823564/affirm-squarelogo-1460125523964.png", 
+            "overallRating": "5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "18", 
+            "snippet": "Software Engineer - 2017 University Grad. San Francisco, CA ... As a recent \nuniversity grad, you'll contribute meaningfully to our top-notch engineering team. \n... Developer API development/documentationAWS or other PaS frameworks; \nStrong\u00a0...", 
+            "link": "https://jobs.lever.co/affirm/7dc2f97a-47cf-42da-8f34-6f258cc68302", 
+            "company_name": "Affirm", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.liveramp.com", 
+            "image_link": "https://media.glassdoor.com/sqll/633892/liveramp-squarelogo-1426200869684.png", 
+            "overallRating": "4.7", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "75", 
+            "snippet": "San Francisco, CA ... As a Software Generalist you will help bring this vision to \nlife by tackling your projects head on. ... Day in the Life of a LiveRamp New Grad:.", 
+            "link": "https://boards.greenhouse.io/liveramp/jobs/59087", 
+            "company_name": "LiveRamp", 
+            "job_title": "Software Generalist, New Grad"
+        }, 
+        {
+            "website": "www.pix4d.com", 
+            "image_link": "", 
+            "overallRating": "0", 
+            "industry": "", 
+            "numberOfRatings": "0", 
+            "snippet": "View Pix4Ds job listing for a Junior Sales Manager for Drone Software, USA in \nSan Francisco, CA - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/junior-sales-manager-for-drone-software-usa-pix4d-JV_IC1147401_KO0,43_KE44,49.htm?jl=1861620071", 
+            "company_name": "Pix4D", 
+            "job_title": "Pix4D Junior Sales Manager for Drone Software, USA"
+        }, 
+        {
+            "website": "www.lcicorp.com", 
+            "image_link": "", 
+            "overallRating": "0", 
+            "industry": "Chemical Manufacturing", 
+            "numberOfRatings": "0", 
+            "snippet": "View LCI Corporations job listing for a Software Design Associate in San \nFrancisco, CA - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-design-associate-lci-JV_IC1147401_KO0,25_KE26,29.htm?jl=1884285311", 
+            "company_name": "LCI Corporation", 
+            "job_title": "LCI Corporation Software Design Associate"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "One or more prior internships as a software engineer, or equivalent experience ... \nPursuant to the San Francisco Fair Chance Ordinance, we will consider for\u00a0...", 
+            "link": "https://boards.greenhouse.io/figma/jobs/130870", 
+            "company_name": "Figma", 
+            "job_title": "Software Engineer, New Grad"
+        }
+    ], 
+    "date": "2016-08-21"
+}

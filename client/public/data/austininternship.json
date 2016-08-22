@@ -1,0 +1,116 @@
+{
+    "count": 10, 
+    "items": [
+        {
+            "website": "www.teachergraph.com", 
+            "image_link": "", 
+            "overallRating": "0", 
+            "industry": "Internet", 
+            "numberOfRatings": "0", 
+            "snippet": "View TeacherGraphs job listing for a Front End Developer Intern in Austin, TX - \nand ... TeacherGraph \u2013 Austin, TX ... Software Engineer Intern salaries ($91k).", 
+            "link": "https://www.glassdoor.com/job-listing/front-end-developer-intern-teachergraph-JV_IC1139761_KO0,26_KE27,39.htm?jl=1236815470", 
+            "company_name": "TeacherGraph", 
+            "job_title": "TeacherGraph Front End Developer Intern"
+        }, 
+        {
+            "website": "www.intific.com", 
+            "image_link": "https://media.glassdoor.com/sqll/672590/intific-squarelogo-1428961575769.png", 
+            "overallRating": "3.6", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "5", 
+            "snippet": "View Intifics job listing for a Software Engineer Intern in Austin, TX - and then see \n... Intific is a software developer with the majority of its production development\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-intern-intific-JV_IC1139761_KO0,24_KE25,32.htm?jl=1886923963", 
+            "company_name": "Intific", 
+            "job_title": "Intific Software Engineer Intern"
+        }, 
+        {
+            "website": "www.ihiji.com", 
+            "image_link": "https://media.glassdoor.com/sqll/439833/ihiji-squarelogo-1464269773910.png", 
+            "overallRating": "4.5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "4", 
+            "snippet": "View IHIJIs job listing for a Intern Web Application Developer in Austin, ... an \nentrepreneurial start-up Software-as-a-Service (SaaS) company, is growing its \nteam\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/intern-web-application-developer-ihiji-JV_IC1139761_KO0,32_KE33,38.htm?jl=1835775311", 
+            "company_name": "IHIJI", 
+            "job_title": "IHIJI Intern Web Application Developer"
+        }, 
+        {
+            "website": "www.yodle.com", 
+            "image_link": "https://media.glassdoor.com/sqll/232202/yodle-squarelogo.png", 
+            "overallRating": "3.1", 
+            "industry": "Advertising & Marketing", 
+            "numberOfRatings": "450", 
+            "snippet": "3 days ago ... View Yodles job listing for a Software Engineering Intern in Austin, ... a developer \nproductivity tool for quickly configuring environments, and a\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineering-intern-yodle-JV_IC1139761_KO0,27_KE28,33.htm?jl=1927881328", 
+            "company_name": "Yodle", 
+            "job_title": "Yodle Software Engineering Intern"
+        }, 
+        {
+            "website": "www.homeaway.com", 
+            "image_link": "https://media.glassdoor.com/sqll/42523/homeaway-squarelogo-1432807375845.png", 
+            "overallRating": "4.3", 
+            "industry": "Internet", 
+            "numberOfRatings": "284", 
+            "snippet": "Jul 20, 2016 ... View HomeAways job listing for a Software Engineering Intern in Austin, ... Every \ndeveloper in the company at some point interacts with the\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineering-intern-homeaway-JV_IC1139761_KO0,27_KE28,36.htm?jl=1916521731", 
+            "company_name": "HomeAway", 
+            "job_title": "HomeAway Software Engineering Intern"
+        }, 
+        {
+            "website": "www.ibm.com", 
+            "image_link": "https://media.glassdoor.com/sqll/354/ibm-squarelogo-1468349448058.png", 
+            "overallRating": "3.3", 
+            "industry": "Consulting", 
+            "numberOfRatings": "23405", 
+            "snippet": "Aug 4, 2016 ... View IBMs job listing for a Cloud Software Security Developer-Intern in Austin, TX \n- and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/cloud-software-security-developer-intern-ibm-JV_IC1139761_KO0,40_KE41,44.htm?jl=1925832541", 
+            "company_name": "IBM", 
+            "job_title": "IBM Cloud Software Security Developer-Intern"
+        }, 
+        {
+            "website": "www.ibm.com", 
+            "image_link": "https://media.glassdoor.com/sqll/354/ibm-squarelogo-1468349448058.png", 
+            "overallRating": "3.3", 
+            "industry": "Consulting", 
+            "numberOfRatings": "23405", 
+            "snippet": "Aug 5, 2016 ... View IBMs job listing for a Software Developer - Intern in Austin, TX - and then \nsee company reviews, salaries, and more posted anonymously\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-developer-intern-ibm-JV_IC1139761_KO0,25_KE26,29.htm?jl=1917599774", 
+            "company_name": "IBM", 
+            "job_title": "IBM Software Developer - Intern"
+        }, 
+        {
+            "website": "www.cdkglobal.com", 
+            "image_link": "https://media.glassdoor.com/sqll/870191/cdk-global-squarelogo-1410393927700.png", 
+            "overallRating": "2.8", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "767", 
+            "snippet": "View CDK Globals job listing for a 2016 Summer Internship - Software \nDevelopment in Austin, TX - and then see company reviews, salaries, and more \nposted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/2016-summer-internship-software-development-cdk-global-JV_IC1139761_KO0,43_KE44,54.htm?jl=1730799834", 
+            "company_name": "CDK Global", 
+            "job_title": "CDK Global 2016 Summer Internship - Software Development"
+        }, 
+        {
+            "website": "www.mcgarrahjessee.com", 
+            "image_link": "https://media.glassdoor.com/sqll/29272/mcgarrah-jessee-squarelogo.png", 
+            "overallRating": "4.4", 
+            "industry": "Advertising & Marketing", 
+            "numberOfRatings": "15", 
+            "snippet": "View McGarrah Jessees job listing for a Front End Web Developer Intern in \nAustin, TX - and then see company reviews, salaries, and more posted \nanonymously\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/front-end-web-developer-intern-mcgarrah-jessee-JV_IC1139761_KO0,30_KE31,46.htm?jl=1877468648", 
+            "company_name": "McGarrah Jessee", 
+            "job_title": "McGarrah Jessee Front End Web Developer Intern"
+        }, 
+        {
+            "website": "www.ibm.com", 
+            "image_link": "https://media.glassdoor.com/sqll/354/ibm-squarelogo-1468349448058.png", 
+            "overallRating": "3.3", 
+            "industry": "Consulting", 
+            "numberOfRatings": "23405", 
+            "snippet": "View IBMs job listing for a Software Design Intern in Austin, TX - and then see \ncompany reviews, salaries, and more posted anonymously by IBM employees.", 
+            "link": "https://www.glassdoor.com/job-listing/software-design-intern-ibm-JV_IC1139761_KO0,22_KE23,26.htm?jl=1851040349", 
+            "company_name": "IBM", 
+            "job_title": "IBM Software Design Intern"
+        }
+    ], 
+    "date": "2016-08-21"
+}

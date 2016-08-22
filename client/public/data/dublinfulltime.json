@@ -1,0 +1,72 @@
+{
+    "count": 6, 
+    "items": [
+        {
+            "website": "www.reedelsevier.com", 
+            "image_link": "https://media.glassdoor.com/sqll/3502/reed-elsevier-group-squarelogo-1461920990666.png", 
+            "overallRating": "3.4", 
+            "industry": "News Outlet", 
+            "numberOfRatings": "159", 
+            "snippet": "May 16, 2016 ... Senior GIS Developer and Administrator \u2013 Dublin, Ireland ... Extensive \nknowledge GIS applications (ESRI, QGIS) or similar software package.", 
+            "link": "https://www.glassdoor.com/job-listing/senior-gis-developer-reed-elsevier-group-JV_IC2739035_KO0,20_KE21,40.htm?jl=1720447585", 
+            "company_name": "Reed Elsevier Group", 
+            "job_title": "Reed Elsevier Group Senior GIS Developer"
+        }, 
+        {
+            "website": "www.demonware.net", 
+            "image_link": "https://media.glassdoor.com/sqll/470901/demonware-squarelogo-1435295508704.png", 
+            "overallRating": "3.5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "13", 
+            "snippet": "We have an opening in our Vancouver or Dublin office for a Lead / Principal \nSoftware Engineer .... Former Employee - Junior Software Developer in Dublin, \nCo.", 
+            "link": "https://www.glassdoor.com/job-listing/principal-lead-software-engineer-demonware-JV_IC2739035_KO0,32_KE33,42.htm?jl=1888906262", 
+            "company_name": "Demonware", 
+            "job_title": "Demonware Principal / Lead Software Engineer"
+        }, 
+        {
+            "website": "www.demonware.net", 
+            "image_link": "https://media.glassdoor.com/sqll/470901/demonware-squarelogo-1435295508704.png", 
+            "overallRating": "3.5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "13", 
+            "snippet": "View DemonWares job listing for a Software Engineer in Dublin - and then see \ncompany reviews ... Former Employee - Junior Software Developer in Dublin, Co.", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-demonware-JV_IC1150413_KO0,17_KE18,27.htm?jl=1877063022", 
+            "company_name": "DemonWare", 
+            "job_title": "DemonWare Software Engineer"
+        }, 
+        {
+            "website": "www.demonware.net", 
+            "image_link": "https://media.glassdoor.com/sqll/470901/demonware-squarelogo-1435295508704.png", 
+            "overallRating": "3.5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "13", 
+            "snippet": "View DemonWares job listing for a Software Engineer (Rewards) in Dublin - and \nthen see ... Former Employee - Junior Software Developer in Dublin, Co. Dublin\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-rewards-demonware-JV_IC2416009_KO0,25_KE26,35.htm?jl=1799737570", 
+            "company_name": "DemonWare", 
+            "job_title": "DemonWare Software Engineer (Rewards)"
+        }, 
+        {
+            "website": "www.demonware.net", 
+            "image_link": "https://media.glassdoor.com/sqll/470901/demonware-squarelogo-1435295508704.png", 
+            "overallRating": "3.5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "13", 
+            "snippet": "May 14, 2016 ... View Demonwares job listing for a Senior Software Engineer in Dublin - and ... \nFormer Employee - Junior Software Developer in Dublin, Co.", 
+            "link": "https://www.glassdoor.com/job-listing/senior-software-engineer-demonware-JV_IC2739035_KO0,24_KE25,34.htm?jl=1457522636", 
+            "company_name": "Demonware", 
+            "job_title": "Demonware Senior Software Engineer"
+        }, 
+        {
+            "website": "www.digitgaming.com", 
+            "image_link": "https://media.glassdoor.com/sqll/1160486/digit-squarelogo-1467123072549.png", 
+            "overallRating": "4.3", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "3", 
+            "snippet": "View Digit Game Studios Ltds job listing for a Full Stack Game Developer - \nKINGS in Dublin - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/full-stack-game-developer-kings-digit-game-studios-JV_IC2739035_KO0,31_KE32,50.htm?jl=1676462676", 
+            "company_name": "Digit Game Studios Ltd", 
+            "job_title": "Digit Game Studios Ltd Full Stack Game Developer - KINGS"
+        }
+    ],
+    "date": "2016-08-21"
+}

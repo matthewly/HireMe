@@ -1,0 +1,83 @@
+{
+    "count": 7, 
+    "items": [
+        {
+            "website": "www.karat.io", 
+            "image_link": "", 
+            "overallRating": "0", 
+            "industry": "Internet", 
+            "numberOfRatings": "0", 
+            "snippet": "Software Engineering Intern. Seattle. Engineering. Intern. Apply for this job. Our \nmission at ... Karat is headquartered in the University District of Seattle, WA.", 
+            "link": "https://jobs.lever.co/karat/c6666daf-6103-4430-85ac-4a45f5b0acfa", 
+            "company_name": "Karat", 
+            "job_title": "Software Engineering Intern"
+        }, 
+        {
+            "website": "www.socedo.com", 
+            "image_link": "", 
+            "overallRating": "-1", 
+            "industry": "", 
+            "numberOfRatings": "1", 
+            "snippet": "5 days ago ... View Socedos job listing for a Software Engineering Intern in Seattle, WA ... We \nare looking for passionate and dedicated developer talents to\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineering-intern-socedo-JV_IC1150505_KO0,27_KE28,34.htm?jl=1716040075", 
+            "company_name": "Socedo", 
+            "job_title": "Socedo Software Engineering Intern"
+        }, 
+        {
+            "website": "www.eatonvance.com", 
+            "image_link": "https://media.glassdoor.com/sqll/3553/eaton-vance-squarelogo-1378733264387.png", 
+            "overallRating": "4", 
+            "industry": "Investment Banking & Asset Management", 
+            "numberOfRatings": "73", 
+            "snippet": "View Eaton Vances job listing for a Software Engineer Intern in Seattle, WA - and \nthen see company reviews, salaries, and ... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-intern-eaton-vance-JV_IC1150505_KO0,24_KE25,36.htm?jl=1771070399", 
+            "company_name": "Eaton Vance", 
+            "job_title": "Eaton Vance Software Engineer Intern"
+        }, 
+        {
+            "website": "www.extrahop.com", 
+            "image_link": "https://media.glassdoor.com/sqll/558420/extrahop-networks-squarelogo-1424928162043.png", 
+            "overallRating": "4.1", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "30", 
+            "snippet": "Jul 30, 2016 ... View ExtraHop Networks, Inc.s job listing for a Intern Software Engineer, Backend \nin Seattle, WA - and then see company ... ExtraHop Networks, Inc. 4.1 29 \nReviews \u2013 Seattle, WA .... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/intern-software-engineer-backend-extrahop-networks-inc-JV_IC1150505_KO0,32_KE33,54.htm?jl=1915421038", 
+            "company_name": "ExtraHop Networks, Inc.", 
+            "job_title": "ExtraHop Networks, Inc. Intern Software Engineer, Backend"
+        }, 
+        {
+            "website": "www.synapse.com", 
+            "image_link": "https://media.glassdoor.com/sqll/237791/synapse-product-development-squarelogo.png", 
+            "overallRating": "4.2", 
+            "industry": "Architectural & Engineering Services", 
+            "numberOfRatings": "41", 
+            "snippet": "Aug 9, 2016 ... View Synapse Product Developments job listing for a Software Engineering \nIntern - FALL in Seattle, WA - and then see company reviews,\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineering-intern-fall-synapse-product-development-JV_IC1150505_KO0,32_KE33,60.htm?jl=1899443504", 
+            "company_name": "Synapse Product Development", 
+            "job_title": "Synapse Product Development Software Engineering Intern - FALL"
+        }, 
+        {
+            "website": "home.disney.go.com/travel", 
+            "image_link": "https://media.glassdoor.com/sqll/13843/disney-parks-and-resorts-squarelogo-1432918412488.png", 
+            "overallRating": "3.7", 
+            "industry": "Museums, Zoos & Amusement Parks", 
+            "numberOfRatings": "2218", 
+            "snippet": "View Disneys job listing for a Software Quality Engineering Intern, Corporate - \nFall in Seattle, WA - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-quality-engineering-intern-corporate-fall-disney-JV_IC1150505_KO0,50_KE51,57.htm?jl=1917599099", 
+            "company_name": "Disney", 
+            "job_title": "Disney Software Quality Engineering Intern, Corporate - Fall"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "View Amazon Corporate LLCs job listing for a 2017 Summer Internship - \nSoftware Development Engineer in Seattle, WA - and then see company reviews,\n\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/2017-summer-internship-software-development-engineer-amazon-corporate-JV_IC1150505_KO0,52_KE53,69.htm?jl=1912815538", 
+            "company_name": "Amazon Corporate LLC", 
+            "job_title": "Amazon Corporate LLC 2017 Summer Internship - Software Development Engineer"
+        }
+    ], 
+    "date": "2016-08-21"
+}

@@ -1,0 +1,50 @@
+{
+    "count": 4, 
+    "items": [
+        {
+            "website": "--", 
+            "image_link": "", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "View Iodine Softwares job listing for a Marketing Associate in Austin, TX - and ... \nreviews, salaries, and more posted anonymously by Iodine Software employees.", 
+            "link": "https://www.glassdoor.com/job-listing/marketing-associate-iodine-software-JV_IC1139761_KO0,19_KE20,35.htm?jl=1832706896", 
+            "company_name": "Iodine Software", 
+            "job_title": "Iodine Software Marketing Associate"
+        }, 
+        {
+            "website": "www.dnb.com", 
+            "image_link": "https://media.glassdoor.com/sqll/213/dun-and-bradstreet-squarelogo-1426093563952.png", 
+            "overallRating": "3.1", 
+            "industry": "Financial Analytics & Research", 
+            "numberOfRatings": "601", 
+            "snippet": "View Dun & Bradstreets job listing for a PL - Developer / Engineer in Austin, TX - \nand then ... Dun & Bradstreet \u2013 Austin, TX ... Associate Analyst salaries ($66k).", 
+            "link": "https://www.glassdoor.com/job-listing/pl-developer-engineer-dun-bradstreet-JV_IC1139761_KO0,21_KE22,36.htm?jl=1551789357", 
+            "company_name": "Dun & Bradstreet", 
+            "job_title": "Dun & Bradstreet PL - Developer / Engineer"
+        }, 
+        {
+            "website": "www.foreflight.com", 
+            "image_link": "", 
+            "overallRating": "0", 
+            "industry": "", 
+            "numberOfRatings": "0", 
+            "snippet": "ForeFlight is looking for a software developer to join our Server/API team in \nAustin. ... Junior candidates and recent CS grads are encouraged to apply.", 
+            "link": "http://stackoverflow.com/jobs/120770/server-developer-java-foreflight", 
+            "company_name": "ForeFlight", 
+            "job_title": "Server Developer (Java)"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "View TheGreatOuts job listing for a Sale Associate in Austin, TX - and then ... to \nagree to a demonstration of the software provided by a Sales Representative.", 
+            "link": "https://www.glassdoor.com/job-listing/sale-associate-thegreatout-JV_IC1139761_KO0,14_KE15,26.htm?jl=1877138672", 
+            "company_name": "TheGreatOut", 
+            "job_title": "TheGreatOut Sale Associate"
+        }
+    ], 
+    "date": "2016-08-21"
+}

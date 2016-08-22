@@ -1,0 +1,116 @@
+{
+    "count": 10, 
+    "items": [
+        {
+            "website": "www.reqrouteinc.com", 
+            "image_link": "https://media.glassdoor.com/sqll/370873/reqroute-inc-squarelogo-1446679026188.png", 
+            "overallRating": "4.3", 
+            "industry": "Staffing & Outsourcing", 
+            "numberOfRatings": "4", 
+            "snippet": "View ReqRoute,Incs job listing for a JasperSoft Developer in Pleasanton, CA - \nand then see company reviews, salaries, and more posted anonymously by\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/jaspersoft-developer-reqroute-JV_IC1147390_KO0,20_KE21,29.htm?jl=1876036684", 
+            "company_name": "ReqRoute,Inc", 
+            "job_title": "ReqRoute,Inc JasperSoft Developer"
+        }, 
+        {
+            "website": "www.internetbrands.com", 
+            "image_link": "https://media.glassdoor.com/sqll/9344/internet-brands-squarelogo.png", 
+            "overallRating": "3.3", 
+            "industry": "Internet", 
+            "numberOfRatings": "284", 
+            "snippet": "Web Developer (PHP) Intern. Internet Brands 3.3 270 Reviews \u2013 Pleasanton, CA. \nApply on .... Former Employee - Software Developer in El Segundo, CA.", 
+            "link": "https://www.glassdoor.com/job-listing/web-developer-php-intern-internet-brands-JV_IC1147390_KO0,24_KE25,40.htm?jl=1650837770", 
+            "company_name": "Internet Brands", 
+            "job_title": "Internet Brands Web Developer (PHP) Intern"
+        }, 
+        {
+            "website": "www.kaiserpermanente.org", 
+            "image_link": "https://media.glassdoor.com/sqll/19466/kaiser-permanente-squarelogo.png", 
+            "overallRating": "3.8", 
+            "industry": "Health Care Services & Hospitals", 
+            "numberOfRatings": "3614", 
+            "snippet": "Principal Full-Stack Software Engineer (AngularJS, Java) - Pleasanton, CA ... \nORG development team is searching for a very experienced developer skilled in\n\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/principal-full-stack-software-engineer-angularjs-java-pleasanton-ca-kaiser-permanente-JV_IC1147390_KO0,67_KE68,85.htm?jl=1827687877", 
+            "company_name": "Kaiser Permanente", 
+            "job_title": "Kaiser Permanente Principal Full-Stack Software Engineer (AngularJS, Java) - Pleasanton, CA"
+        }, 
+        {
+            "website": "www.workday.com", 
+            "image_link": "https://media.glassdoor.com/sqll/197851/workday-inc-squarelogo.png", 
+            "overallRating": "3.8", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "510", 
+            "snippet": "Jul 30, 2016 ... View Workdays job listing for a ServiceNow Developer in Pleasanton, CA - and \nthen see ... Competitors SAP, Oracle, Ultimate Software.", 
+            "link": "https://www.glassdoor.com/job-listing/servicenow-developer-workday-JV_IC1147390_KO0,20_KE21,28.htm?jl=1752781503", 
+            "company_name": "Workday", 
+            "job_title": "Workday ServiceNow Developer"
+        }, 
+        {
+            "website": "www.coolsculpting.com", 
+            "image_link": "https://media.glassdoor.com/sqll/800145/zeltiq-aesthetics-squarelogo-1433892253150.png", 
+            "overallRating": "3.8", 
+            "industry": "Health, Beauty, & Fitness", 
+            "numberOfRatings": "28", 
+            "snippet": "... Aestheticss job listing for a Informatica Developer in Pleasanton, CA - and then \nsee company reviews, salaries, ... Senior Software Engineer salaries ($110k).", 
+            "link": "https://www.glassdoor.com/job-listing/informatica-developer-zeltiq-aesthetics-JV_IC1147390_KO0,21_KE22,39.htm?jl=1785289177", 
+            "company_name": "ZELTIQ Aesthetics", 
+            "job_title": "ZELTIQ Aesthetics Informatica Developer"
+        }, 
+        {
+            "website": "www.accoair.com", 
+            "image_link": "https://media.glassdoor.com/sqll/9128/acco-squarelogo.png", 
+            "overallRating": "3.6", 
+            "industry": "Construction", 
+            "numberOfRatings": "30", 
+            "snippet": "View ACCOs job listing for a Systems Software Engineer I in Pleasanton, CA - \nand then see company reviews, salaries, ... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/systems-software-engineer-i-acco-JV_IC1147390_KO0,27_KE28,32.htm?jl=1825396984", 
+            "company_name": "ACCO", 
+            "job_title": "ACCO Systems Software Engineer I"
+        }, 
+        {
+            "website": "www.elliemae.com", 
+            "image_link": "https://media.glassdoor.com/sqll/260441/ellie-mae-squarelogo-1458167833453.png", 
+            "overallRating": "4.2", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "80", 
+            "snippet": "Aug 12, 2016 ... View Ellie Maes job listing for a Software Engineer in Pleasanton, CA - and then \nsee company reviews, ... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-ellie-mae-JV_IC1147390_KO0,17_KE18,27.htm?jl=1861448023", 
+            "company_name": "Ellie Mae", 
+            "job_title": "Ellie Mae Software Engineer"
+        }, 
+        {
+            "website": "www.elliemae.com", 
+            "image_link": "https://media.glassdoor.com/sqll/260441/ellie-mae-squarelogo-1458167833453.png", 
+            "overallRating": "4.2", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "80", 
+            "snippet": "Aug 12, 2016 ... View Ellie Maes job listing for a Principal Developer in Pleasanton, ... \ndevelopment team to move our leading mortgage software solutions to\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/principal-developer-ellie-mae-JV_IC1147390_KO0,19_KE20,29.htm?jl=1873066874", 
+            "company_name": "Ellie Mae", 
+            "job_title": "Ellie Mae Principal Developer"
+        }, 
+        {
+            "website": "www.vivoinc.com", 
+            "image_link": "https://media.glassdoor.com/sqll/660862/vivo-ca-squarelogo-1424869792706.png", 
+            "overallRating": "2.4", 
+            "industry": "Staffing & Outsourcing", 
+            "numberOfRatings": "17", 
+            "snippet": "View Vivo Inc.s job listing for a Sr. User Interface Software Engineer in \nPleasanton, CA - and then see company reviews, salaries, and more posted \nanonymously\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-user-interface-software-engineer-vivo-JV_IC1147390_KO0,35_KE36,40.htm?jl=1321883688", 
+            "company_name": "Vivo Inc.", 
+            "job_title": "Vivo Inc. Sr. User Interface Software Engineer"
+        }, 
+        {
+            "website": "www.elliemae.com", 
+            "image_link": "https://media.glassdoor.com/sqll/260441/ellie-mae-squarelogo-1458167833453.png", 
+            "overallRating": "4.2", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "80", 
+            "snippet": "Aug 12, 2016 ... View Ellie Maes job listing for a Sr. Software Developer in Pleasanton, CA - and \nthen see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-software-developer-ellie-mae-JV_IC1147390_KO0,21_KE22,31.htm?jl=1905936498", 
+            "company_name": "Ellie Mae", 
+            "job_title": "Ellie Mae Sr. Software Developer"
+        }
+    ],
+    "date": "2016-08-21"
+}

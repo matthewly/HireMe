@@ -1,0 +1,61 @@
+{
+    "count": 5, 
+    "items": [
+        {
+            "website": "www.manh.com", 
+            "image_link": "https://media.glassdoor.com/sqll/7866/manhattan-associates-squarelogo.png", 
+            "overallRating": "3.5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "478", 
+            "snippet": "View Manhattan Associatess job listing for a Principal Software Engineer in ... for \nthe quality of software; we believe quality is responsibility of the developer", 
+            "link": "https://www.glassdoor.com/job-listing/principal-software-engineer-manhattan-associates-JV_IC1155583_KO0,27_KE28,48.htm?jl=1868578027", 
+            "company_name": "Manhattan Associates", 
+            "job_title": "Manhattan Associates Principal Software Engineer"
+        }, 
+        {
+            "website": "www.manh.com", 
+            "image_link": "https://media.glassdoor.com/sqll/7866/manhattan-associates-squarelogo.png", 
+            "overallRating": "3.5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "478", 
+            "snippet": "View Manhattan Associatess job listing for a Principal Software Engineer in \nAtlanta, GA - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/principal-software-engineer-manhattan-associates-JV_IC1155583_KO0,27_KE28,48.htm?jl=1851217247", 
+            "company_name": "Manhattan Associates", 
+            "job_title": "Manhattan Associates Principal Software Engineer"
+        }, 
+        {
+            "website": "www.manh.com", 
+            "image_link": "https://media.glassdoor.com/sqll/7866/manhattan-associates-squarelogo.png", 
+            "overallRating": "3.5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "478", 
+            "snippet": "View Manhattan Associatess job listing for a Senior Principal Software Engineer \nin Atlanta, GA - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/senior-principal-software-engineer-manhattan-associates-JV_IC1155583_KO0,34_KE35,55.htm?jl=1822131137", 
+            "company_name": "Manhattan Associates", 
+            "job_title": "Manhattan Associates Senior Principal Software Engineer"
+        }, 
+        {
+            "website": "www.manh.com", 
+            "image_link": "https://media.glassdoor.com/sqll/7866/manhattan-associates-squarelogo.png", 
+            "overallRating": "3.5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "478", 
+            "snippet": "Jul 25, 2016 ... Manhattan Associates is looking for a Sr. Principal Software Engineer- ... quality \nof software; we believe quality is responsibility of the developer", 
+            "link": "https://www.glassdoor.com/job-listing/senior-principal-software-engineer-pos-manhattan-associates-JV_IC1126940_KO0,38_KE39,59.htm?jl=1865464109", 
+            "company_name": "Manhattan Associates", 
+            "job_title": "Manhattan Associates Senior Principal Software Engineer, POS"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "https://image.freepik.com/free-icon/multiple-users-silhouette_318-49546.png", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "Clicktripz is looking for a talented front-end developer. ... would be able to work \nremotely while communicating with our office in Manhattan Beach, California.", 
+            "link": "http://stackoverflow.com/jobs/82881/front-end-developer-clicktripz", 
+            "company_name": "Clicktripz", 
+            "job_title": "Front-End Developer"
+        }
+    ],
+    "date": "2016-08-21"
+}

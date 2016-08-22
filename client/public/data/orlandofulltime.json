@@ -1,0 +1,116 @@
+{
+    "count": 10, 
+    "items": [
+        {
+            "website": "www.assistrx.com", 
+            "image_link": "https://media.glassdoor.com/sqll/721052/assistrx-squarelogo-1424261360090.png", 
+            "overallRating": "3.1", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "37", 
+            "snippet": "Net Developer in Orlando, FL - and then see company reviews, salaries, and ... \nTechnical leader to enhance and improve software written in one or more of the\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/net-developer-assistrx-JV_IC1154247_KO0,13_KE14,22.htm?jl=1722258760", 
+            "company_name": "AssistRx", 
+            "job_title": "AssistRx .Net Developer"
+        }, 
+        {
+            "website": "www.panderasystems.com", 
+            "image_link": "https://media.glassdoor.com/sqll/713349/pandera-systems-squarelogo-1424945967687.png", 
+            "overallRating": "4.6", 
+            "industry": "IT Services", 
+            "numberOfRatings": "15", 
+            "snippet": "View Pandera Systemss job listing for a ETL Developer in Orlando, FL - and ... \nintegration expertise across a variety of database platforms and software tools.", 
+            "link": "https://www.glassdoor.com/job-listing/etl-developer-pandera-systems-JV_IC1154247_KO0,13_KE14,29.htm?jl=1856960070", 
+            "company_name": "Pandera Systems", 
+            "job_title": "Pandera Systems ETL Developer"
+        }, 
+        {
+            "website": "www.assistrx.com", 
+            "image_link": "https://media.glassdoor.com/sqll/721052/assistrx-squarelogo-1424261360090.png", 
+            "overallRating": "3.1", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "37", 
+            "snippet": "View AssistRxs job listing for a SQL Developer in Orlando, FL - and then see ... \nEvaluate vendor-supplied software packages and make recommendations to IT\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sql-developer-assistrx-JV_IC1154247_KO0,13_KE14,22.htm?jl=1756484172", 
+            "company_name": "AssistRx", 
+            "job_title": "AssistRx SQL Developer"
+        }, 
+        {
+            "website": "www.hostdime.com", 
+            "image_link": "https://media.glassdoor.com/sqll/270833/hostdime-com-squarelogo.png", 
+            "overallRating": "2.7", 
+            "industry": "IT Services", 
+            "numberOfRatings": "33", 
+            "snippet": "View HostDime.coms job listing for a Ruby Developer Brief Overview in Orlando, \n... Excited about REST APIs; Passionate about software patterns; Opinionated\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/ruby-developer-brief-overview-hostdime-com-JV_IC1154247_KO0,29_KE30,42.htm?jl=1486984972", 
+            "company_name": "HostDime.com", 
+            "job_title": "HostDime.com Ruby Developer Brief Overview"
+        }, 
+        {
+            "website": "www.hostdime.com", 
+            "image_link": "https://media.glassdoor.com/sqll/270833/hostdime-com-squarelogo.png", 
+            "overallRating": "2.7", 
+            "industry": "IT Services", 
+            "numberOfRatings": "33", 
+            "snippet": "View HostDime.coms job listing for a PHP Developer Brief Overview in Orlando, \n... in introducing regression tests to legacy PHP software (Zend Framework).", 
+            "link": "https://www.glassdoor.com/job-listing/php-developer-brief-overview-hostdime-com-JV_IC1154247_KO0,28_KE29,41.htm?jl=1484828649", 
+            "company_name": "HostDime.com", 
+            "job_title": "HostDime.com PHP Developer Brief Overview"
+        }, 
+        {
+            "website": "www.assistrx.com", 
+            "image_link": "https://media.glassdoor.com/sqll/721052/assistrx-squarelogo-1424261360090.png", 
+            "overallRating": "3.1", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "37", 
+            "snippet": "View AssistRxs job listing for a Business Intelligence Report Developer in \nOrlando, FL - and then see ... Current Employee - Software Developer in Orlando, \nFL.", 
+            "link": "https://www.glassdoor.com/job-listing/business-intelligence-report-developer-assistrx-JV_IC1154247_KO0,38_KE39,47.htm?jl=1853466404", 
+            "company_name": "AssistRx", 
+            "job_title": "AssistRx Business Intelligence Report Developer"
+        }, 
+        {
+            "website": "www.assistrx.com", 
+            "image_link": "https://media.glassdoor.com/sqll/721052/assistrx-squarelogo-1424261360090.png", 
+            "overallRating": "3.1", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "37", 
+            "snippet": "View AssistRxs job listing for a PHP Web Developer (Contract) in Orlando, FL - \nand then see company ... Current Employee - Software Developer in Orlando, FL.", 
+            "link": "https://www.glassdoor.com/job-listing/php-web-developer-contract-assistrx-JV_IC1154247_KO0,26_KE27,35.htm?jl=1832590745", 
+            "company_name": "AssistRx", 
+            "job_title": "AssistRx PHP Web Developer (Contract)"
+        }, 
+        {
+            "website": "www.universalorlando.com", 
+            "image_link": "https://media.glassdoor.com/sqll/231921/universal-orlando-resort-squarelogo.png", 
+            "overallRating": "3.7", 
+            "industry": "Hotels, Motels, & Resorts", 
+            "numberOfRatings": "301", 
+            "snippet": "View Universal Orlando Resorts job listing for a Entertainment - Pattern ... This \nposition will require Accumark Pattern Design Software experience. **.", 
+            "link": "https://www.glassdoor.com/job-listing/entertainment-pattern-maker-developer-universal-orlando-resort-JV_IC1154247_KO0,37_KE38,62.htm?jl=1821052043", 
+            "company_name": "Universal Orlando Resort", 
+            "job_title": "Universal Orlando Resort Entertainment - Pattern Maker/Developer"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "https://image.freepik.com/free-icon/multiple-users-silhouette_318-49546.png", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "View TechUSAs job listing for a Jr - Mid PHP Developer in Orlando, FL - and ... of \na dynamic and diverse team, with a software development firm here in Orlando.", 
+            "link": "https://www.glassdoor.com/job-listing/jr-mid-php-developer-techusa-JV_IC1154247_KO0,20_KE21,28.htm?jl=1244043932", 
+            "company_name": "TechUSA", 
+            "job_title": "TechUSA Jr - Mid PHP Developer"
+        }, 
+        {
+            "website": "www.ciinc.com", 
+            "image_link": "", 
+            "overallRating": "3", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "1", 
+            "snippet": "View CIIs job listing for a SQL Software Developer in Orlando, FL - and then see \ncompany reviews, salaries, and more posted anonymously by CII employees.", 
+            "link": "https://www.glassdoor.com/job-listing/sql-software-developer-cii-JV_IC1154247_KO0,22_KE23,26.htm?jl=1160551198", 
+            "company_name": "CII", 
+            "job_title": "CII SQL Software Developer"
+        }
+    ],
+    "date": "2016-08-21"
+}

@@ -1,0 +1,116 @@
+{
+    "count": 10, 
+    "items": [
+        {
+            "website": "www.spirae.com", 
+            "image_link": "https://media.glassdoor.com/sqll/834508/spirae-squarelogo-1458849095899.png", 
+            "overallRating": "3.7", 
+            "industry": "Energy", 
+            "numberOfRatings": "3", 
+            "snippet": "View Spiraes job listing for a Software Engineer in Fort Collins, CO - and then ... \nSpirae 3.7 3 Reviews \u2013 Fort Collins, CO .... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-spirae-JV_IC1148233_KO0,17_KE18,24.htm?jl=1847490787", 
+            "company_name": "Spirae", 
+            "job_title": "Spirae Software Engineer"
+        }, 
+        {
+            "website": "www.marketing360.com", 
+            "image_link": "https://media.glassdoor.com/sqll/830016/marketing-360-squarelogo-1466197704404.png", 
+            "overallRating": "5", 
+            "industry": "Advertising & Marketing", 
+            "numberOfRatings": "72", 
+            "snippet": "View Marketing 360s job listing for a Javascript Developer in Fort Collins, CO ... \nfor seasoned software developers to join our Reasearch & Development Team.", 
+            "link": "https://www.glassdoor.com/job-listing/javascript-developer-marketing-360-JV_IC1148233_KO0,20_KE21,34.htm?jl=1690417412", 
+            "company_name": "Marketing 360", 
+            "job_title": "Marketing 360 Javascript Developer"
+        }, 
+        {
+            "website": "www.newcenturysoftware.com", 
+            "image_link": "https://media.glassdoor.com/sqll/339835/new-century-software-squarelogo-1462966074938.png", 
+            "overallRating": "3.1", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "6", 
+            "snippet": "View New Century Softwares job listing for a Web Developer in Fort Collins, CO - \nand then ... and more posted anonymously by New Century Software employees.", 
+            "link": "https://www.glassdoor.com/job-listing/web-developer-new-century-software-JV_IC1148233_KO0,13_KE14,34.htm?jl=1884271018", 
+            "company_name": "New Century Software", 
+            "job_title": "New Century Software Web Developer"
+        }, 
+        {
+            "website": "www.newcenturysoftware.com", 
+            "image_link": "https://media.glassdoor.com/sqll/339835/new-century-software-squarelogo-1462966074938.png", 
+            "overallRating": "3.1", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "6", 
+            "snippet": "View New Century Softwares job listing for a Vice President of Sales in Fort \nCollins, CO - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/network-engineer-persistent-systems-JV_IC1148233_KO0,16_KE17,35.htm?jl=1874819479", 
+            "company_name": "New Century Software", 
+            "job_title": "New Century Software Vice President of Sales"
+        }, 
+        {
+            "website": "www.newcenturysoftware.com", 
+            "image_link": "https://media.glassdoor.com/sqll/339835/new-century-software-squarelogo-1462966074938.png", 
+            "overallRating": "3.1", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "6", 
+            "snippet": "Vice President of Software. New Century Software 3.1 6 Reviews \u2013 Fort Collins, \nCO. Apply on .... Software Developer jobs \u00b7 Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/vice-president-of-software-new-century-software-JV_IC1148233_KO0,26_KE27,47.htm?jl=1825772678", 
+            "company_name": "New Century Software", 
+            "job_title": "New Century Software Vice President of Software"
+        }, 
+        {
+            "website": "www.newtonsoftware.com", 
+            "image_link": "https://media.glassdoor.com/sqll/690326/newton-software-squarelogo-1391738117347.png", 
+            "overallRating": "5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "2", 
+            "snippet": "Newton Software 5.0 2 Reviews \u2013 Fort Collins, CO ... Senior Software Engineer \nfor Full Stack Web Application Development .... Software Developer jobs.", 
+            "link": "https://www.glassdoor.com/job-listing/senior-software-engineer-full-stack-newton-software-JV_IC1148233_KO0,35_KE36,51.htm?jl=1924629427", 
+            "company_name": "Newton Software", 
+            "job_title": "Newton Software Senior Software Engineer, Full Stack"
+        }, 
+        {
+            "website": "www.sprymethods.com", 
+            "image_link": "https://media.glassdoor.com/sqll/358351/spry-methods-squarelogo-1462992471101.png", 
+            "overallRating": "3.2", 
+            "industry": "Advertising & Marketing", 
+            "numberOfRatings": "6", 
+            "snippet": "View Spry Methodss job listing for a Software Engineer Lead in Fort Collins, CO - \nand then see company reviews, salaries, ... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-lead-spry-methods-JV_IC1148233_KO0,22_KE23,35.htm?jl=1877433479", 
+            "company_name": "Spry Methods", 
+            "job_title": "Spry Methods Software Engineer Lead"
+        }, 
+        {
+            "website": "www.vistronix.com", 
+            "image_link": "https://media.glassdoor.com/sqll/14646/vistronix-squarelogo-1446741770820.png", 
+            "overallRating": "4.3", 
+            "industry": "IT Services", 
+            "numberOfRatings": "64", 
+            "snippet": "6 days ago ... ... job listing for a Sr. Software Automation Test Engineer in Fort Collins, ... is a \nsoftware developer and solutions innovator solving complex data\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-software-automation-test-engineer-vistronix-JV_IC1148233_KO0,36_KE37,46.htm?jl=1930512194", 
+            "company_name": "Vistronix", 
+            "job_title": "Vistronix Sr. Software Automation Test Engineer"
+        }, 
+        {
+            "website": "www.numerica.us", 
+            "image_link": "https://media.glassdoor.com/sqll/217274/numerica-corporation-squarelogo-1428492267065.png", 
+            "overallRating": "4.1", 
+            "industry": "Aerospace & Defense", 
+            "numberOfRatings": "6", 
+            "snippet": "View Numerica Corporations job listing for a Software Engineer (multiple \nopenings) in Fort Collins, CO - and then see company reviews, salaries, and \nmore\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-multiple-openings-numerica-JV_IC1148233_KO0,35_KE36,44.htm?jl=1834081429", 
+            "company_name": "Numerica Corporation", 
+            "job_title": "Numerica Corporation Software Engineer (multiple openings)"
+        }, 
+        {
+            "website": "www.danaher.com", 
+            "image_link": "https://media.glassdoor.com/sqll/193/danaher-squarelogo.png", 
+            "overallRating": "3", 
+            "industry": "Electrical & Electronic Manufacturing", 
+            "numberOfRatings": "218", 
+            "snippet": "View Danahers job listing for a SENIOR SOFTWARE ENGINEER in Fort Collins, \nCO - and then see company reviews, ... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/senior-software-engineer-danaher-JV_IC1148233_KO0,24_KE25,32.htm?jl=1887009726", 
+            "company_name": "Danaher", 
+            "job_title": "Danaher SENIOR SOFTWARE ENGINEER"
+        }
+    ], 
+    "date": "2016-08-21"
+}

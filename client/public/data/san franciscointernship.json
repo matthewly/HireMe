@@ -1,0 +1,72 @@
+{
+    "count": 6, 
+    "items": [
+        {
+            "website": "www.affirm.com", 
+            "image_link": "https://media.glassdoor.com/sqll/823564/affirm-squarelogo-1460125523964.png", 
+            "overallRating": "5", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "18", 
+            "snippet": "San Francisco, CA. Engineering. Internship. Apply for this job. As an intern at \nAffirm, you will be treated as a contributing member of our top-notch engineering\n\u00a0...", 
+            "link": "https://jobs.lever.co/affirm/41093734-0492-4f7e-b5ab-7fe53f2143e7", 
+            "company_name": "Affirm", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "corp.popsugar.com", 
+            "image_link": "https://media.glassdoor.com/sqll/721774/popsugar-squarelogo-1449694037139.png", 
+            "overallRating": "3.6", 
+            "industry": "Publishing", 
+            "numberOfRatings": "104", 
+            "snippet": "Software Engineering Intern. at POPSUGAR. San Francisco ... East, and the UK, \nwith offices in San Francisco, New York, Los Angeles, Chicago, and London.", 
+            "link": "https://boards.greenhouse.io/popsugar/jobs/164941", 
+            "company_name": "POPSUGAR", 
+            "job_title": "Software Engineering Intern"
+        }, 
+        {
+            "website": "--", 
+            "image_link": "", 
+            "overallRating": "0.0", 
+            "industry": "--", 
+            "numberOfRatings": "0", 
+            "snippet": "They are excited about building delightful, polished software that people love to \n... Pursuant to the San Francisco Fair Chance Ordinance, we will consider for\u00a0...", 
+            "link": "https://boards.greenhouse.io/figma/jobs/130873", 
+            "company_name": "Figma", 
+            "job_title": "Software Engineer, Intern"
+        }, 
+        {
+            "website": "www.peek.com", 
+            "image_link": "https://media.glassdoor.com/sqll/926518/peek-squarelogo-1424398606296.png", 
+            "overallRating": "4.4", 
+            "industry": "Travel Agencies", 
+            "numberOfRatings": "66", 
+            "snippet": "San Francisco ... The Software Engineering Intern is responsible for assisting \nwith ... Additional experience writing software for service-oriented architectures\u00a0...", 
+            "link": "https://boards.greenhouse.io/peek/jobs/208534", 
+            "company_name": "Peek", 
+            "job_title": "Software Engineering - Intern"
+        }, 
+        {
+            "website": "www.pmd.com", 
+            "image_link": "https://media.glassdoor.com/sqll/498449/pmd-squarelogo-1420218771010.png", 
+            "overallRating": "5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "23", 
+            "snippet": "View pMDs job listing for a Software Engineer Intern 2017 in San Francisco, CA \n... A developer's career at pMD is nothing like the stereotype of a programmer.", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-intern-2017-pmd-JV_IC1147401_KO0,29_KE30,33.htm?jl=1845440816", 
+            "company_name": "pMD", 
+            "job_title": "pMD Software Engineer Intern 2017"
+        }, 
+        {
+            "website": "www.airbnb.com", 
+            "image_link": "https://media.glassdoor.com/sqll/391850/airbnb-squarelogo-1459271200583.png", 
+            "overallRating": "4.4", 
+            "industry": "Hotels, Motels, & Resorts", 
+            "numberOfRatings": "397", 
+            "snippet": "View Airbnbs job listing for a Software Engineer, Intern in San Francisco, CA - \nand then see company ... As an engineering intern at Airbnb, youll be an integral \npart of our team where you will face our .... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-intern-airbnb-JV_IC1147401_KO0,24_KE25,31.htm?jl=1909794738", 
+            "company_name": "Airbnb", 
+            "job_title": "Airbnb Software Engineer, Intern"
+        }
+    ], 
+    "date": "2016-08-21"
+}

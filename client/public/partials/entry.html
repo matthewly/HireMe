@@ -3,6 +3,7 @@
 	  <div class="small-12 columns">
 	  	<h1>Entry/Grad</h1>
 	  	<h6><b>Location: </b>{{location}}</h6>
+	  	<h6><b>Last updated: </b> {{last_updated}}</h6>
 	  </div>
 	</div>
 	
@@ -16,10 +17,18 @@
 	  	<div class="home">
 	  		<a ng-href="#/home" class="center">or go back Home</a>
 	  	</div>
+
+	  	<div class="refresh">
+	  		<button class="button" data-ng-click="refresh()">Refresh</button> 
+	  		<img id="mySpinner" src="./data/pics/spinner1.gif" ng-show="loading" />
+	  	</div>
+	  	
 	  </div>
 	</div>
 	
 	<hr>
+
+	<img id="mySpinner" src="./data/pics/spinner1.gif" ng-show="loading_init" />
 
 	<div class="row small-up-1 medium-up-2 large-up-3">
   		<div class="column" ng-repeat="posting in postings track by $index">
@@ -28,8 +37,8 @@
   					<div class="row">
   						<div class="small-12 medium-12 columns">
   							<div class="job-header-info">
-  								<a ng-href="http://{{posting.website}}" target	="_blank"><img ng-src="{{posting.image_link}}"	/></a>
-  								<a ng-href="http://{{posting.website}}" target	="_blank"><b>{{posting.company_name}}</b></a>
+  								<a ng-href="http://{{posting.website}}" target="_blank"><img ng-src="{{posting.image_link}}"	/></a>
+  								<a ng-href="http://{{posting.website}}" target="_blank"><b>{{posting.company_name}}</b></a>
   								<br>
   								<i>{{posting.job_title}}</i>
   							</div>
@@ -43,7 +52,7 @@
   					<div class="row">
   						<div class="small-12 medium-12 columns">
   							<ul>
-								<li><u>Glassdoor rating:</u> <b>	{{posting.overallRating}}</b> <i>	({{posting.numberOfRatings}} reviews)</i></li>
+								<li><u>Glassdoor rating:</u> <b>{{posting.overallRating}}</b> <i>({{posting.numberOfRatings}} reviews)</i></li>
 								<li><u>Industry:</u> {{posting.industry}}</li>
 							</ul>
   						</div>

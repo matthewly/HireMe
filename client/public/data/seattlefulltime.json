@@ -1,0 +1,39 @@
+{
+    "count": 3, 
+    "items": [
+        {
+            "website": "www.snapchat.com", 
+            "image_link": "https://media.glassdoor.com/sqll/671946/snapchat-squarelogo-1389036363499.png", 
+            "overallRating": "4.5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "35", 
+            "snippet": "Seattle, WA. Hi Fellow Software Engineer! ... M.S. degree in Computer Science or \nrelated field; 3+ years of software engineering experience; Experience working\u00a0...", 
+            "link": "https://boards.greenhouse.io/snapchat/jobs/113707", 
+            "company_name": "Snapchat", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.mixpanel.com", 
+            "image_link": "https://media.glassdoor.com/sqll/406910/mixpanel-squarelogo-1386955455889.png", 
+            "overallRating": "4.1", 
+            "industry": "Enterprise Software & Network Solutions", 
+            "numberOfRatings": "47", 
+            "snippet": "Software Engineer. at Mixpanel (View all jobs). San Francisco, Seattle ... The \nSoftware Engineer is responsible for developing and managing technology\u00a0...", 
+            "link": "https://boards.greenhouse.io/mixpanel/jobs/202273", 
+            "company_name": "Mixpanel", 
+            "job_title": "Software Engineer"
+        }, 
+        {
+            "website": "www.apple.com", 
+            "image_link": "https://media.glassdoor.com/sqll/1138/apple-squarelogo-1437588682868.png", 
+            "overallRating": "4", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "8269", 
+            "snippet": "Imagine what you could do here. At Apple, great ideas have a way of becoming \ngreat products, services, and customer experiences very quickly. Bring passion\u00a0...", 
+            "link": "http://stackoverflow.com/jobs/116653/icloud-software-engineer-seattle-apple", 
+            "company_name": "Apple", 
+            "job_title": "iCloud Software Engineer - Seattle"
+        }
+    ],
+    "date": "2016-08-21"
+}

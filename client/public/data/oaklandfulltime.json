@@ -1,0 +1,105 @@
+{
+    "count": 9, 
+    "items": [
+        {
+            "website": "www.scilearn.com", 
+            "image_link": "https://media.glassdoor.com/sqll/8385/scientific-learning-squarelogo.png", 
+            "overallRating": "3.7", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "20", 
+            "snippet": "Jul 17, 2016 ... Scientific Learning 3.7 20 Reviews \u2013 Oakland, CA ... The Senior Software \nEngineer is a senior level developer on the Product Development\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-software-engineer-scientific-learning-JV_IC1147380_KO0,20_KE21,40.htm?jl=1879114126", 
+            "company_name": "Scientific Learning", 
+            "job_title": "Scientific Learning Sr. Software Engineer"
+        }, 
+        {
+            "website": "www.guildincorporated.org", 
+            "image_link": "https://media.glassdoor.com/sqll/1150002/guild-squarelogo-1470759786791.png", 
+            "overallRating": "4", 
+            "industry": "Social Assistance", 
+            "numberOfRatings": "2", 
+            "snippet": "View Learners Guilds job listing for a Software Engineering Practitioner in \nOakland, CA - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineering-practitioner-learners-guild-JV_IC1147380_KO0,33_KE34,48.htm?jl=1773040584", 
+            "company_name": "Learners Guild", 
+            "job_title": "Learners Guild Software Engineering Practitioner"
+        }, 
+        {
+            "website": "www.ascendanalytics.com", 
+            "image_link": "https://media.glassdoor.com/sqll/464707/ascend-analytics-squarelogo.png", 
+            "overallRating": "4", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "26", 
+            "snippet": "View Ascend Analyticss job listing for a Analytics Software Developer in Oakland, \nCA - and then see company reviews, salaries, and more posted anonymously\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/analytics-software-developer-ascend-analytics-JV_IC1147380_KO0,28_KE29,45.htm?jl=1738913811", 
+            "company_name": "Ascend Analytics", 
+            "job_title": "Ascend Analytics Analytics Software Developer"
+        }, 
+        {
+            "website": "www.bluebottlecoffee.com", 
+            "image_link": "https://media.glassdoor.com/sqll/803867/blue-bottle-coffee-squarelogo-1447316089353.png", 
+            "overallRating": "3.7", 
+            "industry": "Food & Beverage Stores", 
+            "numberOfRatings": "13", 
+            "snippet": "Blue Bottle Coffee 3.7 13 Reviews \u2013 Oakland, CA. Apply on ... Senior Software \nEngineer (Ruby) - Oakland. About the Job: .... Software Developer salaries ($79k)\n.", 
+            "link": "https://www.glassdoor.com/job-listing/senior-software-engineer-blue-bottle-coffee-JV_IC1147380_KO0,24_KE25,43.htm?jl=1846160411", 
+            "company_name": "Blue Bottle Coffee", 
+            "job_title": "Blue Bottle Coffee Senior Software Engineer"
+        }, 
+        {
+            "website": "www.bellintegrator.ru", 
+            "image_link": "https://media.glassdoor.com/sqll/312211/bell-integrator-squarelogo-1429789817576.png", 
+            "overallRating": "4.2", 
+            "industry": "IT Services", 
+            "numberOfRatings": "31", 
+            "snippet": "View Bell Integrators job listing for a C++ Developer in Oakland, CA - and then \nsee ... For this job you must be a senior software developer with at least 5 years'\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/c-developer-bell-integrator-JV_IC1147380_KO0,11_KE12,27.htm?jl=1814513166", 
+            "company_name": "Bell Integrator", 
+            "job_title": "Bell Integrator C++ Developer"
+        }, 
+        {
+            "website": "www.studiofathom.com", 
+            "image_link": "", 
+            "overallRating": "0", 
+            "industry": "Commercial Printing", 
+            "numberOfRatings": "0", 
+            "snippet": "View Fathom (California)s job listing for a Software Engineer in Oakland, CA - \nand ... Fathom (California) \u2013 Oakland, CA ... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-fathom-california-JV_IC1147380_KO0,17_KE18,35.htm?jl=1796523681", 
+            "company_name": "Fathom (California)", 
+            "job_title": "Fathom (California) Software Engineer"
+        }, 
+        {
+            "website": "www.infor.com/solutions/hcm", 
+            "image_link": "https://media.glassdoor.com/sqll/368523/workbrain-squarelogo.png", 
+            "overallRating": "3.1", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "6", 
+            "snippet": "View Workbrains job listing for a Sr. Java Software Engineer in Oakland, CA - \nand then see ... If you are a JAVA Developer who appreciates working directly \nwith\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-java-software-engineer-workbrain-JV_IC1147380_KO0,25_KE26,35.htm?jl=1853022221", 
+            "company_name": "Workbrain", 
+            "job_title": "Workbrain Sr. Java Software Engineer"
+        }, 
+        {
+            "website": "www.universityofcalifornia.edu", 
+            "image_link": "https://media.glassdoor.com/sqll/3015/university-of-california-squarelogo.png", 
+            "overallRating": "3.9", 
+            "industry": "Colleges & Universities", 
+            "numberOfRatings": "192", 
+            "snippet": "View University of Californias job listing for a Lead Applications Developer in \nOakland, CA - and then see company reviews, salaries, and more posted \nanonymously by University of California ... Senior Software Engineer salaries (\n$110k).", 
+            "link": "https://www.glassdoor.com/job-listing/lead-applications-developer-university-of-california-JV_IC1147380_KO0,27_KE28,52.htm?jl=1663542500", 
+            "company_name": "University of California", 
+            "job_title": "University of California Lead Applications Developer"
+        }, 
+        {
+            "website": "www.marqeta.com", 
+            "image_link": "", 
+            "overallRating": "4.7", 
+            "industry": "", 
+            "numberOfRatings": "5", 
+            "snippet": "View Marqetas job listing for a Sr. Software Engineer in Oakland, CA - and then ... \nMarqeta 4.7 4 Reviews \u2013 Oakland, CA .... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/sr-software-engineer-marqeta-JV_IC1147380_KO0,20_KE21,28.htm?jl=1894480821", 
+            "company_name": "Marqeta", 
+            "job_title": "Marqeta Sr. Software Engineer"
+        }
+    ],
+    "date": "2016-08-21"
+}

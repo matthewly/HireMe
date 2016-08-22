@@ -85,7 +85,7 @@
    <section class="row stripe odd" id="search">
 
    <div class="internships">
-    <div class="button-grp home-button-grp">
+    <!-- <div class="button-grp home-button-grp">
         <h2>Choose job preferences:</h2>
          <div class="location">
           <select ng-model="selectedLocation" ng-options="x for x in locations">
@@ -94,18 +94,17 @@
         <button ng-click="search_full()" class="button active" id="fulltime">Full-time</button>
         <button ng-click="search_intern()" class="button primary active" id="internship">Internship</button>
         <button ng-click="search_entry()" class="button primary active" id="entry">Entry</button> 
-    </div> 
+    </div>  -->
    </div>
-     <!-- JOB SEARCH ENGINE
       <div class="job-form">
-       <div class="form-title"><b>HireMe</b> | Job Search Engine</div>
+       <div class="form-title"><b>HireMe</b> | Developer Job Search Engine</div>
        <form>
-        <input type="text" name="title" placeholder="job title,  company, or keywords" ng-model="search_query.title">
-        <input type="text" name="location" placeholder="city, state, or zip" ng-model="search_query.location">
-        <button class="secondary hollow button" ng-click="search_submit();">Search</button>
+        <!-- <input type="text" name="title" placeholder="job title,  company, or keywords" ng-model="search_query.title"> -->
+        <input type="text" name="location" placeholder="Enter City or State" ng-model="search_query.location">
+        <button class="secondary hollow button" ng-click="search_full();">Search</button>
        </form>
-       <button type="button" class="button search_btn" id="advanced" data-open="advanced_search">Advanced Search</button>
-     </div> -->
+       <!-- <button type="button" class="button search_btn" id="advanced" data-open="advanced_search">Advanced Search</button> -->
+     </div>
    </section>
 
    <!-- ADVANCED SEARCH

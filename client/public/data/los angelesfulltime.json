@@ -1,0 +1,39 @@
+{
+    "count": 3, 
+    "items": [
+        {
+            "website": "www.snapchat.com", 
+            "image_link": "https://media.glassdoor.com/sqll/671946/snapchat-squarelogo-1389036363499.png", 
+            "overallRating": "4.5", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "35", 
+            "snippet": "Los Angeles, CA. Over 100 million people use Snapchat ... We're looking for a \nWeb Developer to join Team Snapchat! You will play a key role in building and\u00a0...", 
+            "link": "https://boards.greenhouse.io/snapchat/jobs/221449", 
+            "company_name": "Snapchat", 
+            "job_title": "Web Developer"
+        }, 
+        {
+            "website": "www.lacounty.gov", 
+            "image_link": "https://media.glassdoor.com/sqll/42786/los-angeles-county-squarelogo.png", 
+            "overallRating": "3.6", 
+            "industry": "Municipal Governments", 
+            "numberOfRatings": "149", 
+            "snippet": "View Los Angeles Countys job listing for a APPLICATION DEVELOPER II in Los \nAngeles, CA - and then see company ... May install application software.", 
+            "link": "https://www.glassdoor.com/job-listing/application-developer-ii-los-angeles-county-JV_IC1146821_KO0,24_KE25,43.htm?jl=1790183012", 
+            "company_name": "Los Angeles County", 
+            "job_title": "Los Angeles County APPLICATION DEVELOPER II"
+        }, 
+        {
+            "website": "www.vtechsolution.com", 
+            "image_link": "https://media.glassdoor.com/sqll/1176139/vtech-solution-squarelogo-1459444569991.png", 
+            "overallRating": "0", 
+            "industry": "IT Services", 
+            "numberOfRatings": "0", 
+            "snippet": "Once again, vTech Solution has an amazing opportunity in Los Angeles, CA! ... If \nyou are Programmer analyst (Developer) in Los Angeles, CA and is seeking an \nestablished company to work for, consider a ... Software Engineer salaries ($84k)\n.", 
+            "link": "https://www.glassdoor.com/job-listing/programmer-analyst-developer-vtech-solution-JV_IC1146821_KO0,28_KE29,43.htm?jl=1919975891", 
+            "company_name": "vTech Solution Inc.", 
+            "job_title": "vTech Solution Inc. Programmer analyst (Developer)"
+        }
+    ],
+    "date": "2016-08-21"
+}

@@ -1,5 +1,225 @@
 var HireMeControllers = angular.module('HireMeControllers', ['ngCookies']);
 
+HireMeControllers.controller('searchController', ['$scope', '$http', '$cookies', function($scope, $http, $cookies) {
+	//alert($cookies.get('search_cookie').title);
+	$scope.title = $cookies.get('title_cookie');
+	$scope.location = $cookies.get('location_cookie');
+	
+}]);
+
+HireMeControllers.controller('fulltimeController', ['$scope','$cookies', '$http', 'Jobs', function($scope, $cookies, $http, Jobs) {
+	$scope.location = $cookies.get('location_cookie'); 
+
+	$scope.loading_init = true;
+
+	var getList = function() {
+		$scope.loading = true;
+		$http.get('data/'+$scope.location+'fulltime.json').success(function(data) {
+			$scope.last_updated = data.date
+			$scope.items = data.items;
+			$scope.postings = [];
+	
+			for (var i = 0; i < data.count; i++) {
+				var snippet = $scope.items[i].snippet;
+				var image_link = $scope.items[i].image_link;
+				var link = $scope.items[i].link;
+				var industry = $scope.items[i].industry;
+				var numberOfRatings = $scope.items[i].numberOfRatings;
+				var overallRating = $scope.items[i].overallRating;
+				var website = $scope.items[i].website;
+				var job_title = $scope.items[i].job_title;
+				var company_name = $scope.items[i].company_name;
+	
+				if (job_title != null && !company_name.includes("...")) {
+	
+					var posting = {
+						'snippet': snippet,
+						'image_link': image_link,
+						'link': link,
+						'industry': industry,
+						'numberOfRatings': numberOfRatings,
+						'overallRating': overallRating,
+						'website': website,
+						'job_title': job_title,
+						'company_name': company_name
+					};
+	
+					$scope.postings.push(posting);
+				}
+			}
+
+			$scope.loading_init = false;
+		}).error(function (err) {
+			console.log("http error");
+			$scope.loading_init = true;
+			$scope.refresh();
+		}).finally(function () {
+			$scope.loading = false;
+			
+		});
+	}
+
+	$scope.refresh = function() {
+		$scope.loading = true;
+		
+		var search_data = {
+			location: $scope.location,
+			job_type: 'full_time'
+		}
+
+		Jobs.updateList(search_data).success( function(res) {
+			console.log("Success!");
+			getList();
+		});
+	};
+	
+	getList();
+
+	
+}]);
+
+
+HireMeControllers.controller('internshipController', ['$scope', '$cookies', '$http', 'Jobs', function($scope, $cookies, $http, Jobs) {
+	
+	$scope.location =$cookies.get('location_cookie');
+
+	$scope.loading_init = true;
+
+	var getList = function() {
+		$scope.loading = true;
+		$http.get('data/'+$scope.location+'internship.json').success(function(data) {
+			$scope.last_updated = data.date
+			$scope.items = data.items;
+			$scope.postings = [];
+	
+			for (var i = 0; i < data.count; i++) {
+				var snippet = $scope.items[i].snippet;
+				var image_link = $scope.items[i].image_link;
+				var link = $scope.items[i].link;
+				var industry = $scope.items[i].industry;
+				var numberOfRatings = $scope.items[i].numberOfRatings;
+				var overallRating = $scope.items[i].overallRating;
+				var website = $scope.items[i].website;
+				var job_title = $scope.items[i].job_title;
+				var company_name = $scope.items[i].company_name;
+	
+				if (job_title != null && !company_name.includes("...")) {
+	
+					var posting = {
+						'snippet': snippet,
+						'image_link': image_link,
+						'link': link,
+						'industry': industry,
+						'numberOfRatings': numberOfRatings,
+						'overallRating': overallRating,
+						'website': website,
+						'job_title': job_title,
+						'company_name': company_name
+					};
+	
+					$scope.postings.push(posting);
+				}
+			}
+
+			$scope.loading_init = false;
+		}).error(function (err) {
+			console.log("http error");
+			$scope.loading_init = true;
+			$scope.refresh();
+		}).finally(function () {
+			$scope.loading = false;
+			
+		});
+	}
+
+	$scope.refresh = function() {
+		$scope.loading = true;
+		
+		var search_data = {
+			location: $scope.location,
+			job_type: 'internship'
+		}
+
+		Jobs.updateList(search_data).success( function(res) {
+			console.log("Success!");
+			getList();
+		});
+	};
+	
+	getList();
+
+}]);
+
+HireMeControllers.controller('entryController', ['$scope', '$cookies', '$http', 'Jobs', function($scope, $cookies, $http, Jobs) {
+	
+	$scope.location =$cookies.get('location_cookie');
+
+	$scope.loading_init = true;
+
+	var getList = function() {
+		$scope.loading = true;
+		$http.get('data/'+$scope.location+'entry.json').success(function(data) {
+			$scope.last_updated = data.date
+			$scope.items = data.items;
+			$scope.postings = [];
+	
+			for (var i = 0; i < data.count; i++) {
+				var snippet = $scope.items[i].snippet;
+				var image_link = $scope.items[i].image_link;
+				var link = $scope.items[i].link;
+				var industry = $scope.items[i].industry;
+				var numberOfRatings = $scope.items[i].numberOfRatings;
+				var overallRating = $scope.items[i].overallRating;
+				var website = $scope.items[i].website;
+				var job_title = $scope.items[i].job_title;
+				var company_name = $scope.items[i].company_name;
+	
+				if (job_title != null && !company_name.includes("...")) {
+	
+					var posting = {
+						'snippet': snippet,
+						'image_link': image_link,
+						'link': link,
+						'industry': industry,
+						'numberOfRatings': numberOfRatings,
+						'overallRating': overallRating,
+						'website': website,
+						'job_title': job_title,
+						'company_name': company_name
+					};
+	
+					$scope.postings.push(posting);
+				}
+			}
+
+			$scope.loading_init = false;
+		}).error(function (err) {
+			console.log("http error");
+			$scope.loading_init = true;
+			$scope.refresh();
+		}).finally(function () {
+			$scope.loading = false;
+			
+		});
+	}
+
+	$scope.refresh = function() {
+		$scope.loading = true;
+		
+		var search_data = {
+			location: $scope.location,
+			job_type: 'entry'
+		}
+
+		Jobs.updateList(search_data).success( function(res) {
+			console.log("Success!");
+			getList();
+		});
+	};
+	
+	getList();
+}]);
+
 HireMeControllers.controller('homeController', ['$scope', '$cookies','$location', function($scope, $cookies, $location) {
 	$scope.search_query = {};
 	$scope.selectedLocation = "Chicago, IL";
@@ -7,7 +227,7 @@ HireMeControllers.controller('homeController', ['$scope', '$cookies','$location'
 	$scope.search_full = function() {
 		//console.log("before putting to cookie: " + $scope.search_query.title + " " + $scope.search_query.location);
 		//$cookies.put('title_cookie', $scope.search_query.title);
-		$cookies.put('location_cookie', $scope.selectedLocation);
+		$cookies.put('location_cookie', $scope.search_query.location);
 		$location.url('/fulltime');	
 	}
 
@@ -82,132 +302,4 @@ HireMeControllers.controller('homeController', ['$scope', '$cookies','$location'
 	  }
 	});
 
-}]);
-
-HireMeControllers.controller('searchController', ['$scope', '$http', '$cookies', function($scope, $http, $cookies) {
-	//alert($cookies.get('search_cookie').title);
-	$scope.title = $cookies.get('title_cookie');
-	$scope.location = $cookies.get('location_cookie');
-	
-}]);
-
-HireMeControllers.controller('fulltimeController', ['$scope','$cookies', '$http', function($scope, $cookies,$http) {
-
-	$scope.location =$cookies.get('location_cookie'); 
-	$http.get('data/'+$scope.location+'fulltime.json').success(function(data) {
-		$scope.items = data.items;
-		$scope.postings = [];
-
-		for (var i = 0; i < data.count; i++) {
-			var snippet = $scope.items[i].snippet;
-			var image_link = $scope.items[i].image_link;
-			var link = $scope.items[i].link;
-			var industry = $scope.items[i].industry;
-			var numberOfRatings = $scope.items[i].numberOfRatings;
-			var overallRating = $scope.items[i].overallRating;
-			var website = $scope.items[i].website;
-			var job_title = $scope.items[i].job_title;
-			var company_name = $scope.items[i].company_name;
-
-			if (job_title != null && !company_name.includes("...")) {
-
-				var posting = {
-					'snippet': snippet,
-					'image_link': image_link,
-					'link': link,
-					'industry': industry,
-					'numberOfRatings': numberOfRatings,
-					'overallRating': overallRating,
-					'website': website,
-					'job_title': job_title,
-					'company_name': company_name
-				};
-
-				$scope.postings.push(posting);
-			}
-		}
-	}).error(function (err) {
-		console.log(err);
-	});
-}]);
-
-
-HireMeControllers.controller('internshipController', ['$scope', '$cookies', '$http', function($scope, $cookies, $http) {
-	
-	$scope.location =$cookies.get('location_cookie');
-	$http.get('data/'+$scope.location+'internship.json').success(function(data) {
-		$scope.items = data.items;
-		$scope.postings = [];
-
-		for (var i = 0; i < data.count; i++) {
-			var snippet = $scope.items[i].snippet;
-			var image_link = $scope.items[i].image_link;
-			var link = $scope.items[i].link;
-			var industry = $scope.items[i].industry;
-			var numberOfRatings = $scope.items[i].numberOfRatings;
-			var overallRating = $scope.items[i].overallRating;
-			var website = $scope.items[i].website;
-			var job_title = $scope.items[i].job_title;
-			var company_name = $scope.items[i].company_name;
-
-			if (job_title != null && !company_name.includes("...")) {
-
-				var posting = {
-					'snippet': snippet,
-					'image_link': image_link,
-					'link': link,
-					'industry': industry,
-					'numberOfRatings': numberOfRatings,
-					'overallRating': overallRating,
-					'website': website,
-					'job_title': job_title,
-					'company_name': company_name
-				};
-
-				$scope.postings.push(posting);
-			}
-		}
-	}).error(function (err) {
-		console.log(err);
-	});
-}]);
-
-HireMeControllers.controller('entryController', ['$scope', '$cookies', '$http', function($scope, $cookies, $http) {
-	
-	$scope.location =$cookies.get('location_cookie');
-	$http.get('data/'+$scope.location+'entry.json').success(function(data) {
-		$scope.items = data.items;
-		$scope.postings = [];
-
-		for (var i = 0; i < data.count; i++) {
-			var snippet = $scope.items[i].snippet;
-			var image_link = $scope.items[i].image_link;
-			var link = $scope.items[i].link;
-			var industry = $scope.items[i].industry;
-			var numberOfRatings = $scope.items[i].numberOfRatings;
-			var overallRating = $scope.items[i].overallRating;
-			var website = $scope.items[i].website;
-			var job_title = $scope.items[i].job_title;
-			var company_name = $scope.items[i].company_name;
-
-			if (job_title != null && !company_name.includes("...")) {
-
-				var posting = {
-					'snippet': snippet,
-					'image_link': image_link,
-					'link': link,
-					'industry': industry,
-					'numberOfRatings': numberOfRatings,
-					'overallRating': overallRating,
-					'website': website,
-					'job_title': job_title,
-					'company_name': company_name
-				};
-
-				$scope.postings.push(posting);
-			}
-		}
-	}).error(function (err) {
-		console.log(err);
-	});
 }]);

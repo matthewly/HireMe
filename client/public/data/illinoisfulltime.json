@@ -1,0 +1,83 @@
+{
+    "count": 7, 
+    "items": [
+        {
+            "website": "www.roberthalf.com", 
+            "image_link": "https://media.glassdoor.com/sqll/570904/robert-half-technology-squarelogo-1389638419478.png", 
+            "overallRating": "2.8", 
+            "industry": "Staffing & Outsourcing", 
+            "numberOfRatings": "336", 
+            "snippet": "4 days ago ... View Robert Half Technologys job listing for a Software Engineer--Central Illinois \nIT in Mattoon, IL - and then see company reviews, salaries,\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/software-engineer-central-illinois-it-robert-half-technology-JV_IC1128769_KO0,37_KE38,60.htm?jl=1906377534", 
+            "company_name": "Robert Half Technology", 
+            "job_title": "Robert Half Technology Software Engineer--Central Illinois IT"
+        }, 
+        {
+            "website": "www.uis.edu", 
+            "image_link": "https://media.glassdoor.com/sqll/672316/university-of-illinois-at-springfield-squarelogo-1432099581480.png", 
+            "overallRating": "3.9", 
+            "industry": "Colleges & Universities", 
+            "numberOfRatings": "27", 
+            "snippet": "View University of Illinois at Springfields job listing for a Senior Application \nDeveloper in Urbana, IL - and then see ... Software Developer salaries ($79k).", 
+            "link": "https://www.glassdoor.com/job-listing/senior-application-developer-university-of-illinois-at-springfield-JV_IC1128760_KO0,28_KE29,66.htm?jl=1917603194", 
+            "company_name": "University of Illinois at Springfield", 
+            "job_title": "University of Illinois at Springfield Senior Application Developer"
+        }, 
+        {
+            "website": "www.wirtzbev.com", 
+            "image_link": "https://media.glassdoor.com/sqll/253310/wirtz-beverage-group-squarelogo-1451944853661.png", 
+            "overallRating": "3.3", 
+            "industry": "Food & Beverage Manufacturing", 
+            "numberOfRatings": "56", 
+            "snippet": "View Wirtz Beverage Illinoiss job listing for a ERP Developer in Linthicum, MD - \nand ... Solves SAP software problems by acting as a liaison for troubleshooting;\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/erp-developer-wirtz-beverage-illinois-JV_IC1165775_KO0,13_KE14,37.htm?jl=1706465369", 
+            "company_name": "Wirtz Beverage Illinois", 
+            "job_title": "Wirtz Beverage Illinois ERP Developer"
+        }, 
+        {
+            "website": "www.paradigminfotech.com", 
+            "image_link": "https://media.glassdoor.com/sqll/265037/paradigm-infotech-squarelogo-1424769090851.png", 
+            "overallRating": "4.4", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "14", 
+            "snippet": "View Paradigm Infotechs job listing for a IOS Developer in Illinois - and then see \n... Work within Agile and Waterfall style software development processes; Unit\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/ios-developer-paradigm-infotech-JV_KO0,13_KE14,31.htm?jl=1207757995", 
+            "company_name": "Paradigm Infotech", 
+            "job_title": "Paradigm Infotech IOS Developer"
+        }, 
+        {
+            "website": "www.bmc.com", 
+            "image_link": "https://media.glassdoor.com/sqll/1160/bmc-software-squarelogo-1413930270251.png", 
+            "overallRating": "3.6", 
+            "industry": "Computer Hardware & Software", 
+            "numberOfRatings": "860", 
+            "snippet": "View BMC Softwares job listing for a Sr Presales Software Consultant - ITSM \nMidwest in Illinois - and then see company reviews, salaries, and more posted\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-presales-software-consultant-itsm-midwest-bmc-software-JV_KO0,44_KE45,57.htm?jl=1771732956", 
+            "company_name": "BMC Software", 
+            "job_title": "BMC Software Sr Presales Software Consultant - ITSM Midwest"
+        }, 
+        {
+            "website": "www.affinityexpress.com", 
+            "image_link": "https://media.glassdoor.com/sqll/268516/affinity-express-squarelogo.png", 
+            "overallRating": "2", 
+            "industry": "Advertising & Marketing", 
+            "numberOfRatings": "46", 
+            "snippet": "Aug 8, 2016 ... View Affinity Expresss job listing for a Database Developer in Illinois - and then \nsee company ... Senior Software Engineer salaries ($110k).", 
+            "link": "https://www.glassdoor.com/job-listing/database-developer-affinity-express-JV_KO0,18_KE19,35.htm?jl=1925256954", 
+            "company_name": "Affinity Express", 
+            "job_title": "Affinity Express Database Developer"
+        }, 
+        {
+            "website": "www.jobgiraffe.com", 
+            "image_link": "https://media.glassdoor.com/sqll/727911/jobgiraffe-squarelogo-1429544118603.png", 
+            "overallRating": "4.5", 
+            "industry": "Staffing & Outsourcing", 
+            "numberOfRatings": "18", 
+            "snippet": "Aug 12, 2016 ... View JobGiraffes job listing for a IT Developer in Illinois - and then see ... and \ntesting new Windows and other web-based software applications", 
+            "link": "https://www.glassdoor.com/job-listing/it-developer-jobgiraffe-JV_KO0,12_KE13,23.htm?jl=1906991424", 
+            "company_name": "JobGiraffe", 
+            "job_title": "JobGiraffe IT Developer"
+        }
+    ], 
+    "date": "2016-08-21"
+}

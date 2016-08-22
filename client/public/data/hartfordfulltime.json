@@ -1,0 +1,116 @@
+{
+    "count": 10, 
+    "items": [
+        {
+            "website": "www.thehartford.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4314/the-hartford-squarelogo-1444668367018.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1135", 
+            "snippet": "We seek a highly motivated software application developer to join our Digital \nteam. This Enterprise team supports and builds applications leveraging The\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-wcm-developer-the-hartford-JV_IC1148399_KO0,16_KE17,29.htm?jl=1859966983", 
+            "company_name": "The Hartford", 
+            "job_title": "The Hartford Sr. WCM Developer"
+        }, 
+        {
+            "website": "www.thehartford.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4314/the-hartford-squarelogo-1444668367018.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1135", 
+            "snippet": "View The Hartfords job listing for a Business Intelligence MSBI Developer in \nHartford, ... SAS and SQL software technologies, and broad knowledge of \nsystems.", 
+            "link": "https://www.glassdoor.com/job-listing/business-intelligence-msbi-developer-the-hartford-JV_IC1148399_KO0,36_KE37,49.htm?jl=1871211190", 
+            "company_name": "The Hartford", 
+            "job_title": "The Hartford Business Intelligence MSBI Developer"
+        }, 
+        {
+            "website": "www.thehartford.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4314/the-hartford-squarelogo-1444668367018.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1135", 
+            "snippet": "View The Hartfords job listing for a Sr Developer in Windsor, CT - and then ... for \ninvest and maintenance projects through the software development life cycle,\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-developer-the-hartford-JV_IC1148450_KO0,12_KE13,25.htm?jl=1848783222", 
+            "company_name": "The Hartford", 
+            "job_title": "The Hartford Sr Developer"
+        }, 
+        {
+            "website": "www.thehartford.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4314/the-hartford-squarelogo-1444668367018.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1135", 
+            "snippet": "Aug 9, 2016 ... View The Hartfords job listing for a Developer in United States - and then ... host \nbased, distributed systems, client server), software, hardware,\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/developer-the-hartford-JV_KO0,9_KE10,22.htm?jl=1888747126", 
+            "company_name": "The Hartford", 
+            "job_title": "The Hartford Developer"
+        }, 
+        {
+            "website": "www.thehartford.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4314/the-hartford-squarelogo-1444668367018.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1135", 
+            "snippet": "View The Hartfords job listing for a Java Developer in Windsor, CT - and then see \ncompany reviews, ... Develop code that conforms to The Hartford coding \nstandards and industry best practices .... Senior Software Engineer salaries (\n$110k).", 
+            "link": "https://www.glassdoor.com/job-listing/java-developer-the-hartford-JV_IC1148450_KO0,14_KE15,27.htm?jl=1767563932", 
+            "company_name": "The Hartford", 
+            "job_title": "The Hartford Java Developer"
+        }, 
+        {
+            "website": "www.thehartford.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4314/the-hartford-squarelogo-1444668367018.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1135", 
+            "snippet": "View The Hartfords job listing for a Ratabase Developer in Windsor, CT - and \nthen ... This position requires an individual who has software development skills,\n\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/ratabase-developer-the-hartford-JV_IC1148450_KO0,18_KE19,31.htm?jl=1880911428", 
+            "company_name": "The Hartford", 
+            "job_title": "The Hartford Ratabase Developer"
+        }, 
+        {
+            "website": "www.thehartford.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4314/the-hartford-squarelogo-1444668367018.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1135", 
+            "snippet": "View The Hartfords job listing for a RPA Developer in Windsor, CT - and then see \n... This position requires an individual that has software development skills,\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/rpa-developer-the-hartford-JV_IC1148450_KO0,13_KE14,26.htm?jl=1865987998", 
+            "company_name": "The Hartford", 
+            "job_title": "The Hartford RPA Developer"
+        }, 
+        {
+            "website": "www.thehartford.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4314/the-hartford-squarelogo-1444668367018.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1135", 
+            "snippet": "View The Hartfords job listing for a Technical Lead / Sr Developer in Hartford, CT \n... analysis and design, integration, and software development methodologies.", 
+            "link": "https://www.glassdoor.com/job-listing/technical-lead-sr-developer-the-hartford-JV_IC1148399_KO0,27_KE28,40.htm?jl=1803671112", 
+            "company_name": "The Hartford", 
+            "job_title": "The Hartford Technical Lead / Sr Developer"
+        }, 
+        {
+            "website": "www.hartfordhealthcare.org", 
+            "image_link": "https://media.glassdoor.com/sqll/19241/hartford-health-care-squarelogo.png", 
+            "overallRating": "2.7", 
+            "industry": "Health Care Services & Hospitals", 
+            "numberOfRatings": "34", 
+            "snippet": "View Hartford Health Cares job listing for a Jr. ETL/BI Developer in Farmington, \nNM - and then see company reviews, salaries, and more posted anonymously by\n\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/jr-etl-bi-developer-hartford-health-care-JV_IC1148415_KO0,19_KE20,40.htm?jl=1806621853", 
+            "company_name": "Hartford Health Care", 
+            "job_title": "Hartford Health Care Jr. ETL/BI Developer"
+        }, 
+        {
+            "website": "www.thehartford.com", 
+            "image_link": "https://media.glassdoor.com/sqll/4314/the-hartford-squarelogo-1444668367018.png", 
+            "overallRating": "3.3", 
+            "industry": "Insurance Carriers", 
+            "numberOfRatings": "1135", 
+            "snippet": "View The Hartfords job listing for a Sr. Mobile Developer/ Tech Lead in Hartford, \nCT - and then see company reviews, salaries, and more posted anonymously by\n\u00a0...", 
+            "link": "https://www.glassdoor.com/job-listing/sr-mobile-developer-tech-lead-the-hartford-JV_IC1148399_KO0,29_KE30,42.htm?jl=1870474179", 
+            "company_name": "The Hartford", 
+            "job_title": "The Hartford Sr. Mobile Developer/ Tech Lead"
+        }
+    ], 
+    "date": "2016-08-21"
+}
