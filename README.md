@@ -1,8 +1,6 @@
 # Overview
 SimpleHire is a development job listings site utilizing Google's advanced search operators that integrates data from Glassdoor.
 
-*Link*: http://simplehire.me/
-
 ## Getting Started
 Client Side:
 ```bash
@@ -29,3 +27,5 @@ Node.js, Express, AngularJS, Foundation, jQuery, slick, [MongoDB, Glassdoor API]
 ![Alt text](/screenshots/screenshot2.png "screenshot2")
 
 ![Alt text](/screenshots/screenshot3.png "screenshot3")
+
+![Alt text](/screenshots/screenshot4.png "screenshot4")
